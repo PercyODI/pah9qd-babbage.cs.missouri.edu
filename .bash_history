@@ -1,0 +1,10562 @@
+#1409684761
+ls
+#1409684793
+mkdir fall2014
+#1409684796
+ls
+#1409684831
+cd fall2014
+#1409684845
+pwd
+#1409684887
+mkdir cs1050
+#1409684889
+ls
+#1409684894
+cd cs1050
+#1409684903
+mkdir lab1
+#1409684905
+cd lab1
+#1409684930
+cd..
+#1409684931
+cd ..
+#1409684942
+cd ~
+#1409684947
+pwd
+#1409684955
+ls
+#1409684970
+cd fall2014
+#1409684972
+ls
+#1409684977
+cd cs1050
+#1409684979
+ls
+#1409684981
+cd lab1
+#1409685274
+vim test.txt
+#1409685340
+ls
+#1409685346
+vim text.txt
+#1409685367
+vim test.txt
+#1409685421
+ls
+#1409685453
+vim helloworld.c
+#1409685498
+ls
+#1409685514
+gcc helloworld.c
+#1409685521
+ls
+#1409685584
+./a.out
+#1409685679
+vim lab1.c
+#1409685878
+ls
+#1409685883
+gcc lab1.c
+#1409685902
+vim lab1. c
+#1409685912
+vim lab1.c
+#1409685944
+gcc lab1.c
+#1409685951
+vim lab1.c
+#1409685984
+gcc lab1.c
+#1409686015
+vim lab1.c
+#1409686049
+gcc lab1.c
+#1409686051
+ls
+#1409686068
+./a.out
+#1409686119
+vim lab1.c
+#1409686190
+gcc lab1.c
+#1409686193
+./a.out
+#1409686211
+vim lab1.c
+#1409686329
+gcc lab1.c
+#1409686331
+./a.out
+#1409686761
+vim lab1.c
+#1409687809
+ls
+#1409687815
+gcc lab1.c
+#1409687819
+ls
+#1409687824
+./a.out
+#1409687859
+vim lab1.c
+#1409688045
+gcc lab1.c
+#1409688049
+./a.out
+#1409705861
+ls
+#1409705866
+cd fall2014
+#1409705868
+ls
+#1409705873
+cd cs1050
+#1409705874
+ls
+#1409705889
+cd lab1
+#1409705892
+ls
+#1409705901
+./a.out
+#1409706837
+cd ..
+#1409707189
+mkdir personalTests
+#1409707193
+cd personalTests
+#1409707203
+mkdir theHardWay
+#1409707207
+cd theHardWay
+#1409707261
+vim ex1.c
+#1409707307
+dir
+#1409707310
+ls
+#1409707324
+make ex1
+#1409707326
+dir
+#1409707341
+./ex1
+#1409707863
+cd ..
+#1409707877
+mkdir bookExamples
+#1409707883
+cd bookExamples
+#1409707910
+vim fig02_13.c
+#1409708493
+dir
+#1409708503
+gcc fig02_13.c
+#1409708504
+dir
+#1409708517
+./a.out
+#1409708766
+vim fig02_13.c
+#1409708842
+./a.out
+#1409709440
+vim ex2_19.c
+#1409710611
+gcc ex2_19.c
+#1409710627
+vim ex2_19.c
+#1409710686
+gcc ex2_19.c
+#1409710698
+./a.out
+#1409710877
+vim ex2_19.c
+#1409711206
+gcc ex2_19.c
+#1409711214
+vim ex2_19.c
+#1409711231
+gcc ex2_19.c
+#1409711235
+./a.out
+#1409711272
+vim ex2_19.c
+#1409711326
+gcc ex2_19.c
+#1409711327
+./a.out
+#1409711358
+vim ex2_19.c
+#1409711372
+gcc ex2_19.c
+#1409711374
+./a.out
+#1409794386
+ls
+#1409794395
+public_html
+#1409794402
+./public_html
+#1409794409
+cd public_html
+#1409794412
+dir
+#1409794413
+ls
+#1409794418
+cd ..
+#1409794422
+cd fall2014
+#1409794425
+dir
+#1409794430
+cd personalTests
+#1409794432
+dir
+#1409794847
+cd bookExamples
+#1409794849
+dir
+#1409794947
+vim ex2_20
+#1409794957
+dir
+#1409795042
+mv ex2_20 ex2_20.c
+#1409795043
+dir
+#1409795049
+vim ex2_20.c
+#1409795874
+gcc ex2_20.c
+#1409795885
+./a.out
+#1409795955
+vim ex2_20.c
+#1409796031
+gcc ex2_20.c
+#1409796037
+./a.out
+#1409796282
+vim ex2_21.c
+#1409796894
+dir
+#1409796906
+gcc ex2_21.c
+#1409796925
+vim ex2_21.c
+#1409796953
+gcc ex2_21.c
+#1409796963
+./a.out
+#1409796981
+vim ex2_21.c
+#1409797037
+gcc ex2_21.c
+#1409797041
+./a.out
+#1409797056
+vim ex2_21.c
+#1409797117
+gcc ex2_21.c
+#1409797119
+./a.out
+#1409797184
+vim ex2_21.c
+#1409798172
+gcc ex2_21.c
+#1409798189
+./a.out
+#1409798234
+vim ex2_21.c
+#1409798264
+dir
+#1409798274
+vim ex2_21.c
+#1409798316
+rm ex2_21.swp
+#1409798322
+vim ex2_21.c
+#1409798366
+rm .ex2_21.swp
+#1409798372
+vim ex2_21.c
+#1409798385
+rm .ex2_21.c.swp
+#1409798389
+vim ex2_21.c
+#1409798424
+exit
+#1409798430
+logout
+#1409861910
+ls
+#1409862007
+cd fall2014
+#1409862010
+ls
+#1409862018
+cd personaltests
+#1409862033
+cd personalTests
+#1409862035
+dir
+#1409862051
+cd bookExamples
+#1409862052
+ls
+#1409862067
+./a.out
+#1409862110
+clear
+#1410139869
+dir
+#1410139875
+cd fall2014
+#1410139876
+dir
+#1410139881
+cd personalTests
+#1410139883
+dir
+#1410139892
+mkdir preLab
+#1410139893
+dir
+#1410139897
+cd preLab
+#1410139971
+vim preLab2
+#1410139993
+cd ..
+#1410139996
+dir
+#1410139999
+cd cs1050
+#1410140001
+dir
+#1410140005
+cd lab1
+#1410140006
+dir
+#1410140016
+vim lab1.c
+#1410140061
+cd ....
+#1410140063
+cd .. ..
+#1410140067
+dir 
+#1410140071
+cd ..
+#1410140072
+dir
+#1410140081
+cd personalTests/preLab
+#1410140082
+dir
+#1410140089
+cd preLab2
+#1410140131
+cp preLab2 preLab2.c
+#1410140133
+dir
+#1410140147
+rm preLab2
+#1410140148
+dir
+#1410140152
+vim preLb2.c
+#1410140697
+gcc preLb2.c
+#1410140710
+./a.out
+#1410140769
+vim preLb2.c
+#1410140807
+gcc preLb2.c
+#1410140809
+./a.out
+#1410144377
+logout
+#1410206238
+dir
+#1410206241
+cd fall2014
+#1410206241
+dir
+#1410206247
+cd cs1050
+#1410206247
+dir
+#1410206253
+mkdir lab2
+#1410206256
+cd lab1
+#1410206257
+dir
+#1410206262
+cd ..
+#1410206264
+cd lab2
+#1410206268
+vim lab2.c
+#1410206488
+ls
+#1410206866
+vim inLab.c
+#1410206998
+dir
+#1410207003
+vim inLab.c
+#1410207155
+gcc inLab.c
+#1410207160
+./a.out
+#1410207215
+vim inLab.c
+#1410207309
+gcc inLab.c
+#1410207315
+vim inLab.c
+#1410207341
+gcc inLab.c
+#1410207350
+vim inLab.c
+#1410207370
+gcc inLab.c -lm
+#1410207386
+./a.out
+#1410207412
+vim inLab.c
+#1410208134
+dir
+#1410208136
+vim lab2.c
+#1410208811
+gcc lab2.c -lm
+#1410208822
+vim lab2.c
+#1410209035
+gcc lab2.c -lm
+#1410209040
+vim lab2.c
+#1410209115
+gcc lab2.c -lm
+#1410209122
+vim lab2.c
+#1410209232
+gcc lab2.c -lm
+#1410209236
+vim lab2.c
+#1410209253
+gcc lab2.c -lm
+#1410209257
+vim lab2.c
+#1410209348
+gcc lab2.c -lm
+#1410209354
+vim lab2.c
+#1410209374
+gcc lab2.c -lm
+#1410209379
+./a.out
+#1410209393
+vim lab2.c
+#1410209416
+gcc lab2.c -lm
+#1410209419
+./a.out
+#1410209433
+vim lab2.c
+#1410209472
+gcc lab2.c -lm
+#1410209474
+./a.out
+#1410209513
+vim lab2.c
+#1410209985
+cd ~
+#1410209988
+vim .vimrc
+#1410210014
+cd fall2014/
+#1410210015
+ls
+#1410210017
+cd cs1050/
+#1410210017
+ls
+#1410210019
+cd lab2/
+#1410210020
+ls
+#1410210022
+vim lab2.c 
+#1410210038
+vim .lab2.swp
+#1410210042
+rm .lab2.swp
+#1410210049
+rm .lab2.c.swp
+#1410210051
+vim lab2.c 
+#1410210887
+gcc lab2.c -lm
+#1410210901
+vim lab2.c 
+#1410210934
+gcc lab2.c -lm
+#1410210939
+vim lab2.c 
+#1410210994
+gcc lab2.c -lm
+#1410210999
+./a.out
+#1410211022
+vim lab2.c 
+#1410211108
+gcc lab2.c -lm
+#1410211110
+./a.out
+#1410211161
+vim lab2.c 
+#1410211192
+gcc lab2.c -lm
+#1410211194
+./a.out
+#1410211225
+vim lab2.c 
+#1410211268
+gcc lab2.c -lm
+#1410211272
+vim lab2.c 
+#1410211286
+gcc lab2.c -lm
+#1410211289
+./a.out
+#1410211364
+vim lab2.c 
+#1410211374
+gcc lab2.c -lm
+#1410211376
+./a.out
+#1410211437
+vim lab2.c 
+#1410211725
+gcc lab2.c -lm
+#1410211728
+./a.out
+#1410211780
+vim lab2.c 
+#1410212407
+gcc lab2.c -lm
+#1410212410
+./a.out
+#1410212463
+vim lab2.c 
+#1410212478
+gcc lab2.c -lm
+#1410212480
+./a.out
+#1410212519
+vim lab2.c 
+#1410212546
+gcc lab2.c -lm
+#1410212547
+./a.out
+#1410212687
+cs_submit CS1050_LAB-D LAB2 lab2.c
+#1410212694
+dir
+#1410212717
+gcc lab2.c -lm
+#1410212727
+exit
+#1410212731
+logout
+#1410472116
+dir
+#1410472118
+cd fall2014
+#1410472119
+di
+#1410472119
+dir
+#1410472123
+cd cs1050
+#1410472124
+dir
+#1410472129
+cd ..
+#1410472132
+cd personTests
+#1410472135
+dir
+#1410472140
+cd personalTests
+#1410472140
+dir
+#1410472143
+cd preLasb
+#1410472146
+cd preLab
+#1410472146
+dir
+#1410472157
+mkdir preLab2
+#1410472161
+mkdir preLab3
+#1410472166
+mv
+#1410472176
+mv a.out preLab2
+#1410472177
+dir
+#1410472181
+cd preLab2
+#1410472182
+dir
+#1410472184
+cd ..
+#1410472194
+mv preLab2.c preLab2
+#1410472207
+mv preLb2.c preLab2
+#1410472207
+dir]
+#1410472209
+dir
+#1410472213
+cd preLab3
+#1410472220
+vim preLab3.c
+#1410472830
+gcc preLab3.c -g -Wall
+#1410472844
+vim preLab3.c
+#1410472861
+gcc preLab3.c -g -Wall
+#1410472867
+./a.out
+#1410472883
+vim preLab3.c
+#1410472897
+gcc preLab3.c -g -Wall
+#1410472899
+./a.out
+#1410472916
+vim preLab3.c
+#1410472976
+gcc preLab3.c -g -Wall
+#1410472978
+./a.out
+#1410473414
+ir
+#1410473415
+dir
+#1410473418
+cd ..
+#1410473418
+dir
+#1410473420
+cd ..
+#1410473421
+dir
+#1410473443
+mkdir coolIdeas
+#1410473447
+cd coolIdeas
+#1410473460
+mkdir grascaleImage
+#1410473474
+vim grayscaleImage.c
+#1410474224
+gcc grayscaleImage.c
+#1410474247
+gcc grayscaleImage.c -lm
+#1410474260
+gcc grayscaleImage.c -lm -std=c99
+#1410474267
+dir
+#1410474270
+./a.out
+#1410474428
+vim grayscaleImage.c
+#1410474491
+dir
+#1410474504
+cd ..
+#1410474504
+dir
+#1410474563
+logout
+#1410811030
+cd cs1050/lab3
+#1410811037
+cd ../cs1050/lab3
+#1410811038
+dir
+#1410811045
+cd fall2014/cs1050/lab3
+#1410811045
+dir
+#1410811077
+cd ..
+#1410811080
+cd lab2
+#1410811081
+dir
+#1410811087
+vim lab2.c
+#1410811182
+logout
+#1410812464
+cd fall2014/cs1050/lab2
+#1410812465
+dir
+#1410812469
+vim lab2.c
+#1410810854
+dir
+#1410810856
+cd fall2014
+#1410810858
+did
+#1410810860
+dir
+#1410810863
+cd cs1050
+#1410810864
+dir
+#1410810870
+mkdir lab3
+#1410810873
+cd lab3
+#1410810874
+dir
+#1410810879
+cd ..
+#1410810881
+cd lab2
+#1410810881
+dir
+#1410810886
+cd ..
+#1410810894
+vim inLab.c
+#1410810902
+vim lab3.c
+#1410811055
+dir
+#1410811064
+mv lab3.c lab3
+#1410811070
+mv inLab.c lab3
+#1410811071
+dir
+#1410811093
+cd lab3
+#1410811097
+vim lab3.c
+#1410811436
+vim inLab.c
+#1410811639
+gcc inLab.c
+#1410811642
+vim inLab.c
+#1410811659
+gcc inLab.c
+#1410811663
+./a.out
+#1410811669
+vim inLab.c
+#1410811692
+gcc inLab.c
+#1410811694
+./a.out
+#1410811711
+vim inLab.c
+#1410812084
+clear
+#1410812301
+vim lab3.c
+#1410812501
+cd ..
+#1410812502
+dir
+#1410812504
+cd lab2
+#1410812505
+dir
+#1410812510
+vim lab2.c
+#1410812538
+rm lab2.c.swf
+#1410812544
+rm .lab2.c.swf
+#1410812547
+vim lab2.c
+#1410812568
+rm .lab2.c.swp
+#1410812571
+vim lab2.c
+#1410812585
+cd ..
+#1410812589
+cd lab3
+#1410812592
+vim lab3.c
+#1410812604
+rm .lab3.c.swp
+#1410812606
+vim lab3.c
+#1410812627
+cd ..
+#1410812633
+cd lab2
+#1410812638
+vim lab2.c
+#1410812650
+cd ..
+#1410812653
+cd lab3
+#1410812655
+vim lab3.c
+#1410812666
+rm .lab3.c.swp
+#1410812668
+vim lab3.c
+#1410812721
+rm lab3.c
+#1410812723
+cd ..
+#1410812726
+cd lab2
+#1410812761
+mv lab2.c fall2014/cs1050/lab3/lab2.c
+#1410812767
+cd ..
+#1410812771
+dir
+#1410812808
+cd fall2014/cs1050/lab2
+#1410812809
+dir
+#1410812813
+mc
+#1410812815
+help mv
+#1410812851
+cp lab2.c ~/fall2014/cs1050/lab3
+#1410812853
+dir
+#1410812854
+cd ..
+#1410812858
+cd lab3
+#1410812860
+dir
+#1410812869
+mv lab2.c lab3.c
+#1410812870
+dir
+#1410812872
+vim lab3.c
+#1410813357
+gcc lab3.c -lm
+#1410813361
+vim lab3.c
+#1410813373
+gcc lab3.c -lm
+#1410813377
+./a.out
+#1410813421
+vim lab3.c
+#1410813644
+gcc lab3.c -lm
+#1410813646
+./a.out
+#1410813659
+vim lab3.c
+#1410813688
+gcc lab3.c -lm
+#1410813690
+./a.out
+#1410813741
+vim lab3.c
+#1410814357
+gcc lab3.c -lm
+#1410814367
+vim lab3.c
+#1410814377
+gcc lab3.c -lm
+#1410814381
+./a.out
+#1410814396
+vim lab3.c
+#1410814466
+gcc lab3.c -lm
+#1410814468
+./a.out
+#1410814500
+vim lab3.c
+#1410814885
+gcc lab3.c -lm
+#1410814889
+./a.out
+#1410814982
+vim lab3.c
+#1410814991
+./a.out
+#1410815046
+vim lab3.c
+#1410815070
+gcc lab3.c -lm
+#1410815072
+./a.out
+#1410815135
+vim lab3.c
+#1410815452
+gcc lab3.c -lm
+#1410815454
+./a.out
+#1410815580
+dir
+#1410815584
+vim lab3.c
+#1410815618
+cs_submit CS1050_LAB-D LAB3 lab3.c
+#1410815642
+logout
+#1410822643
+cd fall2014/cs1050/
+#1410822644
+dir
+#1410822646
+cd ..
+#1410822647
+dir
+#1410822650
+cd personalTests
+#1410822651
+dir
+#1410822656
+cd preLab
+#1410822657
+dir
+#1410822661
+cd preLab3
+#1410822662
+dir
+#1410822665
+vim preLab3.c
+#1410822704
+gcc preLab3.c
+#1410822708
+./a.out
+#1410822720
+clear
+#1410832913
+cd fall2014/cs1050
+#1410832914
+dir
+#1410832926
+mkdir homework1
+#1410832930
+cd homework1
+#1410832984
+vim hw1.c
+#1410833909
+gcc hw1.c
+#1410833913
+/.a.out
+#1410833918
+./a.out
+#1410833973
+vim hw1.c
+#1410834415
+gcc hw1.c
+#1410834417
+./a.out
+#1410834433
+vim hw1.c
+#1410835367
+gcc hw1.c
+#1410835369
+./a.out
+#1410835390
+vim hw1.c
+#1410835421
+logout
+#1410896098
+cd fall2014/cs1050/
+#1410896098
+dir
+#1410896101
+cd homework1
+#1410896106
+ls
+#1410896109
+dir
+#1410896110
+ls
+#1410896115
+vim hw1.c
+#1410897719
+gcc hw1.c
+#1410897734
+vim hw1.c
+#1410897774
+gcc hw1.c
+#1410897780
+vim hw1.c
+#1410897791
+gcc hw1.c
+#1410897796
+./a.out
+#1410897826
+gcc hw1.c
+#1410897829
+vim hw1.c
+#1410897879
+gcc hw1.c
+#1410897882
+./a.out
+#1410897894
+./a.out.
+#1410897897
+./a.out
+#1410897917
+vim hw1.c
+#1410897930
+gcc hw1.c
+#1410897931
+./a.out
+#1410897965
+vim hw1.c
+#1410897986
+gcc hw1.c
+#1410897988
+./a.out
+#1410898071
+vim hw1.c
+#1410898245
+gcc hw1.c
+#1410898246
+./a.out
+#1410898274
+vim hw1.c
+#1410898285
+logout
+#1410921796
+cd fall2014/cs1050/homework
+#1410921801
+cd fall2014/cs1050
+#1410921803
+ls
+#1410921809
+cd homework1
+#1410921810
+ls
+#1410921896
+./a.out
+#1410921963
+gcc homework1.c
+#1410921965
+ls
+#1410921969
+gcc hw1.c
+#1410921974
+./a.out
+#1410922028
+vim hw1.c
+#1410922084
+gcc hw1.c
+#1410922087
+./a.out
+#1410922281
+vim hw1.c
+#1410922410
+gcc hw1.c
+#1410922413
+./a.out
+#1410922489
+vim hw1.c
+#1410922852
+gcc hw1.c
+#1410922861
+vim hw1.c
+#1410922880
+gcc hw1.c
+#1410922884
+vim hw1.c
+#1410922897
+gcc hw1.c
+#1410922901
+./a.out
+#1410923032
+vim hw1.c
+#1410923356
+gcc hw1.c
+#1410923368
+vim hw1.c
+#1410923389
+gcc hw1.c
+#1410923396
+vim hw1.c
+#1410923408
+gcc hw1.c
+#1410923419
+vim hw1.c
+#1410923432
+gcc hw1.c
+#1410923438
+./a.out
+#1410923491
+vim hw1.c
+#1410923677
+gcc hw1.c
+#1410923678
+./a.out
+#1410923792
+vim hw1.c
+#1410924054
+logout
+#1411065262
+cd fall2014/cs1050/homework/homework1
+#1411065266
+cd fall2014/cs1050/homework
+#1411065269
+cd fall2014/cs1050/homework1
+#1411065271
+ls
+#1411065278
+./a.out
+#1411065631
+vim hw1.c
+#1411066048
+gcc hw1.c
+#1411066053
+vim hw1.c
+#1411066079
+gcc hw1.c
+#1411066083
+./a.out
+#1411066126
+vim hw1.c
+#1411066207
+gcc hw1.c
+#1411066209
+./a.out
+#1411066247
+vim hw1.c
+#1411067926
+cd ..
+#1411067929
+ls
+#1411067932
+cd ..
+#1411067933
+dir
+#1411067938
+cd personalTests
+#1411067939
+ls
+#1411067960
+cd coolIdeas
+#1411067964
+ls
+#1411067978
+mkdir recursionDerive
+#1411067983
+cd recursionDerive
+#1411067992
+vim reDerive.c
+#1411068759
+gcc reDerive.c
+#1411068766
+vim reDerive.c
+#1411068781
+gcc reDerive.c
+#1411068787
+vim reDerive.c
+#1411068796
+gcc reDerive.c
+#1411068801
+./a.out
+#1411068832
+vim reDerive.c
+#1411068867
+gcc reDerive.c
+#1411068868
+./a.out
+#1411068904
+vim reDerive.c
+#1411068921
+gcc reDerive.c
+#1411068923
+./a.out
+#1411068956
+vim reDerive.c
+#1411069507
+gcc reDerive.c
+#1411069511
+vim reDerive.c
+#1411069534
+gcc reDerive.c
+#1411069536
+./a.out
+#1411069546
+vim reDerive.c
+#1411069566
+gcc reDerive.c
+#1411069567
+./a.out
+#1411069574
+vim reDerive.c
+#1411069688
+gcc reDerive.c
+#1411069689
+./a.out
+#1411069693
+vim reDerive.c
+#1411069747
+rm .reDerive.c.swp
+#1411069751
+vim reDerive.c
+#1411069777
+gcc reDerive.c
+#1411069779
+./a.out
+#1411069792
+vim reDerive.c
+#1411069804
+gcc reDerive.c
+#1411069806
+./a.out
+#1411069980
+vim reDerive.c
+#1411070021
+gcc reDerive.c
+#1411070033
+vim reDerive.c
+#1411070041
+gcc reDerive.c
+#1411070076
+vim reDerive.c
+#1411070117
+gcc reDerive.c
+#1411070124
+vim reDerive.c
+#1411070202
+gcc reDerive.c
+#1411070205
+vim reDerive.c
+#1411070307
+gcc reDerive.c
+#1411070314
+vim reDerive.c
+#1411070323
+gcc reDerive.c
+#1411070329
+vim reDerive.c
+#1411070342
+gcc reDerive.c
+#1411070357
+vim reDerive.c
+#1411070429
+gcc reDerive.c
+#1411070436
+vim reDerive.c
+#1411070451
+gcc reDerive.c
+#1411070465
+vim reDerive.c
+#1411070574
+gcc reDerive.c
+#1411070581
+./a.out
+#1411070586
+vim reDerive.c
+#1411070784
+gcc reDerive.c
+#1411070785
+./a.out
+#1411070789
+vim reDerive.c
+#1411070826
+logout
+#1411070829
+logoff
+#1411070832
+logout
+#1411411376
+ld
+#1411411378
+ls
+#1411411383
+cd fall2014/cs1050
+#1411411384
+ls
+#1411411390
+mkdir lab4
+#1411411392
+cd lab3
+#1411411393
+ls
+#1411411401
+cd ....
+#1411411403
+cd ...
+#1411411404
+cd ..
+#1411411409
+cd lab2
+#1411411409
+dir
+#1411411413
+ls
+#1411411415
+cd ..
+#1411411418
+ls
+#1411411422
+cd cs1050
+#1411411424
+ls
+#1411411427
+cd lab4
+#1411411431
+mkdir preLab4
+#1411411434
+cd preLab4
+#1411411441
+vim preLab4.c
+#1411412685
+gcc preLab4.c
+#1411412688
+ls
+#1411412693
+./a.out
+#1411412712
+vim preLab4.c
+#1411412746
+gcc preLab4.c
+#1411412748
+./a.out
+#1411412777
+vim preLab4.c
+#1411412859
+gcc preLab4.c
+#1411412862
+./a.out
+#1411412880
+vim preLab4.c
+#1411412891
+gcc preLab4.c
+#1411412893
+./a.out
+#1411412909
+vim preLab4.c
+#1411412933
+gcc preLab4.c
+#1411412934
+./a.out
+#1411412945
+vim preLab4.c
+#1411412975
+gcc preLab4.c
+#1411412976
+./a.out
+#1411412995
+vim preLab4.c
+#1411413005
+gcc preLab4.c
+#1411413006
+./a.out
+#1411413071
+ls
+#1411413073
+cd ..
+#1411413074
+dir
+#1411413075
+cd ..
+#1411413076
+ls
+#1411413081
+cd homework1
+#1411413082
+ls
+#1411413090
+vim hw1.c
+#1411413747
+gcc hw1.c
+#1411413752
+./a.out
+#1411413843
+vim hw1.c
+#1411413870
+./a.out
+#1411413893
+vim hw1.c
+#1411414214
+gcc hw1.c
+#1411414216
+./a.out
+#1411414262
+logout
+#1411415547
+cd fall2014/cs1050
+#1411415548
+dir
+#1411415550
+cd lab4
+#1411415551
+ls
+#1411415559
+mkdir lab4
+#1411415561
+cd lab4
+#1411415568
+cd ..
+#1411415571
+rm lab4
+#1411415607
+rm -r directory
+#1411415614
+rm -r lab4
+#1411415616
+ls
+#1411415628
+mkdir inLab4
+#1411415630
+cd inLab4
+#1411415637
+vim inLab4
+#1411415655
+vim lab4.c
+#1411415677
+mv lab4 lab4.c
+#1411415788
+ls
+#1411415795
+mv inLab4 inLab4.c
+#1411415796
+ls
+#1411416184
+vim inLab4.c
+#1411416650
+cd ..
+#1411416653
+cd lab3
+#1411416657
+vim lab3.c
+#1411416668
+cd ..
+#1411416675
+cd lab4
+#1411416678
+cd inLab4
+#1411416683
+vim lab4.c
+#1411416752
+vim inLab4.c
+#1411416814
+vim lab4.c
+#1411418993
+gcc lab4.c
+#1411418999
+vim lab4.c
+#1411419071
+gcc lab4.c
+#1411419074
+vim lab4.c
+#1411419187
+gcc lab4.c
+#1411419210
+vim lab4.c
+#1411419334
+gcc lab4.c
+#1411419338
+vim lab4.c
+#1411419363
+gcc lab4.c
+#1411419367
+./a.out
+#1411419383
+vim lab4.c
+#1411419410
+gcc lab4.c
+#1411419411
+./a.out
+#1411419420
+vim lab4.c
+#1411419447
+gcc lab4.c
+#1411419448
+./a.out
+#1411419479
+vim lab4.c
+#1411419495
+gcc lab4.c
+#1411419496
+./a.out
+#1411419526
+vim lab4.c
+#1411419574
+gcc lab4.c
+#1411419576
+./a.out
+#1411419596
+vim lab4.c
+#1411419638
+gcc lab4.c
+#1411419640
+./a.out
+#1411419662
+vim lab4.c
+#1411419779
+gcc lab4.c
+#1411419790
+./a.out
+#1411419813
+vim lab4.c
+#1411420062
+gcc lab4.c
+#1411420064
+vim lab4.c
+#1411420068
+gcc lab4.c
+#1411420070
+./a.out
+#1411420098
+vim lab4.c
+#1411420126
+gcc lab4.c
+#1411420128
+./a.out
+#1411420150
+vim lab4.c
+#1411420184
+gcc lab4.c
+#1411420185
+./a.out
+#1411420198
+vim lab4.c
+#1411420237
+gcc lab4.c
+#1411420238
+./a.out
+#1411420245
+vim lab4.c
+#1411420274
+gcc lab4.c
+#1411420276
+./a.out
+#1411420330
+vim lab4.c
+#1411420398
+gcc lab4.c
+#1411420399
+./a.out
+#1411420419
+vim lab4.c
+#1411420620
+gcc lab4.c
+#1411420621
+./a.out
+#1411420641
+vim lab4.c
+#1411420686
+gcc lab4.c
+#1411420688
+./a.out
+#1411420738
+vim lab4.c
+#1411420786
+gcc lab4.c
+#1411420788
+./a.out
+#1411420826
+vim lab4.c
+#1411420846
+gcc lab4.c
+#1411420848
+./a.out
+#1411420926
+vim lab4.c
+#1411421221
+gcc lab4.c
+#1411421222
+./a.out
+#1411421301
+vim lab4.c
+#1411421630
+gcc lab4.c
+#1411421632
+./a.out
+#1411421678
+vim lab4.c
+#1411421835
+gcc lab4.c
+#1411421836
+./a.out
+#1411421880
+vim lab4.c
+#1411421919
+gcc lab4.c
+#1411421920
+./a.out
+#1411421954
+vim lab4.c
+#1411421966
+gcc lab4.c
+#1411421968
+./a.out
+#1411422067
+vim lab4.c
+#1411422121
+gcc lab4.c
+#1411422122
+./a.out
+#1411422235
+vim lab4.c
+#1411422498
+gcc lab4.c
+#1411422502
+./a.out
+#1411422606
+ls
+#1411422615
+gcc lab4.c
+#1411422630
+cs_submit CS1050_LAB-D LAB4 lab4.c
+#1411422682
+logout
+#1411513406
+ls
+#1411513414
+cd fall2014/cs1050
+#1411513525
+ls
+#1411513530
+cd homework1
+#1411513532
+ls
+#1411513557
+vim hw1.c
+#1411527491
+cd fall2014/cs1050/homework1
+#1411527493
+ls
+#1411527496
+./a.out
+#1411527544
+gcc hw1.c
+#1411527546
+./a.out
+#1411527664
+vim hw1.c
+#1411527789
+gcc hw1.c
+#1411527793
+./a.out
+#1411527897
+cs_submit CS1050_HW-D HW-1 hw1.c
+#1411527940
+logout
+#1412116372
+ls
+#1412116378
+cd fall2014/cs1050
+#1412116378
+ls
+#1412116389
+cd ..
+#1412116389
+ls
+#1412116392
+cd personalTests
+#1412116394
+ls
+#1412116402
+cd bookExamples
+#1412116405
+ls
+#1412116431
+mkdir recursiveTests
+#1412116441
+cd recursiveTests
+#1412116451
+vim fibinacci.c
+#1412116853
+rn fibinacci.c fibonacci.c
+#1412116879
+mv fibinacci.c fibonacci.c
+#1412116884
+gcc fibonacci.c
+#1412116889
+./a.out
+#1412116943
+vim fibonacci.c
+#1412117327
+gcc fibonacci.c
+#1412117329
+./a.out
+#1412117378
+vim fibonacci.c
+#1412117610
+gcc fibonacci.c
+#1412117616
+vim fibonacci.c
+#1412117637
+gcc fibonacci.c
+#1412117640
+./a.out
+#1412118211
+ls
+#1412118212
+cd ..
+#1412118214
+cd
+#1412118214
+ls
+#1412118226
+cd fall2014
+#1412118227
+ls
+#1412118230
+cd personalTests
+#1412118231
+ls
+#1412118235
+cd bookExamples
+#1412118236
+ls
+#1412118254
+vim ex5.20.c
+#1412118817
+gcc ex5.20.c
+#1412118825
+vim ex5.20.c
+#1412118844
+gcc ex5.20.c
+#1412118854
+./a.out
+#1412118876
+vim ex5.20.c
+#1412119076
+gcc ex5.20.c
+#1412119078
+./a.out
+#1412119092
+vim ex5.20.c
+#1412119179
+gcc ex5.20.c
+#1412119181
+./a.out
+#1412119186
+vim ex5.20.c
+#1412119208
+gcc ex5.20.c
+#1412119210
+./a.out
+#1412119272
+vim ex5.20.c
+#1412119304
+gcc ex5.20.c
+#1412119306
+./a.out
+#1412119368
+vim ex5.20.c
+#1412119597
+gcc ex5.20.c
+#1412119598
+./a.out
+#1412119601
+#
+#1412119649
+vim ex5.20.c
+#1412119945
+gcc ex5.20.c
+#1412119947
+./a.out
+#1412119962
+vim ex5.20.c
+#1412120003
+gcc ex5.20.c
+#1412120005
+./a.out
+#1412120016
+vim ex5.20.c
+#1412120150
+gcc ex5.20.c
+#1412120152
+./a.out
+#1412120165
+vim ex5.20.c
+#1412120184
+gcc ex5.20.c
+#1412120185
+./a.out
+#1412120192
+vim ex5.20.c
+#1412120223
+gcc ex5.20.c
+#1412120224
+./a.out
+#1412120238
+vim ex5.20.c
+#1412120248
+gcc ex5.20.c
+#1412120249
+./a.out
+#1412120294
+vim ex5.20.c
+#1412120335
+gcc ex5.20.c
+#1412120336
+./a.out
+#1412120341
+vim ex5.20.c
+#1412120372
+gcc ex5.20.c
+#1412120373
+./a.out
+#1412120412
+mv ex5.20.c ex5_20.c
+#1412120418
+gcc ex5_20.c
+#1412120425
+./a.out
+#1412120432
+vim ex5_20.c
+#1412120497
+gcc ex5_20.c
+#1412120499
+./a.out
+#1412120518
+vim ex5_20.c
+#1412120586
+gcc ex5_20.c
+#1412120588
+./a.out
+#1412120596
+vim ex5_20.c
+#1412120603
+gcc ex5_20.c
+#1412120604
+./a.out
+#1412120617
+vim ex5_20.c
+#1412120666
+gcc ex5_20.c
+#1412120668
+./a.out
+#1412120684
+vim ex5_20.c
+#1412120800
+gcc ex5_20.c
+#1412120820
+./a.out
+#1412557122
+ls
+#1412622849
+cd fall2014/cs1050
+#1412622849
+ls
+#1412622855
+mkdir lab5
+#1412622856
+cd lab5
+#1412622861
+mkdir preLab5
+#1412622865
+cd preLab5
+#1412622871
+vim preLab5.c
+#1412624401
+ls
+#1412624407
+gcc preLab5.c
+#1412624418
+vim preLab5.c
+#1412624445
+gcc preLab5.c
+#1412624447
+ls
+#1412624449
+./a.out
+#1412624484
+vim preLab5.c
+#1412624508
+gcc preLab5.c
+#1412624510
+./a.out
+#1412624527
+vim preLab5.c
+#1412624547
+gcc preLab5.c
+#1412624548
+./a.out
+#1412624569
+vim preLab5.c
+#1412624659
+gcc preLab5.c
+#1412624663
+vim preLab5.c
+#1412624675
+gcc preLab5.c
+#1412624677
+./a.out
+#1412624704
+vim preLab5.c
+#1412624735
+gcc preLab5.c
+#1412624739
+./a.out
+#1412625438
+logout
+#1412626085
+cd fall2014/cs1050/lab5
+#1412626086
+ls
+#1412626091
+mkdir lab5
+#1412626092
+cd lab5
+#1412626100
+cd ..
+#1412626103
+rm lab5
+#1412626130
+rmdir lab5
+#1412626131
+ls
+#1412626136
+mkdir inLab5
+#1412626140
+cd inLab5
+#1412626314
+vim lab5.c
+#1412626470
+ls
+#1412626536
+vim lab5.c
+#1412628526
+gcc lab5.c
+#1412628533
+vim lab5.c
+#1412628550
+gcc lab5.c
+#1412628553
+vim lab5.c
+#1412628566
+gcc lab5.c
+#1412628569
+ls
+#1412628571
+./a.out
+#1412628584
+vim lab5.c
+#1412628718
+ls
+#1412628720
+gcc lab5.c
+#1412628721
+./a.out
+#1412628735
+vim lab5.c
+#1412628772
+gcc lab5.c
+#1412628774
+./a.out
+#1412628796
+vim lab5.c
+#1412628878
+gcc lab5.c
+#1412628880
+./a.out
+#1412628897
+vim lab5.c
+#1412629016
+gcc lab5.c
+#1412629019
+./a.out
+#1412629032
+vim lab5.c
+#1412629079
+gcc lab5.c
+#1412629080
+./a.out
+#1412629089
+vim lab5.c
+#1412629114
+gcc lab5.c
+#1412629114
+./a.out
+#1412629139
+vim lab5.c
+#1412629241
+gcc lab5.c
+#1412629242
+./a.out
+#1412629274
+vim lab5.c
+#1412629836
+gcc lab5.c
+#1412629842
+vim lab5.c
+#1412629871
+gcc lab5.c
+#1412629873
+./a.out
+#1412629888
+vim lab5.c
+#1412629950
+gcc lab5.c
+#1412629951
+./a.out
+#1412629962
+vim lab5.c
+#1412629969
+gcc lab5.c
+#1412629970
+./a.out
+#1412630000
+vim lab5.c
+#1412630009
+gcc lab5.c
+#1412630011
+./a.out
+#1412630081
+vim lab5.c
+#1412630165
+gcc lab5.c
+#1412630167
+./a.out
+#1412630200
+vim lab5.c
+#1412630285
+gcc lab5.c
+#1412630287
+./a.out
+#1412630353
+vim lab5.c
+#1412630770
+gcc lab5.c
+#1412630771
+./a.out
+#1412630897
+vim lab5.c
+#1412630986
+gcc lab5.c
+#1412630988
+./a.out
+#1412631017
+ls
+#1412631068
+vim lab5.c
+#1412631100
+ls
+#1412631150
+cs_submit CS1050_LAB-D LAB5 lab5.c
+#1412631156
+vim lab5.c
+#1412631171
+logout
+#1412732016
+git help
+#1412732078
+git config --global user.name "PercyODI"
+#1412732098
+git config --global user.email "pearse.2008@gmail.com"
+#1412732115
+ls
+#1412732118
+cd /
+#1412732119
+ls
+#1412732132
+cd ~/.ssh
+#1412732141
+cd ~
+#1412732143
+ls
+#1412732145
+cd ..
+#1412732147
+cd
+#1412732149
+cd ..
+#1412732150
+ls
+#1412732156
+cd ..
+#1412732157
+ls
+#1412732159
+cd ..
+#1412732162
+ls
+#1412732164
+cd ..
+#1412732166
+ls
+#1412732174
+cd ~
+#1412732176
+ls
+#1412732189
+cd ~/.ssh
+#1412732201
+cd ..
+#1412732210
+ls
+#1412732214
+cd ~
+#1412732215
+ls
+#1412732217
+cd ..
+#1412732220
+ls
+#1412732226
+cd ~/.ssh
+#1412732229
+cd ..
+#1412732233
+cd ~/.ssh
+#1412732341
+cd /
+#1412732347
+cd ~/.ssh
+#1412732349
+cd ..
+#1412732351
+ls
+#1412732364
+whereis .ssh
+#1412732375
+cd /usr/bin/
+#1412732377
+ls
+#1412732388
+cd ~/.ssh
+#1412732397
+whereis .ssh
+#1412732407
+cd ~/.ssh.hmac
+#1412732440
+whereis id_rsa.pub
+#1412732452
+vim id_rsa.pub
+#1412732474
+cd ~
+#1412732476
+ls
+#1412732488
+public_html
+#1412732495
+./public_html
+#1412732500
+cd public_html
+#1412732501
+ls
+#1412732504
+cd ..
+#1412732507
+ssh help
+#1412732511
+help ssh
+#1412732515
+ssh --help
+#1412732556
+ssh -T git@github.com
+#1412732676
+ssh-add -l
+#1412732687
+ssh-agent -s
+#1412732703
+ssh-add -l
+#1412732727
+mkdir .ssh
+#1412732735
+cd .ssh
+#1412732737
+ls
+#1412732741
+cd
+#1412732741
+ls
+#1412732772
+ls -a
+#1412732860
+cd ~/.ssh
+#1412732881
+ssh-keygen -t rsa -C "pearse.2008@gmail.com"
+#1412732948
+ls
+#1412732964
+vim id_rsa.pub
+#1412733567
+ssh -T git@github.com
+#1412733739
+git
+#1412733747
+cd ~
+#1412733748
+ls
+#1412733751
+ls -a
+#1412733757
+cd .viminfo
+#1412733772
+cd ~/.viminfo
+#1412733782
+cd .ssh
+#1412733784
+cd ..
+#1412733788
+cd .viminfo
+#1412733796
+cd .vimrc
+#1412733805
+cd .cs_submit
+#1412733806
+ls
+#1412733823
+./CS1050_LAB-D.log
+#1412733834
+vim CS1050_LAB-D.log
+#1412733861
+cd ..
+#1412733862
+ls
+#1412734706
+cd fall2014
+#1412734709
+git init
+#1412734790
+git status
+#1412734812
+git add
+#1412734819
+git add .
+#1412734824
+git status
+#1412734873
+git commit -m "Adding all files currently in fall2014"
+#1412734929
+git push
+#1412735161
+git status
+#1412735331
+git remote add origin htps://github.com/PercyODI/CS1050.git
+#1412735358
+git remote -v
+#1412735388
+git push
+#1412735482
+git remote set-url origin https://github.com/PercyODI/CS1050.git
+#1412735486
+get remote -v
+#1412735491
+git remote -v
+#1412735496
+git push
+#1412735574
+git remote set-url origin git@github.com:PercyODI/CS1050.git
+#1412735577
+git remote -v
+#1412735582
+git push
+#1412735673
+git push --help
+#1412735777
+git remote set-url origin git@github.com:PercyODI/CS1050.git/
+#1412735781
+git remote -v
+#1412735786
+git push
+#1412735799
+git remote set-url origin git@github.com:PercyODI/CS1050.git
+#1412735802
+git remote -v
+#1412735808
+git push --all
+#1412735914
+git rebase
+#1412735932
+git rebase CS1050
+#1412735950
+git push origin 
+#1412736014
+git pull
+#1412736046
+git push
+#1412736055
+ls
+#1412736066
+git pull origin master
+#1412736075
+ls
+#1412736079
+git push
+#1412736348
+logout
+#1412904755
+ls
+#1412904763
+cd fall2014/cs1050
+#1412904764
+ls
+#1412904771
+mkdir homework2
+#1412904775
+cd homework1
+#1412904776
+ls
+#1412904779
+cd ..
+#1412904782
+cd homework2
+#1412904787
+vim hw2.c
+#1412908278
+gcc hw2.c
+#1412908286
+vim hw2.c
+#1412909774
+gcc hw2.c
+#1412909781
+vim hw2.c
+#1412909816
+gcc hw2.c
+#1412909830
+vim hw2.c
+#1412909899
+gcc hw2.c
+#1412909906
+vim hw2.c
+#1412909969
+gcc hw2.c
+#1412909972
+./a.out
+#1412909994
+vim hw2.c
+#1412910030
+gcc hw2.c
+#1412910046
+./a.out
+#1412910085
+vim hw2.c
+#1412910105
+gcc hw2.c
+#1412910108
+./a.out
+#1412910180
+vim hw2.c
+#1412910305
+gcc hw2.c
+#1412910306
+./a.out
+#1412910348
+vim hw2.c
+#1412910405
+gcc hw2.c
+#1412910408
+./a.out
+#1412910472
+vim hw2.c
+#1412910527
+gcc hw2.c
+#1412910528
+./a.out
+#1412910647
+vim hw2.c
+#1412910792
+gcc hw2.c
+#1412910794
+./a.out
+#1412910833
+vim hw2.c
+#1412910860
+gcc hw2.c
+#1412910861
+./a.out
+#1412910898
+vim hw2.c
+#1412911020
+gcc hw2.c
+#1412911021
+./a.out
+#1412911125
+vim hw2.c
+#1412911180
+gcc hw2.c
+#1412911181
+./a.out
+#1412911291
+logout
+#1412948552
+cd
+#1412948553
+ls
+#1412948555
+cd fall2014
+#1412948557
+ls
+#1412948561
+cd cs1050
+#1412948563
+git push
+#1412948610
+ls
+#1412948623
+cd
+#1412948632
+ls
+#1412948636
+cd fal2014
+#1412948638
+cd fall2014
+#1412948641
+git push
+#1412948762
+git rebase origin
+#1412948778
+git push cs1050/homework2
+#1412948820
+git add cs1050/homework2
+#1412948822
+git push
+#1412948843
+git --help
+#1412948855
+git status
+#1412948909
+git commit --help
+#1412948932
+git commit --all
+#1412948956
+git commit
+#1412949024
+logout
+#1413228064
+ls
+#1413228069
+cd fall2014/cs1050
+#1413228070
+ls
+#1413228076
+mkdir lab6
+#1413228078
+cd lab6
+#1413228082
+mkdir preLab
+#1413228091
+vim preLab6.c
+#1413228908
+gcc preLab6.c
+#1413228913
+./a.out
+#1413228938
+vim preLab6.c
+#1413229084
+gcc preLab6.c
+#1413229086
+./a.out
+#1413229119
+vim preLab6.c
+#1413229219
+gcc preLab6.c
+#1413229220
+./a.out
+#1413229377
+vim preLab6.c
+#1413229461
+logout
+#1413230001
+git add --all
+#1413230010
+cd fall2014/cs1050
+#1413230014
+git add --all
+#1413230017
+git status
+#1413230038
+git push --all
+#1413230045
+git status
+#1413230050
+git commit --all
+#1413230074
+git commit
+#1413230207
+git commit --all -m "Obligitory message here"
+#1413230253
+git status
+#1413230259
+git push --all
+#1413231201
+ls
+#1413231204
+cd lab6
+#1413231236
+ls
+#1413231245
+mv preLab6.c preLab
+#1413231249
+mv a.out preLab
+#1413231250
+ls
+#1413231256
+mkdir lab6
+#1413231265
+mv lab6 inLab6
+#1413231266
+ls
+#1413231269
+cd inLab6
+#1413231272
+vim lab6.c
+#1413233344
+gcc lab6.c
+#1413233347
+vim lab6.c
+#1413233358
+gcc lab6.c
+#1413233361
+./a.out
+#1413233372
+vim lab6.c
+#1413233410
+gcc lab6.c
+#1413233411
+./a.out
+#1413233498
+vim lab6.c
+#1413233559
+gcc lab6.c
+#1413233560
+./a.out
+#1413233617
+vim lab6.c
+#1413234354
+gcc lab6.c
+#1413234358
+vim lab6.c
+#1413234396
+gcc lab6.c
+#1413234400
+gcc lab6.c -Wall
+#1413234404
+./a.out
+#1413234432
+vim lab6.c
+#1413234562
+gcc lab6.c -Wall
+#1413234568
+vim lab6.c
+#1413234577
+gcc lab6.c -Wall
+#1413234579
+./a.out
+#1413234809
+vim lab6.c
+#1413234902
+gcc lab6.c -Wall
+#1413234903
+./a.out
+#1413234919
+5
+#1413234922
+./a.out
+#1413234927
+vim lab6.c
+#1413235043
+gcc lab6.c -Wall
+#1413235050
+vim lab6.c
+#1413235105
+gcc lab6.c -Wall
+#1413235108
+./a.out
+#1413235129
+vim lab6.c
+#1413235143
+./a.out
+#1413235148
+gcc lab6.c -Wall
+#1413235149
+./a.out
+#1413235168
+vim lab6.c
+#1413235247
+./a.out
+#1413235250
+gcc lab6.c -Wall
+#1413235252
+./a.out
+#1413235266
+vim lab6.c
+#1413235311
+gcc lab6.c -Wall
+#1413235312
+./a.out
+#1413235321
+vim lab6.c
+#1413235347
+gcc lab6.c -Wall
+#1413235348
+./a.out
+#1413235361
+vim lab6.c
+#1413235493
+gcc lab6.c -Wall
+#1413235494
+./a.out
+#1413235514
+vim lab6.c
+#1413235608
+gcc lab6.c -Wall
+#1413235609
+./a.out
+#1413235618
+vim lab6.c
+#1413235771
+gcc lab6.c -Wall
+#1413235772
+./a.out
+#1413235785
+vim lab6.c
+#1413236021
+gcc lab6.c -Wall
+#1413236030
+vim lab6.c
+#1413236048
+gcc lab6.c -Wall
+#1413236056
+./a.out
+#1413236073
+vim lab6.c
+#1413236099
+gcc lab6.c -Wall
+#1413236104
+./a.out
+#1413236119
+vim lab6.c
+#1413236143
+gcc lab6.c -Wall
+#1413236145
+./a.out
+#1413236164
+vim lab6.c
+#1413236193
+gcc lab6.c -Wall
+#1413236200
+vim lab6.c
+#1413236205
+gcc lab6.c -Wall
+#1413236207
+./a.out
+#1413236216
+vim lab6.c
+#1413236226
+gcc lab6.c -Wall
+#1413236227
+./a.out
+#1413236231
+vim lab6.c
+#1413236395
+gcc lab6.c -Wall
+#1413236397
+./a.out
+#1413236470
+vim lab6.c
+#1413236555
+gcc lab6.c -Wall
+#1413236557
+./a.out
+#1413236571
+gcc lab6.c -Wall
+#1413236573
+vim lab6.c
+#1413236627
+gcc lab6.c -Wall
+#1413236632
+./a.out
+#1413236675
+./a.out5
+#1413236677
+./a.out
+#1413236718
+vim lab6.c
+#1413236743
+gcc lab6.c -Wall
+#1413236745
+./a.out
+#1413236776
+vim lab6.c
+#1413236873
+gcc lab6.c -Wall
+#1413236874
+./a.out
+#1413236884
+gcc lab6.c -Wall
+#1413236887
+vim lab6.c
+#1413236933
+gcc lab6.c -Wall
+#1413236935
+./a.out
+#1413236939
+gcc lab6.c -Wall
+#1413236945
+vim lab6.c
+#1413237046
+gcc lab6.c -Wall
+#1413237047
+./a.out
+#1413237085
+vim lab6.c
+#1413237111
+gcc lab6.c -Wall
+#1413237113
+./a.out
+#1413237264
+vim lab6.c
+#1413237321
+gcc lab6.c -Wall
+#1413237323
+./a.out
+#1413237334
+vim lab6.c
+#1413237362
+gcc lab6.c -Wall
+#1413237363
+./a.out
+#1413237401
+vim lab6.c
+#1413237452
+gcc lab6.c -Wall
+#1413237453
+./a.out
+#1413237462
+vim lab6.c
+#1413237477
+gcc lab6.c -Wall
+#1413237478
+./a.out
+#1413237499
+vim lab6.c
+#1413237709
+gcc lab6.c -Wall
+#1413237710
+./a.out
+#1413237745
+vim lab6.c
+#1413237968
+gcc lab6.c -Wall
+#1413237970
+./a.out
+#1413238003
+vim lab6.c
+#1413238053
+gcc lab6.c -Wall
+#1413238054
+./a.out
+#1413238075
+vim lab6.c
+#1413238150
+gcc lab6.c -Wall
+#1413238151
+./a.out
+#1413238170
+vim lab6.c
+#1413238371
+gcc lab6.c -Wall
+#1413238379
+vim lab6.c
+#1413238450
+gcc lab6.c -Wall
+#1413238453
+./a.out
+#1413238492
+vim lab6.c
+#1413238515
+gcc lab6.c -Wall
+#1413238520
+vim lab6.c
+#1413238530
+gcc lab6.c -Wall
+#1413238532
+./a.out
+#1413238605
+vim lab6.c
+#1413238633
+gcc lab6.c -Wall
+#1413238634
+./a.out
+#1413238683
+vim lab6.c
+#1413238695
+./a.out
+#1413238737
+vim lab6.c
+#1413238753
+gcc lab6.c -Wall
+#1413238754
+./a.out
+#1413238803
+vim lab6.c
+#1413239401
+gcc lab6.c -Wall
+#1413239403
+./a.out
+#1413239460
+vim lab6.c
+#1413239533
+gcc lab6.c -Wall
+#1413239535
+./a.out
+#1413239606
+cs_submit CS1050_LAB-
+#1413239622
+cs_submit CS1050_LAB-D LAB6 lab6.c
+#1413239631
+gcc lab6.c
+#1413239636
+./a.out
+#1413239653
+logout
+#1413239745
+ls -a
+#1413239752
+cd .cs_submit
+#1413239753
+ls
+#1413239766
+vim CS1050_LAB-D.log
+#1413239789
+logout
+#1413337963
+ls
+#1413337971
+cd fall2014/cs1050
+#1413337972
+ls
+#1413337974
+cd homework2
+#1413337975
+ls
+#1413337978
+vim hw2.c
+#1413339086
+gcc hw2.c -Wall
+#1413339093
+./a.out
+#1413339209
+vim hw2.c
+#1413339541
+gcc hw2.c -Wall
+#1413339542
+./a.out
+#1413339599
+vim hw2.c
+#1413339652
+gcc hw2.c -Wall
+#1413339653
+./a.out
+#1413339701
+vim hw2.c
+#1413339762
+gcc hw2.c -Wall
+#1413339763
+./a.out
+#1413339791
+vim hw2.c
+#1413339801
+gcc hw2.c -Wall
+#1413339802
+./a.out
+#1413339864
+vim hw2.c
+#1413339895
+gcc hw2.c -Wall
+#1413339896
+./a.out
+#1413339912
+vim hw2.c
+#1413340029
+gcc hw2.c -Wall
+#1413340030
+./a.out
+#1413340254
+vim hw2.c
+#1413340717
+clear
+#1413340724
+cd fall2014/cs1050
+#1413340725
+ls
+#1413340728
+cd homework2
+#1413340730
+clear
+#1413340735
+./a.out
+#1413340876
+logout
+#1413417466
+cd fall2014/cs1050
+#1413417467
+ls
+#1413417469
+cd homework2
+#1413417470
+ls
+#1413417474
+vim hw2.c
+#1413417547
+gcc hw2.c -Wall
+#1413417552
+./a.out
+#1413417676
+vim hw2.c
+#1413417762
+2
+#1413417766
+1
+#1413417771
+gcc hw2.c -Wall
+#1413417773
+./a.out
+#1413417808
+vim hw2.c
+#1413417859
+gcc hw2.c -Wall
+#1413417861
+./a.out
+#1413418246
+cs_submit CS1050_HW-Lab D HW2 hw2.c
+#1413418271
+cs_submit CS1050_HW-D HW2 hw2.c
+#1413418330
+logout
+#1413753901
+ghc
+#1413753905
+help ghc
+#1413753910
+ghc --help
+#1413753941
+hugs
+#1413753944
+ghc
+#1413753967
+ghci
+#1413754703
+gchi
+#1413754705
+ghci
+#1413758509
+cd
+#1413758510
+ls
+#1413758534
+mkdir haskellPractice
+#1413758541
+cd haskellPractice
+#1413758591
+mkdir YAHT
+#1413758595
+cd YAHT
+#1413758620
+mkdir 3.4
+#1413758622
+cd 3.4
+#1413758639
+vim Test.hs
+#1413758688
+ls
+#1413758698
+ghci Test.hs
+#1413759051
+vim Test.hs
+#1413759439
+ghc --make Test.hs -o test
+#1413759446
+vim Test.hs
+#1413759469
+ghc --make Test.hs -o test
+#1413759476
+ls
+#1413759489
+./test
+#1413759787
+cd ..
+#1413759790
+mkdir 3.5
+#1413759792
+cd 3.5
+#1413759800
+vim test.hs
+#1413760056
+ghc --make test.hs -o test
+#1413760060
+vim test.hs
+#1413760076
+ghc --make test.hs -o test
+#1413760092
+vim test.hs
+#1413760439
+ghc --make test.hs -o test
+#1413760444
+ls
+#1413760457
+ghci test.hs
+#1413760477
+vim test.hs
+#1413760505
+ghci test.hs
+#1413760905
+ghci 
+#1413765081
+logout
+#1413771322
+ls
+#1413771329
+cd fall2014/cs1050
+#1413771330
+ls
+#1413771337
+mkdir lab7
+#1413771339
+cd lab7
+#1413771346
+mkdir preLab
+#1413771350
+cd preLab
+#1413771357
+vim preLab7.c
+#1413774052
+gcc preLab7.c
+#1413774057
+vim preLab7.c
+#1413774129
+gcc preLab7.c
+#1413774139
+vim preLab7.c
+#1413774155
+gcc preLab7.c
+#1413774158
+vim preLab7.c
+#1413774170
+gcc preLab7.c
+#1413774175
+./a.out
+#1413774190
+vim preLab7.c
+#1413774201
+gcc preLab7.c
+#1413774202
+./a.out
+#1413774235
+vim preLab7.c
+#1413774270
+gcc preLab7.c
+#1413774271
+./a.out
+#1413774596
+logout
+#1413835021
+ls
+#1413835098
+ch haskellPractice
+#1413835105
+cd haskelPractice
+#1413835110
+cd haskellPractice
+#1413835124
+github --help
+#1413835130
+git --help
+#1413835151
+git init --help
+#1413835198
+git init
+#1413835205
+ls
+#1413835207
+ls -a
+#1413835216
+git add --all
+#1413835220
+git status
+#1413835228
+git commit --all
+#1413835266
+git commit --all -m "Haskell First Upload"
+#1413835270
+git push
+#1413835278
+git origin --help
+#1413835358
+cd ..
+#1413835362
+ls
+#1413835371
+cd fall2014/cs1050/lab6
+#1413835372
+ls
+#1413835376
+cd inLab6
+#1413835376
+ls
+#1413835381
+cd ..
+#1413835383
+ls
+#1413835385
+cd lab7
+#1413835386
+ls
+#1413835393
+mkdir inLab7
+#1413835397
+cd inLab7
+#1413835406
+vim lab7.c
+#1413835960
+ls
+#1413835961
+cd ..
+#1413835964
+cd preLab7
+#1413835967
+ls
+#1413835971
+cd preLab
+#1413835973
+ls
+#1413835984
+mv preLab7.c ..
+#1413835985
+ls
+#1413835989
+cd ..
+#1413835989
+ls
+#1413836000
+mv preLab7.c inLab7
+#1413836001
+ls
+#1413836003
+cd inLab7
+#1413836004
+ls
+#1413836011
+rm lab7.c
+#1413836021
+mv preLab7.c lab7.c
+#1413836022
+ls
+#1413836024
+vim lab7.c
+#1413836302
+gcc lab7.c -Wall
+#1413836305
+vim lab7.c
+#1413836323
+gcc lab7.c -Wall
+#1413836325
+./a.out
+#1413836345
+vim lab7.c
+#1413837098
+gcc lab7.c -Wall
+#1413837102
+vim lab7.c
+#1413837126
+gcc lab7.c -Wall
+#1413837130
+vim lab7.c
+#1413837143
+gcc lab7.c -Wall
+#1413837146
+./a.out
+#1413837172
+vim lab7.c
+#1413837410
+gcc lab7.c -Wall
+#1413837411
+./a.out
+#1413837421
+vim lab7.c
+#1413837605
+gcc lab7.c -Wall
+#1413837609
+vim lab7.c
+#1413837633
+gcc lab7.c -Wall
+#1413837635
+./a.out
+#1413837664
+vim lab7.c
+#1413837704
+gcc lab7.c -Wall
+#1413837705
+./a.out
+#1413837806
+vim lab7.c
+#1413838782
+gcc lab7.c -Wall
+#1413838786
+vim lab7.c
+#1413838846
+gcc lab7.c -Wall
+#1413838852
+vim lab7.c
+#1413838942
+gcc lab7.c -Wall
+#1413838944
+./a.out
+#1413838955
+vim lab7.c
+#1413839070
+gcc lab7.c -Wall
+#1413839078
+vim lab7.c
+#1413839094
+gcc lab7.c -Wall
+#1413839096
+./a.out
+#1413839200
+vim lab7.c
+#1413839249
+gcc lab7.c -Wall
+#1413839256
+vim lab7.c
+#1413839265
+gcc lab7.c -Wall
+#1413839267
+./a.out
+#1413839373
+vim lab7.c
+#1413839475
+gcc lab7.c -Wall
+#1413839477
+./a.out
+#1413839524
+vim lab7.c
+#1413839589
+gcc lab7.c -Wall
+#1413839591
+./a.out
+#1413839607
+vim lab7.c
+#1413839619
+gcc lab7.c -Wall
+#1413839620
+./a.out
+#1413839867
+vim lab7.c
+#1413840517
+gcc lab7.c -Wall
+#1413840519
+./a.out
+#1413840560
+vim lab7.c
+#1413840569
+gcc lab7.c -Wall
+#1413840571
+8
+#1413840576
+./a.out
+#1413840629
+vim lab7.c
+#1413840638
+gcc lab7.c -Wall
+#1413840639
+./a.out
+#1413840689
+ls
+#1413840711
+cs_submit CS1050_Lab-D LAB7 lab7.c
+#1413840725
+vim lab7.c
+#1413840795
+logout
+#1414076037
+ls
+#1414076061
+cd fall2014/cs1050
+#1414076061
+ls
+#1414076067
+mkdir lab8
+#1414076068
+cd lab8
+#1414076075
+mkdir preLab8
+#1414076079
+cd preLab8
+#1414076086
+vim prelab8.c
+#1414077205
+gcc prelab8.c -Wall
+#1414077212
+vim prelab8.c
+#1414077250
+gcc prelab8.c -Wall
+#1414077257
+vim prelab8.c
+#1414077322
+gcc prelab8.c -Wall
+#1414077333
+vim prelab8.c
+#1414077369
+gcc prelab8.c -Wall
+#1414077372
+clear
+#1414077374
+gcc prelab8.c -Wall
+#1414077383
+vim prelab8.c
+#1414077438
+gcc prelab8.c -Wall
+#1414077448
+vim prelab8.c
+#1414077496
+gcc prelab8.c -Wall
+#1414077500
+./a.out
+#1414077512
+vim prelab8.c
+#1414077521
+gcc prelab8.c -Wall
+#1414077522
+./a.out
+#1414077535
+vim prelab8.c
+#1414077576
+gcc prelab8.c -Wall
+#1414077577
+./a.out
+#1414077604
+vim prelab8.c
+#1414077627
+gcc prelab8.c -Wall
+#1414077629
+./a.out
+#1414077648
+vim prelab8.c
+#1414077658
+gcc prelab8.c -Wall
+#1414077660
+./a.out
+#1414077693
+rand
+#1414077698
+rand() 100
+#1414077710
+rand() % 5
+#1414077756
+vim prelab8.c
+#1414077988
+gcc prelab8.c -Wall
+#1414077990
+./a.out
+#1414078001
+dbg
+#1414078003
+dgb
+#1414078013
+gdb
+#1414078290
+gdb ./a.out
+#1414078531
+gcc prelab8.c -Wall -g
+#1414078540
+gdb ./a.out
+#1414439910
+ls
+#1414439919
+cd fall2014/cs1050
+#1414439920
+ls
+#1414439922
+cd lab8
+#1414439923
+ls
+#1414439926
+cd preLab8
+#1414439945
+cp preLab8
+#1414439953
+dir
+#1414439955
+path
+#1414440003
+whereis preLab8
+#1414440013
+cd preLab8 ..
+#1414440023
+cp preLab8 ..
+#1414440026
+ls
+#1414440032
+cp preLab8.c ..
+#1414440042
+mv prelab8.c preLab8.c
+#1414440044
+cp preLab8.c ..
+#1414440045
+ls
+#1414440047
+cd ..
+#1414440047
+ls
+#1414440056
+mkdir lab8
+#1414440068
+mv preLab8.c /lab8
+#1414440078
+mv preLab8.c /lab8/
+#1414440086
+mv preLab8.c lab8
+#1414440087
+ls
+#1414440090
+cd lab8
+#1414440091
+ls
+#1414440095
+vim preLab8.c
+#1414441152
+cp preLab8.c lab8.c
+#1414441154
+ls
+#1414441170
+gcc lab8.c --Wall
+#1414441176
+gcc lab8.c -Wall
+#1414441183
+ls
+#1414441186
+./a.out
+#1414441237
+vim lab8.c
+#1414442390
+gcc lab8.c -Wall
+#1414442397
+vim lab8.c
+#1414442443
+gcc lab8.c -Wall
+#1414442447
+vim lab8.c
+#1414442473
+gcc lab8.c -Wall
+#1414442479
+vim lab8.c
+#1414442493
+gcc lab8.c -Wall
+#1414442498
+vim lab8.c
+#1414442508
+gcc lab8.c -Wall
+#1414442514
+vim lab8.c
+#1414442538
+gcc lab8.c -Wall
+#1414442543
+vim lab8.c
+#1414442554
+gcc lab8.c -Wall
+#1414442556
+ls
+#1414442558
+./a.out
+#1414442634
+vim lab8.c
+#1414442745
+gcc lab8.c -Wall
+#1414442748
+./a.out
+#1414442842
+vim lab8.c
+#1414443585
+gcc lab8.c -Wall
+#1414443590
+vim lab8.c
+#1414443622
+gcc lab8.c -Wall
+#1414443626
+./a.out
+#1414443750
+vim lab8.c
+#1414443869
+gcc lab8.c -Wall
+#1414443871
+./a.out
+#1414443954
+vim lab8.c
+#1414445012
+gcc lab8.c -Wall
+#1414445014
+./a.out
+#1414445119
+vim lab8.c
+#1414445271
+./a.out
+#1414445274
+gcc lab8.c -Wall
+#1414445277
+./a.out
+#1414445400
+cs_submit CS1050_LAB-D LAB8 lab8.c
+#1414445402
+ls
+#1414445415
+logout
+#1414682960
+ls
+#1414682964
+cd fall2014/cs1050
+#1414682964
+ls
+#1414682969
+mkdir homework3
+#1414682972
+cd homework3
+#1414682977
+vim hw3.c
+#1414684263
+logout
+#1414702631
+cd fall2014/cs1050/homework3
+#1414702632
+ls
+#1414702634
+vim hw3.c
+#1414704443
+vim .
+#1414704469
+ls .
+#1414704471
+ls
+#1414704474
+ls -h
+#1414704476
+ls -all
+#1414704492
+ls -a
+#1414704525
+vim hw3.c
+#1414704535
+scp
+#1414704610
+scp -r pah9qd@babbage.cs.missouri.edu:~/fall2014/cs1050/homework3/hw3.c ~
+#1414704630
+ls
+#1414705473
+vim hw3.c
+#1414710655
+cd fall2014/cs1050/homework3
+#1414710656
+ls
+#1414710664
+gcc hw3.c -Wall
+#1414710883
+ls
+#1414710888
+./a.out
+#1414711133
+gcc hw3.c -g
+#1414711137
+gdb
+#1414711147
+gdb a.out
+#1414714022
+cd fall2014/cs1050/homework3
+#1414714023
+ls
+#1414714129
+gdb a.out
+#1414716307
+vim hw3.c
+#1414716666
+gcc hw3.c -Wall
+#1414716670
+./a.out
+#1414718351
+gcc hw3.c -Wall
+#1414718627
+./a.out
+#1414718974
+gcc hw3.c -Wall
+#1414718975
+./a.out
+#1414719197
+gcc hw3.c -g
+#1414719205
+gdb a.out
+#1414719416
+gcc hw3.c -Wall
+#1414719419
+./a.out
+#1414722369
+gcc hw3.c -Wall
+#1414722524
+./a.out
+#1414722821
+gcc hw3.c -Wall
+#1414722871
+./a.out
+#1414722915
+gcc hw3.c -Wall
+#1414722916
+./a.out
+#1414723007
+gcc hw3.c -Wall
+#1414723008
+./a.out
+#1414723194
+gcc hw3.c -Wall
+#1414723195
+./a.out
+#1414724242
+gcc hw3.c -Wall
+#1414724244
+./a.out
+#1414724346
+gcc hw3.c -Wall
+#1414724347
+./a.out
+#1414724583
+gcc hw3.c -Wall
+#1414724864
+./a.out
+#1414939450
+cd  fall
+#1414939453
+ fall
+#1414939482
+cd fall2014\cs1050\homework3\
+#1414939500
+cd fall2014/cs1050/homework3
+#1414939501
+ls
+#1414939508
+gcc hw3.c -Wall
+#1414939514
+./a.out
+#1414939606
+gcc hw3.c -Wall
+#1414939608
+./a.out
+#1414939891
+ls
+#1414939955
+cs_submit CS1050_HW-D HW3 hw3.c
+#1415046045
+cd fall2014/cs1050
+#1415046046
+ls
+#1415046063
+mkdir lab8
+#1415046071
+mkdir lab9
+#1415046074
+cd lab9
+#1415046206
+mkdir preLab9
+#1415046208
+cd preLab9
+#1415046214
+vim preLab9.c
+#1415046817
+gcc preLab9.c
+#1415046824
+vim preLab9.c
+#1415046905
+gcc preLab9.c
+#1415046909
+./a.out
+#1415046920
+vim preLab9.c
+#1415046985
+gcc preLab9.c -g
+#1415046990
+gdb preLab9.c
+#1415047061
+gdb a.out
+#1415047135
+vim preLab9.c
+#1415047158
+gcc preLab9.c -g
+#1415047162
+./a.out
+#1415047176
+vim preLab9.c
+#1415047213
+gcc preLab9.c -g
+#1415047243
+vim preLab9.c
+#1415047258
+gcc preLab9.c -g
+#1415047262
+./a.out
+#1415047270
+gcc preLab9.c -g
+#1415047272
+vim preLab9.c
+#1415047282
+gcc preLab9.c -g
+#1415047284
+./a.out
+#1415047299
+vim preLab9.c
+#1415047333
+gcc preLab9.c -g
+#1415047335
+vim preLab9.c
+#1415047344
+gcc preLab9.c -g
+#1415047347
+./a.out
+#1415047372
+vim preLab9.c
+#1415047384
+gcc preLab9.c -g
+#1415047385
+./a.out
+#1415047448
+vim preLab9.c
+#1415047708
+gcc preLab9.c -g
+#1415047710
+./a.out
+#1415047725
+vim preLab9.c
+#1415047755
+gcc preLab9.c -g
+#1415047758
+vim preLab9.c
+#1415047767
+gcc preLab9.c -g
+#1415047769
+./a.out
+#1415047784
+quit
+#1415047785
+logout
+#1415048259
+cd fall2014/cs1050
+#1415048259
+ls
+#1415048264
+cd lab9
+#1415048267
+cd inLab9
+#1415048279
+mkdir inLab9
+#1415048281
+cd inLab9
+#1415048287
+vim lab9.c
+#1415051398
+gcc lab9.c
+#1415051404
+vim lab9.c
+#1415051441
+gcc lab9.c
+#1415051445
+vim lab9.c
+#1415051454
+gcc lab9.c
+#1415051457
+gcc lab9.c -Wall
+#1415051466
+vim lab9.c
+#1415051510
+gcc lab9.c -Wall
+#1415051514
+./a.out
+#1415051539
+vim lab9.c
+#1415051557
+gcc lab9.c -Wall
+#1415051559
+./a.out
+#1415051567
+vim lab9.c
+#1415051580
+gcc lab9.c -Wall
+#1415051581
+./a.out
+#1415051594
+vim lab9.c
+#1415051622
+gcc lab9.c -Wall
+#1415051624
+./a.out
+#1415051641
+vim lab9.c
+#1415051694
+gcc lab9.c -Wall -g
+#1415051695
+./a.out\
+#1415051786
+vim lab9.c
+#1415051860
+gcc lab9.c -Wall -g
+#1415051863
+./a.out
+#1415051967
+vim lab9.c
+#1415052127
+gcc lab9.c -Wall -g
+#1415052129
+./a.out
+#1415052160
+gdb a.out
+#1415052327
+vim lab9.c
+#1415052348
+gcc lab9.c -Wall -g
+#1415052352
+./a.out
+#1415052379
+vim lab9.c
+#1415052442
+gcc lab9.c -Wall -g
+#1415052443
+./a.out
+#1415052472
+gdb a.out
+#1415052566
+vim lab9.c
+#1415052660
+gcc lab9.c -Wall -g
+#1415052662
+./a.out
+#1415052677
+vim lab9.c
+#1415052688
+gcc lab9.c -Wall -g
+#1415052690
+./a.out
+#1415052738
+vim lab9.c
+#1415052792
+gcc lab9.c -Wall -g
+#1415052804
+gdb a.out
+#1415052847
+vim lab9.c
+#1415052879
+gcc lab9.c -Wall -g
+#1415052882
+./a.out
+#1415052891
+vim lab9.c
+#1415052901
+gcc lab9.c -Wall -g
+#1415052902
+./a.out
+#1415052928
+vim lab9.c
+#1415053312
+gcc lab9.c -Wall -g
+#1415053317
+vim lab9.c
+#1415053335
+gcc lab9.c -Wall -g
+#1415053343
+vim lab9.c
+#1415053384
+gcc lab9.c -Wall -g
+#1415053390
+vim lab9.c
+#1415053519
+gcc lab9.c -Wall -g
+#1415053526
+vim lab9.c
+#1415053632
+gcc lab9.c -Wall -g
+#1415053641
+vim lab9.c
+#1415053694
+gcc lab9.c -Wall -g
+#1415053701
+vim lab9.c
+#1415053791
+gcc lab9.c -Wall -g
+#1415053796
+./a.out
+#1415053868
+vim lab9.c
+#1415053877
+gcc lab9.c -Wall -g
+#1415053881
+./a.out
+#1415053901
+vim lab9.c
+#1415053950
+gcc lab9.c -Wall -g
+#1415053951
+./a.out
+#1415053963
+vim lab9.c
+#1415053973
+gcc lab9.c -Wall -g
+#1415053975
+./a.out
+#1415054112
+vim lab9.c
+#1415054758
+gcc lab9.c -Wall -g
+#1415054763
+./a.out
+#1415054868
+ls
+#1415054884
+cs_submit CS1050_LAB-D LAB9 lab9.c
+#1415054895
+logout
+#1416026021
+ls
+#1416026048
+cd fall2014/cs1050
+#1416026049
+ls
+#1416026051
+cd lab9
+#1416026052
+cd
+#1416026054
+ls
+#1416026063
+cd fall2014/cs1050/lab9
+#1416026065
+ls
+#1416026072
+vim inLab9.c
+#1416026096
+cd inLab9
+#1416026099
+ls
+#1416026103
+vim lab9.c
+#1416234613
+cd fall2014/cs1050
+#1416234614
+ls
+#1416234618
+mkdir lab10
+#1416234620
+cd lab10
+#1416234628
+mkdir preLab
+#1416234630
+cd preLab
+#1416234636
+vim preLab10.c
+#1416235364
+gcc preLab10.c
+#1416235370
+vim preLab10.c
+#1416235381
+gcc preLab10.c
+#1416235386
+vim preLab10.c
+#1416235397
+gcc preLab10.c
+#1416235400
+./a.out
+#1416235406
+./a.out CS1050
+#1416235421
+vim preLab10.c
+#1416235751
+gcc preLab10.c
+#1416235757
+vim preLab10.c
+#1416255919
+cd fall2014/cs1050/lab10
+#1416255923
+cd preLab
+#1416255927
+vim preLab10.c
+#1416255981
+gcc preLab10.c
+#1416255991
+vim preLab10.c
+#1416256009
+gcc preLab10.c
+#1416256014
+vim preLab10.c
+#1416256036
+gcc preLab10.c
+#1416256039
+./a.out
+#1416256044
+./a.out Zello
+#1416256059
+vim preLab10.c
+#1416256510
+./a.out
+#1416256513
+gcc preLab10.c
+#1416256517
+./a.out Zello
+#1416256528
+vim preLab10.c
+#1416256652
+gcc preLab10.c
+#1416256654
+./a.out Zello
+#1416256661
+vim preLab10.c
+#1416256769
+gcc preLab10.c
+#1416256770
+./a.out Zello
+#1416256779
+vim preLab10.c
+#1416256807
+gcc preLab10.c
+#1416256808
+./a.out Zello
+#1416256813
+vim preLab10.c
+#1416257026
+gcc preLab10.c
+#1416257028
+./a.out Zello
+#1416257033
+./a.out PearseHutson
+#1416257717
+cd fall2014/cs1050/lab10
+#1416257719
+ls
+#1416257726
+mkdir inLab
+#1416257729
+cd inLab
+#1416257764
+ls
+#1416257767
+vim lab10.c
+#1416259316
+gcc lab10.c -Wall
+#1416259321
+./a.out hello
+#1416259326
+vim lab10.c
+#1416260420
+gcc lab10.c -Wall
+#1416260437
+vim lab10.c
+#1416260547
+gcc lab10.c -Wall
+#1416260554
+vim lab10.c
+#1416260576
+gcc lab10.c -Wall
+#1416260592
+vim lab10.c
+#1416260782
+gcc lab10.c -Wall
+#1416260796
+vim lab10.c
+#1416260957
+gcc lab10.c -Wall
+#1416260961
+vim lab10.c
+#1416261321
+gcc lab10.c -Wall
+#1416261324
+vim lab10.c
+#1416261339
+gcc lab10.c -Wall
+#1416261345
+./a.out Hello
+#1416261378
+vim lab10.c
+#1416261418
+gcc lab10.c -Wall
+#1416261420
+./a.out Hello
+#1416261446
+vim lab10.c
+#1416261492
+gcc lab10.c -Wall
+#1416261493
+./a.out Hello
+#1416261509
+vim lab10.c
+#1416261530
+gcc lab10.c -Wall
+#1416261532
+./a.out Hello
+#1416261562
+vim lab10.c
+#1416261597
+gcc lab10.c -Wall
+#1416261598
+./a.out Hello
+#1416261615
+gcc lab10.c -Wall
+#1416261618
+vim lab10.c
+#1416261743
+gcc lab10.c -Wall
+#1416261745
+./a.out Hello
+#1416261762
+gcc lab10.c -Wall
+#1416261766
+vim lab10.c
+#1416261857
+gcc lab10.c -Wall
+#1416261859
+./a.out Hello
+#1416261870
+vim lab10.c
+#1416262069
+gcc lab10.c -Wall
+#1416262071
+./a.out Hello
+#1416262083
+vim lab10.c
+#1416262103
+gcc lab10.c -Wall
+#1416262108
+./a.out safdgh
+#1416262151
+./a.out safdghhh
+#1416262158
+vim lab10.c
+#1416262190
+gcc lab10.c -Wall -g
+#1416262197
+gdb lab10.c
+#1416262211
+gdb a.out
+#1416262374
+vim lab10.c
+#1416262482
+gcc lab10.c -Wall -g
+#1416262485
+gdb a.out
+#1416262742
+vim lab10.c
+#1416262806
+gcc lab10.c -Wall -g
+#1416262809
+vim lab10.c
+#1416262828
+gcc lab10.c -Wall -g
+#1416262832
+./a.out Hello
+#1416262895
+vim lab10.c
+#1416263294
+gcc lab10.c -Wall -g
+#1416263303
+vim lab10.c
+#1416263352
+gcc lab10.c -Wall -g
+#1416263358
+./a.out Hello
+#1416263371
+vim lab10.c
+#1416263437
+gdb a.out
+#1416263538
+vim lab10.c
+#1416263606
+gcc lab10.c -Wall -g
+#1416263611
+./a.out Hello
+#1416263634
+vim lab10.c
+#1416263648
+gdb a.out
+#1416263728
+vim lab10.c
+#1416263759
+gcc lab10.c -Wall -g
+#1416263763
+./a.out helo
+#1416263782
+vim lab10.c
+#1416263837
+gcc lab10.c -Wall -g
+#1416263839
+./a.out
+#1416263847
+./a.out asdfgh
+#1416263910
+./a.out asdfghjkl
+#1416263924
+gdb a.out
+#1416264042
+vim lab10.c
+#1416264068
+gcc lab10.c -Wall -g
+#1416264072
+./a.out asfdgh
+#1416264089
+vim lab10.c
+#1416264200
+gcc lab10.c -Wall -g
+#1416264213
+./a.out asfdgh
+#1416264268
+./a.out asdfgh
+#1416264312
+vim lab10.c
+#1416265269
+gcc lab10.c -Wall -g
+#1416265275
+./a.out asdfgh
+#1416265295
+./a.out hello
+#1416265318
+vim lab10.c
+#1416265510
+./a.out 
+#1416265527
+vim lab10.c
+#1416265581
+gcc lab10.c -Wall -g
+#1416265591
+./a.out
+#1416265595
+./a.out asdfgh
+#1416265603
+vim lab10.c
+#1416265627
+gcc lab10.c -Wall -g
+#1416265632
+./a.out asdfgh
+#1416265779
+cs_submit CS1050_LAB-D LAB10 lab10.c
+#1416265785
+logout
+#1416518090
+ls
+#1416518099
+cd fall2014/cs1050
+#1416518102
+ls
+#1416518109
+mkdir lab11
+#1416518112
+cd lab 11
+#1416518126
+cd lab11
+#1416518135
+mkdir preLab11
+#1416518137
+cd preLab11
+#1416518142
+vim preLab11.c
+#1416520349
+gcc preLab11.c
+#1416520355
+./a.out
+#1416520371
+./a.out input.txt
+#1416520384
+./a.out input.txt 8
+#1416520397
+vim preLab11.c
+#1416520766
+gcc preLab11.c
+#1416520814
+vim preLab11.c
+#1416520885
+gcc preLab11.c
+#1416520891
+vim preLab11.c
+#1416521111
+gcc preLab11.c
+#1416521127
+vim preLab11.c
+#1416521186
+gcc preLab11.c
+#1416521189
+vim preLab11.c
+#1416521266
+gcc preLab11.c
+#1416521276
+./a.out input.txt 8
+#1416521317
+vim preLab11.c
+#1416521364
+gcc preLab11.c
+#1416521368
+./a.out input.txt 8
+#1416521870
+vim preLab11.c
+#1416521894
+gcc preLab11.c
+#1416521897
+./a.out input.txt 8
+#1416523426
+logout
+#1417370686
+cd fall2014/cs1050/homework4
+#1417370698
+mv
+#1417370701
+mv --help
+#1417370719
+mv preLab11.c hw4.c
+#1417370720
+ls
+#1417370725
+vim hw4.c
+#1417372126
+gcc hw4.c
+#1417372131
+vim hw4.c
+#1417372186
+gcc hw4.c
+#1417372193
+vim hw4.c
+#1417372271
+gcc hw4.c
+#1417372274
+./a.out
+#1417372335
+./a.out input.txt 8 update.txt output.txt
+#1417372353
+vim hw4.c
+#1417372558
+gcc hw4.c
+#1417372561
+./a.out input.txt 8 update.txt output.txt
+#1417372576
+vim hw4.c
+#1417372653
+./a.out input.txt 8 update.txt output.txt
+#1417372662
+gcc hw4.c -g
+#1417372669
+gbd
+#1417372670
+gdb
+#1417372678
+gdb hw4.c
+#1417372700
+gdb a.out
+#1417372843
+vim hw4.c
+#1417372871
+gcc hw4.c -g
+#1417372875
+./a.out input.txt 8 update.txt output.txt
+#1417372924
+vim hw4.c
+#1417373051
+cd fall2014/cs1050/homework4
+#1417373054
+vim hw4.c
+#1417373073
+rm hw4.c.swp
+#1417373080
+rm .hw4.c.swp
+#1417373084
+vim hw4.c
+#1417373167
+gcc hw4.c -g
+#1417373171
+gdb a.out
+#1417373697
+gcc hw4.c -g
+#1417373711
+./a.out input.txt 8 update.txt output.txt
+#1417373778
+gcc hw4.c -g
+#1417373780
+./a.out input.txt 8 update.txt output.txt
+#1417373807
+gcc hw4.c -g
+#1417373816
+./a.out input.txt 8 update.txt output.txt
+#1417374625
+gcc hw4.c -g
+#1417374640
+./a.out input.txt 8 update.txt output.txt
+#1417374655
+gcc hw4.c -g
+#1417374657
+./a.out input.txt 8 update.txt output.txt
+#1417374884
+gcc hw4.c -g
+#1417374908
+./a.out input.txt 8 update.txt output.txt
+#1417374948
+gcc hw4.c -g
+#1417374949
+./a.out input.txt 8 update.txt output.txt
+#1417375022
+ls
+#1417380600
+cd fall2014/cs1050/homework4
+#1417380610
+gcc hw4.c -Wall -g
+#1417380628
+./a.out input.txt 8 update.txt output.txt
+#1417380631
+ls
+#1417380757
+gcc hw4.c -Wall -g
+#1417380760
+./a.out input.txt 8 update.txt output.txt
+#1417380763
+ls
+#1417380769
+vim output.txt
+#1417380820
+logout
+#1417467278
+cd fall2014/cs1050/lab11/inLab11
+#1417467280
+ls
+#1417467291
+mv preLab11.c lab11.c
+#1417467292
+ls
+#1417467298
+vim lab11.c
+#1417467518
+mv lab11.c preLab11.c
+#1417467519
+ls
+#1417467987
+mv preLab11.c lab11.c
+#1417467991
+vim lab11.c
+#1417468262
+gcc lab11.c -Wall
+#1417468272
+./a.out input.txt 8 output.txt
+#1417468287
+vim lab11.c
+#1417468299
+gcc lab11.c -Wall
+#1417468300
+./a.out input.txt 8 output.txt
+#1417468306
+vim lab11.c
+#1417468392
+gcc lab11.c -Wall
+#1417468393
+./a.out input.txt 8 output.txt
+#1417468415
+vim lab11.c
+#1417468555
+gcc lab11.c -Wall
+#1417468559
+vim lab11.c
+#1417468629
+gcc lab11.c -Wall
+#1417468632
+vim lab11.c
+#1417468648
+gcc lab11.c -Wall
+#1417468655
+./a.out input.txt 8 output.txt
+#1417468661
+vim lab11.c
+#1417469165
+gcc lab11.c -Wall
+#1417469168
+./a.out input.txt 8 output.txt
+#1417469177
+vim lab11.c
+#1417469185
+gcc lab11.c -Wall
+#1417469186
+./a.out input.txt 8 output.txt
+#1417469205
+vim lab11.c
+#1417469490
+gcc lab11.c -Wall
+#1417469494
+vim lab11.c
+#1417469506
+gcc lab11.c -Wall
+#1417469509
+./a.out input.txt 8 output.txt
+#1417469536
+vim lab11.c
+#1417469889
+gcc lab11.c -Wall
+#1417469891
+./a.out input.txt 8 output.txt
+#1417469906
+vim lab11.c
+#1417469935
+gcc lab11.c -Wall
+#1417469939
+vim lab11.c
+#1417469955
+gcc lab11.c -Wall
+#1417469960
+vim lab11.c
+#1417470000
+gcc lab11.c -Wall
+#1417470004
+./a.out input.txt 8 output.txt
+#1417470017
+vim lab11.c
+#1417470052
+gcc lab11.c -Wall
+#1417470054
+./a.out input.txt 8 output.txt
+#1417470105
+vim lab11.c
+#1417470160
+gcc lab11.c -Wall
+#1417470161
+./a.out input.txt 8 output.txt
+#1417470269
+vim lab11.c
+#1417470439
+gcc lab11.c -Wall
+#1417470440
+./a.out input.txt 8 output.txt
+#1417470465
+vim lab11.c
+#1417471163
+gcc lab11.c -Wall
+#1417471171
+vim lab11.c
+#1417471182
+gcc lab11.c -Wall
+#1417471188
+vim lab11.c
+#1417471211
+gcc lab11.c -Wall
+#1417471214
+./a.out input.txt 8 output.txt
+#1417471343
+vim lab11.c
+#1417471396
+gcc lab11.c -Wall
+#1417471398
+./a.out input.txt 8 output.txt
+#1417471408
+vim lab11.c
+#1417471452
+gcc lab11.c -Wall
+#1417471454
+./a.out input.txt 8 output.txt
+#1417471465
+vim lab11.c
+#1417471475
+gcc lab11.c -Wall
+#1417471476
+./a.out input.txt 8 output.txt
+#1417471484
+vim lab11.c
+#1417471533
+gcc lab11.c -Wall
+#1417471534
+./a.out input.txt 8 output.txt
+#1417471615
+vim lab11.c
+#1417471708
+gcc lab11.c -Wall
+#1417471709
+./a.out input.txt 8 output.txt
+#1417471843
+vim lab11.c
+#1417471872
+gcc lab11.c -Wall
+#1417471873
+./a.out input.txt 8 output.txt
+#1417471909
+vim lab11.c
+#1417472404
+gcc lab11.c -Wall
+#1417472405
+./a.out input.txt 8 output.txt
+#1417472423
+vim lab11.c
+#1417473651
+gcc lab11.c -Wall
+#1417473662
+./a.out input.txt
+#1417473666
+vim lab11.c
+#1417473675
+gcc lab11.c -Wall
+#1417473676
+./a.out input.txt
+#1417473682
+./a.out input.txt 8
+#1417473692
+./a.out inp.txt 8 output.txt
+#1417473696
+vim lab11.c
+#1417473709
+gcc lab11.c -Wall
+#1417473712
+./a.out inp.txt 8 output.txt
+#1417473723
+./a.out input.txt 8 output.txt
+#1417473729
+vim lab11.c
+#1417473743
+./a.out input.txt 8 output.txt
+#1417473751
+vim lab11.c
+#1417473757
+gcc lab11.c -Wall
+#1417473759
+./a.out input.txt 8 output.txt
+#1417473782
+vim lab11.c
+#1417473795
+gcc lab11.c -Wall
+#1417473796
+./a.out input.txt 8 output.txt
+#1417473811
+vim lab11.c
+#1417473821
+gcc lab11.c -Wall
+#1417473822
+./a.out input.txt 8 output.txt
+#1417473929
+vim lab11.c
+#1417474016
+cs_submit CS1050_LAB-D LAB11 lab11.c
+#1417474018
+ls
+#1417474036
+vim lab11.c
+#1417474064
+logout
+#1417749339
+cd fall2014/cs1050/
+#1417749340
+ls
+#1417749343
+cd homework4
+#1417749398
+ls
+#1417749421
+cs_submit CS1050_HW-D HW4 hw4.c
+#1417805952
+cd fall2014/cs1050/homework4
+#1417805954
+ls
+#1417805962
+vim hw4.c
+#1417806326
+gcc hw4.c -Wall
+#1417806335
+
+#1417806353
+./a.out input.txt 8 update.txt output.txt
+#1417806591
+gcc hw4.c -Wall
+#1417806594
+./a.out input.txt 8 update.txt output.txt
+#1417806663
+gcc hw4.c -Wall
+#1417806664
+./a.out input.txt 8 update.txt output.txt
+#1417806692
+gcc hw4.c -Wall
+#1417806695
+./a.out input.txt 8 update.txt output.txt
+#1417807071
+gcc hw4.c -Wall
+#1417807072
+./a.out input.txt 8 update.txt output.txt
+#1417807107
+gcc hw4.c -Wall
+#1417807109
+./a.out input.txt 8 update.txt output.txt
+#1417807207
+gcc hw4.c -Wall
+#1417807208
+./a.out input.txt 8 update.txt output.txt
+#1417808315
+gcc hw4.c -Wall
+#1417808480
+./a.out input.txt 8 update.txt output.txt
+#1417808554
+gcc hw4.c -Wall
+#1417809611
+./a.out input.txt 8 update.txt output.txt
+#1417809655
+cs_submit CS1050_HW-D HW4 hw4.c
+#1418759383
+cd fall2014/cs1050/lab7/inLab7
+#1418759385
+ls
+#1418759388
+vim lab7.c
+#1418761145
+cd ..
+#1418761148
+vim 
+#1418761155
+ls
+#1418761162
+cd lab8/inLab8
+#1418761167
+cd lab8
+#1418761168
+ls
+#1418761172
+cd lab8
+#1418761173
+ls
+#1418761180
+vim lab8.c
+#1418761303
+cd ...
+#1418761304
+cd ..
+#1418761306
+ls
+#1418761311
+cd lab9
+#1418761311
+ls
+#1418761314
+cd inLab9
+#1418761315
+ls
+#1418761318
+vim lab9.c
+#1418761534
+cd ..
+#1418761534
+ cd ..
+#1418761535
+ls
+#1418761540
+cd lab10
+#1418761541
+ls
+#1418761543
+cd inlab
+#1418761545
+cd inLab
+#1418761546
+ls
+#1418761549
+vim lab10.c
+#1418758380
+ls
+#1418758389
+cd fall2014
+#1418758395
+cd cs1050
+#1418758395
+ls
+#1418758402
+cd lab7
+#1418758404
+ls
+#1418758409
+cd inLab7
+#1418758412
+vim lab7.c
+#1418759179
+cd ..
+#1418759189
+mkdir testReview
+#1418759192
+cd testReview
+#1418759199
+vim code.c
+#1418759275
+gcc code.c
+#1418759279
+vim code.c
+#1418759491
+gcc code.c
+#1418759498
+vim code.c
+#1418759530
+gcc code.c
+#1418759536
+vim code.c
+#1418759576
+gcc code.c
+#1418759582
+vim code.c
+#1418759602
+gcc code.c
+#1418759605
+./a.out
+#1418759615
+vim code.c
+#1422231844
+ls
+#1422231855
+mkdir spring2015
+#1422231859
+cd spring2015
+#1422231915
+mkdir 2050
+#1422231917
+cd 2050
+#1422231921
+mkdir lab1
+#1422231923
+cd lab1
+#1422231930
+mkdir preLab1
+#1422231933
+cd preLab1
+#1422231940
+vim preLab1.c
+#1422235920
+vim numfile.txt
+#1422235986
+gcc preLab1.c
+#1422235991
+vim preLab1.c
+#1422236024
+gcc preLab1.c
+#1422236029
+vim preLab1.c
+#1422236128
+gcc preLab1.c
+#1422236134
+vim preLab1.c
+#1422236200
+gcc preLab1.c
+#1422236227
+vim preLab1.c
+#1422236400
+gcc preLab1.c
+#1422236413
+vim preLab1.c
+#1422236857
+gcc preLab1.c
+#1422236861
+gcc preLab1.c --Wall
+#1422236865
+gcc preLab1.c -Wall
+#1422236875
+vim preLab1.c
+#1422237030
+gcc preLab1.c -Wall
+#1422237038
+vim preLab1.c
+#1422237153
+gcc preLab1.c -Wall
+#1422237158
+./a.out
+#1422237163
+vim preLab1.c
+#1422237195
+gcc preLab1.c -Wall
+#1422237198
+./a.out
+#1422237215
+./a.out numfile.txt
+#1422237285
+./a.out numfile2.txt
+#1422237291
+ls
+#1422237299
+vim preLab1.c
+#1422239071
+gcc preLab1.c -Wall
+#1422239074
+./a.out numfile2.txt
+#1422305794
+ls
+#1422305801
+cd spring2015/2050
+#1422305801
+ls
+#1422305803
+cd lab1
+#1422305804
+ls
+#1422305809
+mkdir lab1
+#1422305813
+cd lab1
+#1422305826
+vim lab1.c
+#1422307517
+rm lab1.c.swp
+#1422307521
+rm .lab1.c.swp
+#1422307523
+vim lab1.c
+#1422308419
+vim input.txt
+#1422308442
+gcc lab1.c
+#1422308452
+vim lab1.c
+#1422308472
+gcc lab1.c
+#1422308479
+vim lab1.c
+#1422308489
+gcc lab1.c
+#1422308493
+vim lab1.c
+#1422308519
+gcc lab1.c
+#1422308530
+vim lab1.c
+#1422308541
+gcc lab1.c
+#1422308553
+vim lab1.c
+#1422308575
+gcc lab1.c
+#1422308578
+gcc lab1.c -Wall
+#1422308587
+vim lab1.c
+#1422308708
+gcc lab1.c -Wall
+#1422308714
+vim lab1.c
+#1422308787
+gcc lab1.c -Wall
+#1422308790
+./a.out
+#1422308797
+./a.out input.txt output.txt
+#1422308801
+cat output.txt
+#1422308813
+vim lab1.c
+#1422308841
+gcc lab1.c -Wall
+#1422308843
+./a.out input.txt output.txt
+#1422308847
+cat output.txt
+#1422308900
+vim lab1.c
+#1422309049
+gcc lab1.c -Wall
+#1422309051
+./a.out input.txt output.txt
+#1422309060
+cat input.txt
+#1422309083
+vim lab1.c
+#1422309142
+gcc lab1.c -Wall -g
+#1422309149
+gdb
+#1422309276
+vim lab1.c
+#1422309316
+gcc lab1.c -Wall -g
+#1422309321
+./a.out input.txt output.txt
+#1422309324
+cat output.txt
+#1422309344
+vim lab1.c
+#1422309637
+gcc lab1.c -Wall -g
+#1422309640
+./a.out input.txt output.txt
+#1422309668
+vim lab1.c
+#1422309704
+gcc lab1.c -Wall -g
+#1422309705
+./a.out input.txt output.txt
+#1422309722
+vim lab1.c
+#1422309826
+gcc lab1.c -Wall -g
+#1422309830
+./a.out input.txt output.txt
+#1422309834
+cat output.txt
+#1422309856
+vim lab1.c
+#1422310325
+rm .lab1.c.swp
+#1422310327
+vim lab1.c
+#1422311191
+gcc lab1.c -Wall -g
+#1422311195
+./a.out input.txt output.txt
+#1422311197
+cat output.txt
+#1422311201
+rm output.txt
+#1422311204
+./a.out input.txt output.txt
+#1422311206
+cat output.txt
+#1422311274
+vim lab1.c
+#1422311371
+gcc lab1.c -Wall -g
+#1422311374
+./a.out input.txt output.txt
+#1422311375
+cat output.txt
+#1422311380
+rm output.txt
+#1422311382
+cat output.txt
+#1422311392
+./a.out input.txt output.txt
+#1422311394
+cat output.txt
+#1422311438
+vim input.txt
+#1422311449
+vim input2.txt
+#1422311473
+./a.out input2.txt output.txt
+#1422311475
+cat output.txt
+#1422311525
+vim lab1.c
+#1422311593
+cp lab1.c pah9qd_lab1.c
+#1422311595
+ls
+#1422311611
+vim pah9qd_lab1.c
+#1422311631
+gcc pah9qd_lab1.c -Wall -g
+#1422311643
+./a.out input2.txt output2.txt
+#1422311647
+cat output2.txt
+#1422311682
+cp pah9qd_lab1.c /students/f/spnf2f/public/lab1
+#1422311694
+cd /students/f/spnf2f/public/lab1
+#1422311696
+ls
+#1422311705
+cd home
+#1422311708
+cd ~
+#1422311708
+ls
+#1422311712
+cd spring2015
+#1422311714
+cd 2050
+#1422311715
+ls
+#1422311717
+cd lab1
+#1422311717
+ls
+#1422311720
+cd lab1
+#1422311722
+ls
+#1422311728
+vim pah9qd_lab1.c
+#1422306511
+ls
+#1422306533
+cd spring2015/2050/lab1
+#1422306534
+ls
+#1422306549
+cd ..
+#1422306551
+ls
+#1422306553
+cd ..
+#1422306560
+cd fall2015/cs1050
+#1422306567
+cd fall2014/cs1050
+#1422306567
+ls
+#1422306587
+cd homework4
+#1422306588
+ls
+#1422306611
+vim hw4.c
+#1422838590
+ls
+#1422838594
+cd spring2015
+#1422838595
+ls
+#1422838596
+cd 2050
+#1422838597
+ls
+#1422838609
+mkdir lab2/prelab
+#1422838620
+mkdir /lab2/prelab
+#1422838625
+mkdir lab2
+#1422838631
+mkdir lab2/prelab
+#1422838637
+cd lab2/prelab
+#1422838645
+vim preLab2.c
+#1422841403
+gcc preLab2.c
+#1422841419
+vim preLab2.c
+#1422841435
+rm .preLab2.c.swp
+#1422841437
+vim preLab2.c
+#1422841478
+gcc preLab2.c
+#1422841499
+vim preLab2.c
+#1422841532
+gcc preLab2.c
+#1422841566
+vim preLab2.c
+#1422841770
+gcc preLab2.c
+#1422841776
+vim preLab2.c
+#1422841818
+gcc preLab2.c
+#1422841825
+vim preLab2.c
+#1422842886
+gcc preLab2.c
+#1422842899
+vim preLab2.c
+#1422842957
+gcc preLab2.c
+#1422842970
+vim input.txt
+#1422842990
+./a.out input.txt
+#1422842995
+./a.out
+#1422843005
+vim input.txt
+#1422843012
+vim preLab2.c
+#1422843230
+gcc preLab2.c
+#1422843234
+vim preLab2.c
+#1422843246
+gcc preLab2.c
+#1422843250
+./a.out
+#1422843255
+./a.out input.txt
+#1422843263
+vim preLab2.c
+#1422843313
+gcc preLab2.c
+#1422843315
+./a.out input.txt
+#1422843320
+vim preLab2.c
+#1422843371
+gcc preLab2.c
+#1422843372
+./a.out input.txt
+#1422843378
+vim preLab2.c
+#1422843486
+gcc preLab2.c -Wall
+#1422843503
+vim preLab2.c
+#1422843524
+gcc preLab2.c -Wall
+#1422843527
+./a.out input.txt
+#1422843540
+vim preLab2.c
+#1422843643
+gcc preLab2.c -Wall
+#1422843645
+./a.out input.txt
+#1422843678
+vim preLab2.c
+#1422843735
+gcc preLab2.c -Wall
+#1422843737
+./a.out input.txt
+#1422843779
+vim preLab2.c
+#1422845072
+gcc preLab2.c -Wall
+#1422845075
+./a.out input.txt
+#1422845079
+vim preLab2.c
+#1422845169
+./a.out inpt.txt
+#1422839780
+ls
+#1422839784
+cd fall2014
+#1422839788
+cd ..
+#1422839821
+cd spring2015/2050/lab1
+#1422839822
+ls
+#1422839826
+cd preLab1
+#1422839827
+ls
+#1422839843
+vim preLab1.c
+#1422911548
+ls
+#1422911556
+cd spring2015/2050/lab2
+#1422911556
+ls
+#1422911565
+mkdir lab2
+#1422911567
+cd lab2
+#1422911575
+vim lab2.c
+#1422911760
+chmod 777 /students/f/spnf2f/public/lab1/pah9qd_lab1.c
+#1422911762
+vim lab2.c
+#1422915021
+gcc lab2.c -lm
+#1422915026
+gcc lab2.c -lm -Wall
+#1422915043
+vim lab2.c
+#1422915064
+gcc lab2.c -lm -Wall
+#1422915068
+vim lab2.c
+#1422915088
+gcc lab2.c -lm -Wall
+#1422915091
+vim lab2.c
+#1422915105
+gcc lab2.c -lm -Wall
+#1422915116
+vim input.txt
+#1422915165
+./a.out 5 input.txt
+#1422915182
+vim lab2.c
+#1422915203
+gcc lab2.c -lm -Wall
+#1422915206
+./a.out 5 input.txt
+#1422915225
+vim input2.txt
+#1422915289
+./a.out 20 input2.txt
+#1422915344
+./a.out 5 input2.txt
+#1422915353
+vim lab2.c
+#1422916457
+gcc lab2.c -lm -Wall
+#1422916465
+vim lab2.c
+#1422916503
+gcc lab2.c -lm -Wall
+#1422916510
+./a.out 5 input.txt
+#1422916521
+vim lab2.c
+#1422916830
+gcc lab2.c -lm -Wall
+#1422916832
+./a.out 5 input.txt
+#1422916864
+vim lab2.c
+#1422916897
+gcc lab2.c -lm -Wall
+#1422916899
+./a.out 5 input.txt
+#1422916918
+vim lab2.c
+#1422917144
+gcc lab2.c -lm -Wall
+#1422917146
+./a.out 5 input.txt
+#1422917153
+vim lab2.c
+#1422917178
+gcc lab2.c -lm -Wall
+#1422917180
+./a.out 5 input.txt
+#1422917195
+vim lab2.c
+#1422917867
+gcc lab2.c -lm -Wall
+#1422917870
+./a.out 5 input.txt
+#1422917888
+vim input.txt
+#1422917908
+./a.out 5 input.txt
+#1422917916
+vim lab2.c
+#1422917950
+gcc lab2.c -lm -Wall
+#1422917952
+./a.out 5 input.txt
+#1422917968
+./a.out 20 input2.txt
+#1422918060
+vim lab2.c
+#1422918474
+gcc lab2.c -lm -Wall
+#1422918476
+./a.out 20 input2.txt
+#1422918510
+./a.out 5 input.txt
+#1422918514
+vim lab2.c
+#1422918524
+vim input.txt
+#1422918544
+./a.out 5 input.txt
+#1422918613
+./a.out 20 input2.txt
+#1422918783
+vim lab2.c
+#1422918872
+vim input.txt
+#1422918880
+gcc lab2.c -lm -Wall
+#1422918883
+./a.out 20 input2.txt
+#1422918895
+vim input.txt
+#1422918903
+vim lab2.c
+#1422919108
+gcc lab2.c -lm -Wall
+#1422919114
+./a.out 5 input.txt
+#1422919137
+vim lab2.c
+#1422919254
+gcc lab2.c -lm -Wall
+#1422919257
+./a.out 5 input.txt
+#1422919316
+cs_submit CS2050_Lab-E LAB2 lab2.c
+#1422919328
+cs_submit CS2050_LAB-E LAB2 lab2.c
+#1422919347
+cs_submit CS2050_E LAB2 lab2.c
+#1422919383
+gcc lab2.c -Wall -g -lm
+#1422919390
+./a.out 5 input.txt
+#1422919396
+exit
+#1422910728
+ls
+#1422910734
+cd fall2014/cs1050
+#1422910735
+ls
+#1422910738
+cd homework4
+#1422910739
+ls
+#1422910743
+vim hw4.c
+#1423022219
+\\itlabstorage.cs.missouri.edu
+#1423022236
+//itlabstorage.cs.missouri.edu
+#1423338874
+ls
+#1423338929
+cd spring2015/2050
+#1423338930
+ls
+#1423338936
+mkdir lab3
+#1423338938
+cd lab3
+#1423338942
+mkdir preLab3
+#1423338944
+cd preLab3
+#1423338951
+vim preLab3.c
+#1423341474
+gcc preLab3.c
+#1423341481
+vim preLab3.c
+#1423341544
+gcc preLab3.c
+#1423341554
+vim preLab3.c
+#1423341659
+gcc preLab3.c
+#1423341666
+vim preLab3.c
+#1423341709
+gcc preLab3.c
+#1423341719
+vim preLab3.c
+#1423341933
+gcc preLab3.c
+#1423341939
+vim preLab3.c
+#1423342004
+gcc preLab3.c
+#1423342008
+vim preLab3.c
+#1423342138
+gcc preLab3.c
+#1423342141
+vim preLab3.c
+#1423342219
+gcc preLab3.c
+#1423342224
+vim preLab3.c
+#1423342256
+gcc preLab3.c
+#1423342265
+vim preLab3.c
+#1423342291
+gcc preLab3.c
+#1423342297
+gcc preLab3.c -Wall
+#1423342378
+vim preLab3.c
+#1423342409
+gcc preLab3.c -Wall
+#1423342416
+vim preLab3.c
+#1423342488
+gcc preLab3.c -Wall
+#1423342655
+vim preLab3.c
+#1423342809
+gcc preLab3.c -Wall
+#1423342815
+vim input.txt
+#1423342853
+./a.out input.txt
+#1423343004
+vim preLab3.c
+#1423343564
+gcc preLab3.c -Wall
+#1423343577
+vim preLab3.c
+#1423343637
+gcc preLab3.c -Wall
+#1423343645
+./a.out input.txt
+#1423343652
+vim preLab3.c
+#1423343935
+gcc preLab3.c -Wall
+#1423343939
+vim preLab3.c
+#1423343947
+gcc preLab3.c -Wall
+#1423343968
+vim preLab3.c
+#1423344018
+gcc preLab3.c -Wall
+#1423344022
+./a.out input.txt
+#1423344232
+vim preLab3.c
+#1423345221
+gcc preLab3.c -Wall
+#1423345223
+./a.out input.txt
+#1423345289
+vim input.txt
+#1423345307
+gcc preLab3.c -g
+#1423345311
+gdb
+#1423345463
+vim preLab3.c 
+#1423345498
+gcc preLab3.c -g
+#1423345503
+gdb a.out
+#1423345797
+vim preLab3.c 
+#1423346140
+gcc preLab3.c -g
+#1423346145
+./a.out input.txt
+#1423346154
+vim preLab3.c 
+#1423346187
+gcc preLab3.c -g
+#1423346192
+./a.out input.txt 
+#1423346197
+vim preLab3.c 
+#1423346338
+gcc preLab3.c -g
+#1423346339
+./a.out input.txt 
+#1423346343
+vim preLab3.c 
+#1423346406
+gcc preLab3.c -g
+#1423346408
+./a.out input.txt 
+#1423346410
+vim preLab3.c 
+#1423451941
+ls
+#1423451955
+cd spring2015/2050/lab3/preLab3/
+#1423451957
+ls
+#1423451965
+vim preLab3.c
+#1423452630
+gcc preLab3.c
+#1423452635
+gcc preLab3.c -Wall
+#1423452656
+vim preLab3.c
+#1423452697
+gcc preLab3.c -Wall
+#1423452704
+./a.out input.txt
+#1423452710
+vim preLab3.c
+#1423452724
+gcc preLab3.c -Wall
+#1423452727
+./a.out input.txt
+#1423452742
+vim preLab3.c
+#1423452789
+vim input.txt 
+#1423452933
+vim preLab3.c
+#1423452950
+gcc preLab3.c -Wall -g
+#1423452956
+gdb a.out
+#1423453235
+vim preLab3.c 
+#1423453334
+gcc preLab3.c -Wall -g
+#1423453340
+./a.out input.txt 
+#1423453345
+vim preLab3.c 
+#1423453532
+./a.out input.txt 
+#1423453535
+gcc preLab3.c -Wall -g
+#1423453536
+vim preLab3.c 
+#1423453540
+./a.out input.txt 
+#1423453564
+vim preLab3.c 
+#1423453680
+gcc preLab3.c -Wall -g
+#1423453682
+./a.out input.txt 
+#1423453684
+vim preLab3.c 
+#1423454014
+gcc preLab3.c -Wall -g
+#1423454024
+vim preLab3.c 
+#1423454427
+gcc preLab3.c -Wall -g
+#1423454430
+./a.out input.txt 
+#1423454458
+vim preLab3.c 
+#1423454538
+gcc preLab3.c -Wall -g
+#1423454540
+./a.out input.txt 
+#1423454663
+logout
+#1423511299
+cd spring2015/2050/lab3
+#1423511300
+ls
+#1423511306
+mkdir practiceLabs
+#1423511308
+cd practiceLabs/
+#1423511395
+vim ex7.c
+#1423512277
+gcc ex7.c -Wall
+#1423512284
+vim ex7.c
+#1423512363
+gcc ex7.c -Wall
+#1423512367
+vim ex7.c
+#1423512384
+gcc ex7.c -Wall
+#1423512385
+vim ex7.c
+#1423512398
+gcc ex7.c -Wall
+#1423512401
+ls
+#1423512404
+./a.out
+#1423512415
+vim ex7.c
+#1423512441
+gcc ex7.c -Wall
+#1423512442
+./a.out
+#1423512448
+ls
+#1423512450
+./a.out
+#1423512453
+ls
+#1423512461
+vim oldmast.dat
+#1423512526
+vim ex8.c
+#1423512587
+ls
+#1423512656
+gcc -o seedData.exe ex7.c
+#1423512657
+ls
+#1423512665
+seedData.exe
+#1423512670
+./seedData.exe
+#1423512675
+ls
+#1423512679
+vim ex8.c
+#1423514784
+gcc ex8.c
+#1423514787
+vim ex8.c
+#1423514795
+gcc ex8.c
+#1423514802
+vim ex8.c
+#1423514869
+gcc ex8.c
+#1423514878
+vim ex8.c
+#1423514901
+gcc ex8.c
+#1423514912
+vim ex8.c
+#1423514923
+gcc ex8.c
+#1423514928
+vim ex8.c
+#1423514939
+gcc ex8.c
+#1423514960
+vim ex8.c
+#1423515930
+cd spring2015/2050/lab3
+#1423515934
+mkdir lab3
+#1423515940
+cp lab3 inLab3
+#1423515943
+ls
+#1423515947
+mv lab3 inLab3
+#1423515949
+cd inLab3
+#1423515950
+ls
+#1423515953
+vim lab3.c
+#1423515965
+cd ..
+#1423515970
+cd lab2
+#1423515971
+ls
+#1423515973
+cd lab2
+#1423515974
+ls
+#1423515979
+vim lab2.c
+#1423516042
+cd ..
+#1423516050
+cd lab3/inLab3/
+#1423516052
+vim lab3.c
+#1423518367
+gcc lab3.c
+#1423518374
+vim lab3.c
+#1423518385
+gcc lab3.c
+#1423518393
+vim lab3.c
+#1423518411
+gcc lab3.c
+#1423518446
+vim lab3.c
+#1423518553
+gcc lab3.c
+#1423518562
+vim lab3.c
+#1423518640
+gcc lab3.c
+#1423518646
+vim lab3.c
+#1423518664
+gcc lab3.c
+#1423518668
+vim lab3.c
+#1423518690
+gcc lab3.c
+#1423518693
+gcc lab3.c -Wall
+#1423518702
+vim lab3.c
+#1423518729
+gcc lab3.c -Wall
+#1423518738
+vim lab3.c
+#1423518754
+gcc lab3.c -Wall
+#1423518757
+ls
+#1423518761
+vim input.txt
+#1423518809
+rm input.txt
+#1423518810
+vim input.txt
+#1423518847
+ls
+#1423518853
+vim update.txt 
+#1423518900
+./a.out input.txt update.txt output.txt
+#1423518901
+ls
+#1423518905
+vim output.txt
+#1423518955
+vim lab3.c
+#1423519066
+gcc lab3.c -Wall -g
+#1423519073
+gdb a.out
+#1423519239
+vim lab3.c 
+#1423519268
+gcc lab3.c -Wall -g
+#1423519273
+vim lab3.c 
+#1423519365
+gcc lab3.c -g
+#1423519369
+gdb a.out
+#1423519852
+vim lab3.c 
+#1423520072
+gcc lab3.c -g
+#1423520081
+./a.out input.txt update.txt output.txt 
+#1423520087
+cat output.txt
+#1423520094
+vim lab3.c 
+#1423520163
+vim update.txt
+#1423520188
+vim lab3.c 
+#1423520257
+gcc lab3.c -g
+#1423520259
+./a.out input.txt update.txt output.txt 
+#1423520262
+cat output.txt
+#1423520272
+vim lab3.c 
+#1423520433
+gcc lab3.c -g
+#1423520434
+./a.out input.txt update.txt output.txt 
+#1423520437
+cat output.txt
+#1423520447
+vim lab3.c 
+#1423520458
+cat update.c
+#1423520463
+cat update.txt
+#1423520471
+vim lab3.c 
+#1423520685
+gcc lab3.c -g
+#1423520688
+gdb a.out
+#1423521051
+vim lab3.c 
+#1423521059
+gdb a.out
+#1423521063
+gcc lab3.c -g
+#1423521068
+vim lab3.c 
+#1423521079
+gcc lab3.c -g
+#1423521085
+./a.out input.txt update.txt output.txt 
+#1423521088
+cat output.txt
+#1423521105
+cat update.txt
+#1423521120
+gdb a.out
+#1423521224
+vim input.txt
+#1423521235
+./a.out input.txt update.txt output.txt 
+#1423521237
+cat output.txt 
+#1423521266
+vim lab3.c 
+#1423521821
+gcc lab3.c -Wall -g
+#1423521834
+gdb a.out
+#1423521949
+vim lab3.c 
+#1423522454
+gcc lab3.c -Wall -g
+#1423522459
+vim lab3.c 
+#1423522480
+gcc lab3.c -Wall -g
+#1423522483
+vim lab3.c 
+#1423522492
+gcc lab3.c -Wall -g
+#1423522500
+./a.out input.txt update.txt output.txt 
+#1423522504
+cat output.txt
+#1423522510
+vim input.txt
+#1423522520
+./a.out input.txt update.txt output.txt 
+#1423522523
+cat output.txt
+#1423522530
+vim input.txt
+#1423522535
+vim lab3.c 
+#1423522565
+gcc lab3.c -Wall -g
+#1423522567
+./a.out input.txt update.txt output.txt 
+#1423522573
+cat output.txt 
+#1423522580
+vim lab3.c 
+#1423523245
+gcc lab3.c -Wall -g
+#1423523248
+man valgrind
+#1423523291
+valgrind --tool=memcheck --leak-check=full ./a.out
+#1423523307
+valgrind --tool=memcheck --leak-check=full ./a.out input.txt update.txt output.txt
+#1423523349
+vim lab3.c 
+#1423523420
+gcc lab3.c -Wall -g
+#1423523423
+valgrind --tool=memcheck --leak-check=full ./a.out input.txt update.txt output.txt
+#1423523509
+vim lab3.c 
+#1423523580
+gcc lab3.c -Wall -g
+#1423523584
+vim lab3.c 
+#1423523589
+gcc lab3.c -Wall -g
+#1423523594
+./a.out input.txt update.txt output.txt 
+#1423523598
+cat output.txt
+#1423523608
+vim lab3.c 
+#1423523637
+gcc lab3.c -Wall -g
+#1423523639
+./a.out input.txt update.txt output.txt 
+#1423523643
+cat output.txt
+#1423523655
+valgrind --tool=memcheck --leak-check=full ./a.out input.txt update.txt output.txt
+#1423523771
+vim lab3.c 
+#1423523886
+gcc lab3.c -Wall -g
+#1423523890
+./a.out input.txt update.txt output.txt 
+#1423523891
+cat output.txt 
+#1423523899
+valgrind --tool=memcheck --leak-check=full ./a.out input.txt update.txt output.txt
+#1423523917
+valgrind --tool=memcheck --leak-check=full -v ./a.out input.txt update.txt output.txt
+#1423523991
+vim input.txt
+#1423524012
+gcc lab3.c -Wall -g
+#1423524017
+./a.out input.txt update.txt output.txt 
+#1423524019
+cat output.txt 
+#1423524027
+cat input.txt
+#1423524063
+cs_submit CS2050_E LAB3 lab3.c
+#1423524096
+vim lab3.c 
+#1423524156
+logout
+#1423516122
+cd spring2015/2050/lab2/lab2/
+#1423516125
+vim lab2.c
+#1423771951
+cd spring2015/2050/homework1
+#1423771955
+cd spring2015/2050/
+#1423771959
+mkdir homework1
+#1423771962
+cd homework1
+#1423771972
+ls
+#1423771974
+ll
+#1423772039
+vim hw1.c
+#1423773194
+rm .hw1.c.swp
+#1423773196
+vim hw1.c
+#1423776962
+gcc hw1.c
+#1423776975
+vim hw1.c
+#1423777038
+gcc hw1.c
+#1423777044
+vim hw1.c
+#1423777183
+gcc hw1.c
+#1423777187
+vim hw1.c
+#1423777199
+gcc hw1.c
+#1423777205
+vim hw1.c
+#1423777552
+gcc hw1.c
+#1423777560
+vim hw1.c
+#1423777617
+gcc hw1.c
+#1423777620
+vim hw1.c
+#1423777658
+gcc hw1.c
+#1423777666
+vim hw1.c
+#1423777717
+gcc hw1.c
+#1423777722
+vim hw1.c
+#1423777867
+gcc hw1.c
+#1423777870
+vim hw1.c
+#1423777910
+gcc hw1.c
+#1423777913
+vim hw1.c
+#1423777934
+gcc hw1.c
+#1423777949
+vim hw1.c
+#1423777963
+gcc hw1.c
+#1423777967
+vim hw1.c
+#1423777997
+gcc hw1.c
+#1423777999
+vim hw1.c
+#1423778010
+gcc hw1.c
+#1423778024
+vim input.txt
+#1423778081
+vim update.txt
+#1423778141
+./a.out input.txt update.txt output.txt
+#1423778153
+vim hw1.c
+#1423778206
+gcc hw1.c
+#1423778208
+./a.out input.txt update.txt output.txt
+#1423778212
+cat output.txt
+#1423778240
+vim hw1.c
+#1423778255
+gcc hw1.c -Wall
+#1423778264
+vim hw1.c
+#1423778288
+gcc hw1.c -Wall
+#1423778290
+gcc hw1.c -Wall -g
+#1423778298
+gdb a.out
+#1423778464
+vim hw1.c 
+#1423779172
+gcc hw1.c -Wall -g
+#1423779175
+gdb a.out
+#1423779237
+./a.out input.txt update.txt output.txt 
+#1423779240
+cat output.txt
+#1424024020
+cd spring2015/2050/homework1/
+#1424024032
+./a.out input.txt output.txt update.txt
+#1424024047
+cat update.txt
+#1424024054
+cat output.txt
+#1424024076
+vim hw1.c 
+#1424294103
+cd spring2015/2050/lab4/
+#1424294107
+gcc lab4.c
+#1424295406
+vim input.txt
+#1424295463
+mv input.txt trans.txt
+#1424295464
+ls
+#1424295468
+vim input.txt
+#1424295491
+./a.out
+#1424295520
+gcc lab4.c 
+#1424295523
+./a.out
+#1424295536
+./a.out input.txt trans.txt
+#1424295595
+gcc lab4.c -Wall
+#1424295761
+./a.out input.txt trans.txt 
+#1424295767
+gcc lab4.c -Wall -g
+#1424295773
+gdb a.out
+#1424296316
+gcc lab4.c -Wall - g
+#1424296319
+gcc lab4.c -Wall -g
+#1424296328
+./a.out input.txt trans.txt
+#1424296334
+gbd a.out
+#1424296337
+gdb a.out
+#1424296789
+gcc lab4.c
+#1424296794
+gcc lab4.c -Wall -g
+#1424296804
+./a.out input.txt trans.txt
+#1424293630
+ll
+#1424293634
+ls
+#1424293641
+cd spring2015/2050/
+#1424293646
+mkdir lab4
+#1424293648
+cd lab4
+#1424293655
+vim lab4.c
+#1424293974
+ll
+#1424293976
+ls
+#1424293984
+rm .lab4.c.swp
+#1424293999
+ls
+#1424294002
+vim lab4.c
+#1424294065
+gcc lab4.c
+#1424294116
+vim lab4.c
+#1424362675
+cd spring2015/2050/lab4/
+#1424362676
+ls
+#1424362677
+ll
+#1424362734
+gcc lab4.c -Wall -g
+#1424362741
+gdb a.out
+#1424362894
+gcc lab4.c -Wall -g
+#1424362895
+gdb a.out
+#1424362987
+y
+#1424363004
+valgrind --leak-check=full -v ./a.out input.txt trans.txt
+#1424363153
+valgrind --lead-check=yes ./a.out input.txt trans.txt
+#1424363160
+valgrind --leak-check=yes ./a.out input.txt trans.txt
+#1424363225
+gcc lab4.c -Wall -g
+#1424363335
+valgrind --leak-check=yes ./a.out input.txt trans.txt
+#1424363378
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424363519
+gcc lab4.c -Wall -g
+#1424363561
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424363604
+gcc lab4.c -Wall -g
+#1424363605
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424363839
+gcc lab4.c -Wall -g
+#1424363840
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424363864
+gcc lab4.c -Wall -g
+#1424364070
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424364079
+gdb
+#1424364087
+gdb a.out
+#1424364234
+gcc lab4.c -Wall -g
+#1424364374
+gdb a.out
+#1424364757
+gcc lab4.c -Wall -g
+#1424364761
+gdb a.out
+#1424362722
+cd spring2015/2050/lab4
+#1424362725
+vim lab4.c
+#1424365167
+cd spring2015/2050/lab4
+#1424365170
+vim lab4.c
+#1424384300
+cd spring2015/2050/lab4
+#1424384301
+ls
+#1424384309
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424384325
+cd ..
+#1424384329
+ll
+#1424384332
+cd lab3
+#1424384335
+ll
+#1424384347
+cd inLab3
+#1424384349
+ls
+#1424384353
+vim lab3.c
+#1424384645
+cd spring2015/2050/lab4
+#1424384663
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424384673
+gcc lab4.c -Wall -g
+#1424384675
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424384746
+gdb a.out
+#1424384226
+ls
+#1424384231
+cd spring2015/2050/lab4
+#1424384232
+ll
+#1424384239
+./a.out input.txt trans.txt
+#1424384273
+vim lab4.c
+#1424388600
+cd spring2015/2050/lab4
+#1424389233
+gdb a.out
+#1424390000
+cat input.txt
+#1424390013
+gdb
+#1424390023
+gdb a.out
+#1424390133
+gcc lab4.c -Wall -g
+#1424390309
+./a.out input.txt trans.txt
+#1424390885
+gcc lab4.c -Wall -g
+#1424390894
+./a.out intput.txt trans.txt
+#1424390943
+gdb a.out
+#1424393398
+gcc lab4.c -Wall -g
+#1424393424
+./a.out input.txt trans.txt
+#1424393917
+valgrind --leak-check=yes --show-reachable=yes ./a.out input.txt trans.txt
+#1424388559
+cd spring2015/2050/lab4
+#1424388562
+vim lab4.c
+#1424407999
+cd spring2015/2050/lab4
+#1424408001
+vim lab4.c
+#1424403448
+cd spring2015/2050/lab4
+#1424403449
+ll
+#1424403466
+./a.out input.txt trans.txt
+#1424403665
+echo # lab4 >> README.md
+#1424403667
+ls
+#1424403678
+git origin
+#1424403772
+cd ..
+#1424403783
+cp lab4 lab4_copy
+#1424403786
+ls
+#1424403793
+man cp
+#1424403880
+cp -r lab4 lab4_copy
+#1424403881
+ll
+#1424403884
+cd lab4_copy
+#1424403885
+ll
+#1424403888
+cd ..
+#1424403890
+cd lab4
+#1424403970
+git clone https://github.com/PercyODI/lab4.git
+#1424403984
+git push master origin
+#1424403997
+ll
+#1424404001
+git commit -m ""
+#1424404029
+git init
+#1424404039
+git commit -m "first commit"
+#1424404048
+git add -all
+#1424404057
+git add --all
+#1424404062
+git commit "first commit"
+#1424404070
+git commit "first"
+#1424404075
+git commit -m "first"
+#1424404095
+git remote add origin https://github.com/PercyODI/lab4.git
+#1424404102
+git push -u origin master
+#1424404120
+git push origin master
+#1424404169
+git remote -v
+#1424404237
+git remote set-url origin 
+#1424404259
+git remote set-url origin git@github.com:PercyODI/lab4.git
+#1424404262
+git -v
+#1424404268
+git remote -v
+#1424404280
+git push origin master
+#1424404330
+vim lab4.c
+#1424406903
+gcc lab4.c -Wall -g
+#1424406914
+./a.out input.txt trans.txt
+#1424406952
+./a.out
+#1424406971
+cs_submit CS2050_E LAB4 lab4.c
+#1424407400
+cd ..
+#1424407404
+cd homework1/
+#1424407405
+ll
+#1424407414
+cat update.txt
+#1424407429
+vim update.txt
+#1424407483
+./a.out input.txt update.txt output.txt
+#1424407486
+cat output.txt
+#1424407628
+valgrind --leak-check=full a.out input.txt update.txt output.txt
+#1424407642
+valgrind --leak-check=full ./a.out input.txt update.txt output.txt
+#1424407662
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt update.txt output.txt
+#1424407674
+vim hw1.c 
+#1424408185
+gcc hw1.c -Wall -g
+#1424408198
+./a.out input.txt update.txt output.txt
+#1424408204
+cat output.txt
+#1424408213
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt update.txt output.txt
+#1424408246
+cs_submit CS2050_E HW1 hw1.c
+#1425316997
+cd spring2015/2050/lab5/preLab5/
+#1425316999
+ls
+#1425317003
+gcc preLab5.c
+#1425317010
+gcc prelab5.c
+#1425317124
+./a.out
+#1425317200
+gcc prelab5.c
+#1425317205
+./a.out
+#1425317744
+gcc prelab5.c
+#1425317746
+./a.out
+#1425317810
+gcc prelab5.c
+#1425317904
+./a.out 5
+#1425317907
+./a.out 6
+#1425317910
+./a.out 9
+#1425317917
+./a.out 10
+#1425318039
+gcc prelab5.c
+#1425318042
+./a.out 9
+#1425318050
+./a.out 10
+#1425318057
+gcc prelab5.c
+#1425318060
+./a.out 9
+#1425318063
+./a.out 10
+#1425318104
+./a.out 11
+#1425318108
+./a.out 1
+#1425318113
+./a.out 10
+#1425318122
+./a.out 
+#1425318204
+gcc prelab5.c
+#1425318208
+./a.out 1
+#1425318254
+gcc prelab5.c
+#1425318256
+./a.out 2
+#1425318260
+gcc prelab5.c
+#1425318261
+./a.out 2
+#1425318272
+gcc prelab5.c
+#1425318273
+./a.out 2
+#1425318342
+gcc prelab5.c
+#1425318343
+./a.out 2
+#1425318346
+./a.out 1
+#1425318353
+./a.out 10
+#1425318397
+./a.out 0
+#1425318404
+./a.out 111
+#1425318515
+gcc prelab5.c
+#1425318516
+./a.out 111
+#1425318521
+./a.out 10
+#1425318528
+./a.out 9
+#1425318529
+./a.out 8
+#1425318531
+./a.out 7
+#1425318532
+./a.out 6
+#1425318534
+./a.out 5
+#1425318536
+./a.out 4
+#1425318538
+./a.out 3
+#1425318540
+./a.out 2
+#1425318542
+./a.out 1
+#1425318546
+./a.out 0
+#1425318613
+gcc preLab5.c
+#1425318625
+gcc prelab5.c 
+#1425318630
+./a.out 1
+#1425318652
+./a.out 3
+#1425318654
+./a.out 4
+#1425318655
+./a.out 5
+#1425318657
+./a.out 6
+#1425318661
+./a.out 7
+#1425318662
+./a.out 8
+#1425318663
+./a.out 9
+#1425318664
+./a.out 0
+#1425318666
+./a.out 10
+#1425318668
+./a.out 11
+#1425315773
+ls
+#1425315780
+cd spring2015/2050/
+#1425315786
+mkdir lab5
+#1425315788
+cd lab5
+#1425315804
+mkdir preLab5
+#1425315807
+cd preLab5
+#1425315817
+vim prelab5.c
+#1425316941
+gcc prelab5.c
+#1425316946
+vim prelab5.c
+#1425329826
+cd spring2015/2050/lab5/inLab5/
+#1425329829
+ll
+#1425332700
+vim input.txt
+#1425332713
+ll
+#1425332717
+gcc lab5.c
+#1425333013
+gcc lab5.c -Wall
+#1425333084
+./a.out input.txt
+#1425333686
+gcc lab5.c -Wall
+#1425333708
+./a.out input.txt
+#1425333761
+gcc lab5.c -Wall
+#1425333764
+./a.out input.txt
+#1425333860
+gcc lab5.c -Wall
+#1425333863
+./a.out input.txt
+#1425334125
+gcc lab5.c -Wall
+#1425334171
+valgrind --leak-check=yes a.out input.txt
+#1425334178
+valgrind --leak-check=yes ./a.out input.txt
+#1425334251
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1425334321
+gcc lab5.c -Wall
+#1425334323
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1425335204
+gcc lab5.c -Wall
+#1425335208
+./a.out input.txt
+#1425335517
+gcc fileCreate.c
+#1425335603
+gcc fileCreate.c -Wall
+#1425335696
+gcc -o fileCreate fileCreate.c -Wall
+#1425335698
+ll
+#1425335713
+gcc lab5.c -Wall
+#1425335720
+fileCreate 100
+#1425335727
+./fileCreate 100
+#1425335746
+ll
+#1425335753
+cat coolInput.txt
+#1425335760
+vim coolInput.txt
+#1425335789
+gcc -o fileCreate fileCreate.c -Wall
+#1425335792
+./fileCreate
+#1425335799
+cat coolInput.txt
+#1425335808
+./a.out coolInput.txt
+#1425335866
+./a.out input.txt
+#1425335882
+gdb a.out
+#1425336045
+gcc lab5.c -g
+#1425336058
+gdb a.out
+#1425336263
+fileCreate
+#1425336267
+./fileCreate
+#1425336290
+./a.out coolInput.txt
+#1425336345
+gcc lab5.c -g
+#1425336349
+./a.out coolInput.txt
+#1425336358
+cat coolInput.txt
+#1425336367
+gcc -o fileCreate fileCreate.c -Wall
+#1425336377
+./fileCreate
+#1425336382
+cat coolInput.txt
+#1425336388
+./a.out coolInput.txt
+#1425336417
+gcc lab5.c -g
+#1425336419
+./a.out coolInput.txt
+#1425336459
+gcc -o fileCreate fileCreate.c -Wall
+#1425336461
+./fileCreate
+#1425336471
+./a.out coolinput.txt
+#1425336482
+./a.out coolInput.txt
+#1425336515
+gcc -o fileCreate fileCreate.c -Wall
+#1425336518
+./fileCreate
+#1425336523
+cat coolInput.txt
+#1425336531
+./a.out coolInput.txt
+#1425329782
+cd spring2015/2050/lab5
+#1425329787
+mkdir inLab5
+#1425329794
+cd inLab5/
+#1425329798
+vim lab5.c
+#1425329885
+cd ..
+#1425329888
+ls
+#1425329897
+cd inLab5/
+#1425329903
+vim lab5.c 
+#1425333899
+vim fileCreate.c
+#1425334062
+vim lab5.c 
+#1425335238
+vim fileCreate.c
+#1425335860
+vim lab5.c 
+#1425336199
+vim fileCreate.c
+#1425336314
+vim lab5.c
+#1425336434
+vim fileCreate
+#1425336442
+vim fileCreate.c
+#1425336587
+vim lab5.c
+#1425336631
+gcc lab5.c -Wall -g
+#1425336636
+./a.out input.txt
+#1425336710
+cs_submit CS2050E LAB5 lab5.c
+#1425336716
+cs_submit_CS2050E LAB5 lab5.c
+#1425336727
+cs_submit CS2050_E LAB5 lab5.c
+#1425336743
+cat coolInput.txt
+#1425336785
+gdb a.out
+#1425336919
+cp lab5.c lab5Fun.c
+#1425336924
+gcc lab5Fun.c -g -Wall
+#1425336928
+vim lab5Fun.c
+#1425337035
+ll
+#1425337040
+vim fileCreate.c
+#1425337072
+gcc -o fileCreate fileCreate.c
+#1425337074
+ll
+#1425337085
+./fileCreate
+#1425337097
+cat coolInput.txt
+#1425337110
+./a.out coolInput.txt
+#1425337144
+gcc lab5Fun.c -g -Wall
+#1425337159
+vim lab5Fun.c
+#1425337192
+gcc lab5Fun.c -g -Wall
+#1425337197
+vim lab5Fun.c
+#1425337208
+gcc lab5Fun.c -g -Wall
+#1425337212
+vim lab5Fun.c
+#1425337238
+gcc lab5Fun.c -g 
+#1425337243
+./a.out coolInput.txt
+#1425337317
+vim fileCreate
+#1425337322
+vim fileCreate.c
+#1425337342
+gcc -o fileCreate fileCreate.c
+#1425337346
+fileCreate
+#1425337351
+./fileCreate
+#1425337359
+cat coolInput.txt
+#1425337370
+gcc lab5Fun.c 
+#1425337378
+./a.out coolInput.txt
+#1425337428
+logout
+#1425866496
+ll
+#1425866509
+cd spring2015/2050/
+#1425866513
+mkdir lab6
+#1425866514
+cd lab
+#1425866517
+cd lab6
+#1425866524
+mkdir preLab6
+#1425866529
+cd preLab6
+#1425866530
+ls
+#1425866537
+vim preLab6.c
+#1425868402
+cd spring2015/2050/lab6/preLab6/
+#1425868404
+ls
+#1425868410
+vim preLab6.c
+#1425868330
+cd spring2015/2050/lab6/preLab6/
+#1425868333
+ls
+#1425868377
+ls -a
+#1425868430
+ll -a
+#1425868439
+rm .preLab6.c.swp
+#1425868443
+rm .preLab6.c.swo 
+#1425868446
+ll -a
+#1425868448
+ls
+#1425868454
+gcc preLab6.c
+#1425868570
+ls
+#1425868574
+ll -a
+#1425868935
+ls
+#1425868940
+ls -a
+#1425911224
+cd spring2015/2050/lab6/preLab6/
+#1425911227
+ls
+#1425912301
+gcc prelab6.c
+#1425912305
+gcc preLab6.c
+#1425912310
+./a.out
+#1425912335
+gcc preLab6.c -g
+#1425912340
+gdb a.out
+#1425912409
+gcc preLab6.c 
+#1425912413
+./a.out
+#1425912549
+gcc preLab6.c 
+#1425912552
+./a.out
+#1425912562
+gcc preLab6.c -g
+#1425912565
+logout
+#1425911200
+cd spring2015/2050/lab6/preLab6/
+#1425911232
+vim preLab6.c
+#1425916803
+cd spring2015/2050/lab6/preLab6/
+#1425916804
+ls
+#1425916814
+gcc preLab6.c -g -Wall
+#1425916996
+./a.out
+#1425917042
+gcc preLab6.c -g -Wall
+#1425917044
+./a.out
+#1425917068
+gcc preLab6.c -g -Wall
+#1425917069
+./a.out
+#1425917094
+gcc preLab6.c -g -Wall
+#1425917095
+./a.out
+#1425917134
+gcc preLab6.c -g -Wall
+#1425917137
+./a.out
+#1425917624
+gcc preLab6.c -g -Wall
+#1425917625
+./a.out
+#1425917999
+valgrind a.out
+#1425918003
+valgrind
+#1425918010
+valgrind --help
+#1425918018
+valgrind ./a.out
+#1425918774
+gcc preLab6.c -g -Wall
+#1425918794
+valgrind ./a.out
+#1425918800
+./a.out
+#1425919167
+gcc preLab6.c -g -Wall
+#1425919201
+./a.out
+#1425919610
+gcc preLab6.c -g -Wall
+#1425919724
+./a.out
+#1425919766
+gcc preLab6.c -g -Wall
+#1425919767
+./a.out
+#1425919879
+ls
+#1425919881
+cat output.txt
+#1425916754
+ls
+#1425916759
+cd spring2015/2050/lab6/preLab6/
+#1425916761
+ls
+#1425916766
+vim preLab6.c
+#1425927465
+cd spring2015/2050/lab6/preLab6/
+#1425927466
+ls
+#1425927470
+cat output.txt
+#1425927483
+vim preLab6.c 
+#1425927705
+gcc preLab6.c -Wall
+#1425927710
+vim preLab6.c 
+#1425927716
+gcc preLab6.c -Wall
+#1425927719
+./a.out
+#1425927726
+cat output.txt
+#1425927928
+vim preLab6.c 
+#1425927960
+gcc preLab6.c -Wall
+#1425927964
+./a.out
+#1425931107
+cd spring2015/2050/lab6/inLab6/
+#1425931108
+ll
+#1425931124
+rand() %5
+#1425931133
+rand() yes
+#1425933794
+ls
+#1425933798
+gcc lab6.c
+#1425934073
+gcc lab6.c -Wall
+#1425934390
+./a.out
+#1425934429
+gcc lab6.c -Wall
+#1425934430
+./a.out
+#1425934467
+gcc lab6.c -Wall
+#1425934468
+./a.out
+#1425934717
+gcc lab6.c -Wall
+#1425934718
+./a.out
+#1425934846
+gcc lab6.c -Wall
+#1425934848
+./a.out
+#1425935156
+gcc lab6.c -Wall -lm
+#1425935158
+./a.out
+#1425936027
+gcc lab6.c -Wall -lm
+#1425936096
+./a.out
+#1425936156
+gcc lab6.c -Wall -lm -g
+#1425936159
+gdb a.out
+#1425936218
+gcc lab6.c -Wall -lm -g
+#1425936220
+gdb a.out
+#1425936413
+gcc lab6.c -Wall -lm -g
+#1425936414
+gdb a.out
+#1425936490
+gcc lab6.c -Wall -lm -g
+#1425936491
+gdb a.out
+#1425936519
+./a.out
+#1425936627
+gcc lab6.c -Wall -lm -g
+#1425936630
+./a.out
+#1425936842
+gcc lab6.c -Wall -lm -g
+#1425936843
+./a.out
+#1425936851
+gdb a.out
+#1425936908
+gcc lab6.c -Wall -lm -g
+#1425936911
+gdb a.out
+#1425936979
+./a.out
+#1425937887
+gcc lab6.c -Wall -lm -g
+#1425937889
+./a.out
+#1425938163
+gcc lab6.c -Wall -lm -g
+#1425938164
+./a.out
+#1425938638
+gcc lab6.c -Wall -lm -g
+#1425938639
+./a.out
+#1425938702
+gcc lab6.c -Wall -lm -g
+#1425938703
+./a.out
+#1425938721
+gcc lab6.c -Wall -lm -g
+#1425938722
+./a.out
+#1425938759
+gcc lab6.c -Wall -lm -g
+#1425938760
+./a.out
+#1425938886
+gcc lab6.c -Wall -lm -g
+#1425938887
+./a.out
+#1425938964
+gcc lab6.c -Wall -lm -g
+#1425938965
+./a.out
+#1425939074
+gcc lab6.c -Wall -lm -g
+#1425939074
+./a.out
+#1425939303
+gcc lab6.c -Wall -lm -g
+#1425939304
+./a.out
+#1425939338
+gcc lab6.c -Wall -lm -g
+#1425939338
+./a.out
+#1425939377
+gcc lab6.c -Wall -lm -g
+#1425939378
+./a.out
+#1425939429
+gcc lab6.c -Wall -lm -g
+#1425939429
+./a.out
+#1425939657
+gcc lab6.c -Wall -lm -g
+#1425939660
+./a.out
+#1425939697
+gcc lab6.c -Wall -lm -g
+#1425939718
+./a.out
+#1425939846
+gcc lab6.c -Wall -lm -g
+#1425939847
+./a.out
+#1425940223
+gcc lab6.c -Wall -lm -g
+#1425940224
+./a.out
+#1425940228
+valgrind a.out
+#1425940234
+valgrind ./a.out
+#1425940263
+valgrind --leak-check=full ./a.out
+#1425940316
+gcc lab6.c -Wall -lm -g
+#1425940317
+valgrind --leak-check=full ./a.out
+#1425940397
+gcc lab6.c -Wall -lm -g
+#1425940398
+valgrind --leak-check=full ./a.out
+#1425940583
+./a.out
+#1425940758
+valgrind ./a.out
+#1425940829
+gcc lab6.c -Wall -lm -g
+#1425940832
+./a.out
+#1425940918
+gcc lab6.c -Wall -lm -g
+#1425940918
+./a.out
+#1425940939
+CS_SUBMITCS2050_E LAB6 lab5.c
+#1425940943
+CS_SUBMIT_CS2050_E LAB6 lab5.c
+#1425940951
+CS_SUBMITCS2050_ELAB6 lab5.c
+#1425940958
+CS_SUBMIT CS2050_E LAB6 lab5.c
+#1425941002
+CS_SUBMIT_CS2050E LAB6 lab5.c
+#1425941007
+CS_SUBMITCS2050E LAB6 lab5.c
+#1425941154
+cs_submit CS2050_E LAB6 lab6.c
+#1425941175
+vim lab6.c
+#1425941182
+logout
+#1425931068
+cd spring2015/2050/lab6
+#1425931075
+mkdir inLab6
+#1425931076
+cd inLab6/
+#1425931083
+vim lab6.c
+#1426174308
+cs spring2015/2050/
+#1426174313
+cd spring2015/2050/
+#1426174314
+ls
+#1426174331
+mkdir lab7
+#1426174334
+cd lab7
+#1426174341
+mkdir lab7/preLab
+#1426174354
+mkdir preLab
+#1426174358
+cd preLab/
+#1426174448
+touch preLab.c
+#1426257868
+cd spring2015/2050/lab7/preLab/
+#1426257869
+ls
+#1426257874
+gcc preLab.c
+#1426271694
+cd spring2015/2050/lab7
+#1426271695
+ls
+#1426271708
+cd preLab
+#1426271710
+ls
+#1426271726
+gcc preLab.c
+#1426271969
+gcc preLab.c -Wall
+#1426272007
+ls
+#1426272010
+./a.out
+#1426272034
+gcc preLab.c -Wall
+#1426272036
+./a.out
+#1426272483
+gcc preLab.c -Wall
+#1426272484
+./a.out
+#1426273130
+gcc preLab.c -Wall
+#1426273132
+./a.out
+#1426273179
+gcc preLab.c -Wall
+#1426273180
+./a.out
+#1426273214
+valgrind ./a.out
+#1426283607
+cd spring2015/2050/homework2/
+#1426283615
+touch hw2.c
+#1426283640
+ls
+#1426283654
+dir
+#1426283657
+cd dir
+#1426283658
+cd --hwlp
+#1426283662
+cd --help
+#1426283666
+cd -man
+#1426283670
+cd -help
+#1426283674
+cd dir
+#1426283680
+cd -L
+#1426283682
+ls
+#1426283685
+cd s
+#1426283688
+cd spring2015/
+#1426283691
+ls
+#1426283693
+cd 2050/
+#1426283694
+ls
+#1426283697
+cd homework2
+#1426283698
+ls
+#1426283731
+tree
+#1426283744
+ls
+#1426283751
+vim hw2.c
+#1426286522
+ls
+#1426286528
+gcc hw2.c
+#1426287074
+ll
+#1426287092
+gcc hw2.c
+#1426287349
+ll
+#1426287355
+gcc hw2.c
+#1426287358
+ll
+#1426287361
+gcc hw2.c
+#1426287431
+gcc hw2.c -Wall
+#1426287444
+./a.out
+#1426287463
+gcc hw2.c -Wall
+#1426287464
+./a.out
+#1426287469
+./a.out input.txt
+#1426287513
+gcc hw2.c -Wall -g
+#1426287515
+gdb a.out
+#1426287614
+gcc hw2.c -Wall -g
+#1426287635
+./a.out input.txt
+#1426287667
+gcc hw2.c -Wall -g
+#1426287668
+./a.out input.txt
+#1426292116
+cd spring2015/2050/homework2
+#1426292116
+ls
+#1426292340
+./a.out input.txt
+#1426292870
+gcc hw2.c -Wall -g
+#1426292883
+./a.out input.txt
+#1426292918
+gcc hw2.c -Wall -g
+#1426292919
+./a.out input.txt
+#1426297574
+gcc hw2.c -Wall -g
+#1426297711
+./a.out input.txt
+#1426297734
+gdb a.out
+#1426297943
+gcc hw2.c -Wall -g
+#1426297945
+gdb a.out
+#1426297954
+./a.out input.txt
+#1426297957
+gdb a.out
+#1426298322
+gcc hw2.c -Wall -g
+#1426298325
+./a.out input.txt
+#1426298348
+gdb a.out
+#1426298735
+gcc hw2.c -Wall -g
+#1426298737
+./a.out input.txt
+#1426298743
+gdb a.out
+#1426298886
+gcc hw2.c -Wall -g
+#1426298888
+./a.out input.txt
+#1426299045
+valgrind ./a.out input.txt
+#1426299374
+gdb a.out
+#1426300228
+gcc hw2.c -Wall -g
+#1426300232
+./a.out input.txt
+#1426300248
+gdb a.out
+#1426301162
+gcc hw2.c -Wall -g
+#1426301165
+./a.out input.txt
+#1426301169
+gdb a.out
+#1426301492
+gcc hw2.c -Wall -g
+#1426301538
+./a.out input.txt
+#1426301550
+gdb a.out
+#1426301797
+gcc hw2.c -Wall -g
+#1426301799
+gdb a.out
+#1426302879
+y
+#1426302882
+gcc hw2.c -Wall -g
+#1426302886
+gdb a.out
+#1426302959
+gcc hw2.c -Wall -g
+#1426302961
+gdb a.out
+#1426303174
+./a.out
+#1426303178
+./a.out input.txt
+#1426303395
+./a.out input2.txt
+#1426303558
+gcc hw2.c -Wall -g
+#1426303561
+./a.out input2.txt
+#1426303761
+gcc hw2.c -Wall -g
+#1426303762
+./a.out input2.txt
+#1426303842
+gdb a.out
+#1426304146
+gcc hw2.c -Wall -g
+#1426304147
+./a.out input2.txt
+#1426304155
+./a.out input.txt
+#1426304267
+gcc hw2.c -Wall -g
+#1426304270
+./a.out input2.txt
+#1426304480
+gcc hw2.c -Wall -g
+#1426304483
+./a.out input.txt
+#1426304746
+gcc hw2.c -Wall -g
+#1426304748
+./a.out input.txt
+#1426304757
+valgrind ./a.out input.txt
+#1426304792
+./a.out input.txt
+#1426304795
+gcc hw2.c -Wall -g
+#1426304796
+valgrind ./a.out input.txt
+#1426304816
+gcc hw2.c -Wall -g
+#1426304830
+valgrind --leak-check=full ./a.out input.txt
+#1426304970
+gcc hw2.c -Wall -g
+#1426304970
+valgrind --leak-check=full ./a.out input.txt
+#1426305077
+gcc hw2.c -Wall -g
+#1426305079
+valgrind --leak-check=full ./a.out input.txt
+#1426374745
+cd spring2015/2050/homework2
+#1426374746
+ls
+#1426374750
+./a.out input.txt
+#1426375242
+gcc hw2.c -Wall -g
+#1426375280
+./a.out input.txt
+#1426375388
+gcc hw2.c -Wall -g
+#1426375389
+./a.out input.txt
+#1426375539
+gcc hw2.c -Wall -g
+#1426375540
+./a.out input.txt
+#1426375552
+gdb a.out
+#1426375719
+gcc hw2.c -Wall -g
+#1426375721
+./a.out input.txt
+#1426376110
+gcc hw2.c -Wall -g
+#1426376115
+./a.out input2.txt
+#1426377716
+valgrind ./a.out input2.txt
+#1426377871
+valgrind -v ./a.out input2.txt
+#1426378315
+cd spring2015/2050/homework2
+#1426378316
+ls
+#1426378403
+gcc hw2.c -Wall -g
+#1426378406
+./a.out input2.txt
+#1426378411
+./a.out input1.txt
+#1426378414
+./a.out input.txt
+#1426378510
+./a.out input1.txt
+#1426378512
+gcc hw2.c -Wall -g
+#1426378514
+./a.out input1.txt
+#1426378523
+./a.out input.txt
+#1426378745
+gcc hw2.c -Wall -g
+#1426378748
+./a.out input.txt
+#1426380396
+gcc hw2.c -Wall -g
+#1426380398
+./a.out input.txt
+#1426384122
+gcc hw2.c -Wall -g
+#1426384160
+./a.out input.txt
+#1426384266
+gcc hw2.c -Wall -g
+#1426384268
+./a.out input.txt
+#1426385809
+gcc hw2.c -Wall -g
+#1426385811
+./a.out input.txt
+#1426386329
+gcc hw2.c -Wall -g
+#1426386332
+./a.out input.txt
+#1426386425
+gcc hw2.c -Wall -g
+#1426386426
+./a.out input.txt
+#1426386923
+gcc hw2.c -Wall -g
+#1426386952
+./a.out input.txt
+#1426387157
+gcc hw2.c -Wall -g
+#1426387175
+./a.out input.txt
+#1426387517
+gcc hw2.c -Wall -g
+#1426387575
+./a.out
+#1426387580
+./a.out input.txt
+#1426387718
+gdb a.out
+#1426389962
+gcc hw2.c -Wall -g
+#1426389964
+./a.out input.txt
+#1426390112
+gcc hw2.c -Wall -g
+#1426390114
+./a.out input.txt
+#1426390429
+gdb a.out
+#1426390504
+./a.out input.txt
+#1426390544
+./a.out input1.txt
+#1426390550
+./a.out input2.txt
+#1426390683
+gdb a.out
+#1426390690
+gcc hw2.c -Wall -g
+#1426390697
+./a.out input.txt
+#1426390725
+gdb a.out
+#1426390958
+gcc hw2.c -Wall -g
+#1426390959
+gdb a.out
+#1426390964
+./a.out input.txt
+#1426450484
+cd spring2015/2050/homework2
+#1426450485
+ls
+#1426450490
+./a.out input2.txt
+#1426450658
+gcc hw2.c -Wall -g
+#1426450663
+./a.out input.txt
+#1426454441
+gcc hw2.c -Wall -g
+#1426454442
+./a.out input.txt
+#1426535791
+cd spring2015/2050/lab7/
+#1426535794
+cd inLab/
+#1426535795
+ll
+#1426537833
+ls
+#1426537836
+gcc lab7.c 
+#1426537898
+vim input.txt
+#1426537925
+./a.out input.txt
+#1426538066
+gcc lab7.c 
+#1426538068
+./a.out input.txt
+#1426538784
+gcc lab7.c 
+#1426538830
+./a.out
+#1426538835
+./a.out input2.txt
+#1426538844
+./a.out input.txt
+#1426538897
+gcc lab7.c -Wall -g
+#1426538907
+gdb a.out
+#1426539166
+gcc lab7.c -Wall -g
+#1426539172
+./a.out input.txt
+#1426539206
+gcc lab7.c -Wall -g
+#1426539207
+./a.out input.txt
+#1426539332
+gdb a.out
+#1426539556
+gcc lab7.c -Wall -g
+#1426539558
+./a.out input.txt
+#1426539693
+gcc lab7.c -Wall -g
+#1426539749
+./a.out input.txt
+#1426539801
+gcc lab7.c -Wall -g
+#1426539802
+./a.out input.txt
+#1426539818
+valgrind ./a.out input.txt
+#1426539830
+valgrind --leak-check=full ./a.out input.txt
+#1426539858
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1426539878
+gcc lab7.c -Wall -g
+#1426539880
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1426541550
+gcc lab7.c -Wall -g
+#1426541555
+./a.out input.txt
+#1426541667
+gcc lab7.c -Wall -g
+#1426541668
+./a.out input.txt
+#1426541725
+gcc lab7.c -Wall -g
+#1426541725
+./a.out input.txt
+#1426541820
+gcc lab7.c -Wall -g
+#1426541821
+./a.out input.txt
+#1426541838
+gcc lab7.c -Wall -g
+#1426541839
+./a.out input.txt
+#1426541872
+gcc lab7.c -Wall -g
+#1426541873
+./a.out input.txt
+#1426541889
+gcc lab7.c -Wall -g
+#1426541889
+./a.out input.txt
+#1426542598
+gcc lab7.c -Wall -g
+#1426542600
+./a.out input.txt
+#1426542660
+touch input2.txt
+#1426542677
+gcc lab7.c -Wall -g
+#1426542681
+./a.out input.txt
+#1426542686
+./a.out input2.txt
+#1426542743
+gdb a.out
+#1426543158
+./a.out input.txt
+#1426543161
+gcc lab7.c -Wall -g
+#1426543164
+./a.out input2.txt
+#1426543302
+gcc lab7.c -Wall -g
+#1426543304
+./a.out input2.txt
+#1426543481
+gcc lab7.c -Wall -g
+#1426543485
+./a.out input3.txt
+#1426543545
+gdb a.out
+#1426543653
+gcc lab7.c -Wall -g
+#1426543656
+./a.out input3.txt
+#1426543684
+gcc lab7.c -Wall -g
+#1426543685
+./a.out input3.txt
+#1426544192
+./a.out input.txt
+#1426544239
+gdb a.out
+#1426544940
+gcc lab7.c -Wall -g
+#1426544942
+./a.out input3.txt
+#1426545016
+./a.out input.txt
+#1426545029
+gcc lab7.c -Wall -g
+#1426545030
+./a.out input.txt
+#1426545120
+gcc lab7.c -Wall -g
+#1426545121
+./a.out input.txt
+#1426545286
+gdb a.out
+#1426545564
+gcc lab7.c -Wall -g
+#1426545565
+./a.out input.txt
+#1426545589
+gcc lab7.c -Wall -g
+#1426545590
+./a.out input.txt
+#1426545649
+gcc lab7.c -Wall -g
+#1426545650
+./a.out input.txt
+#1426545654
+./a.out input3.txt
+#1426545686
+./a.out input.txt
+#1426545688
+gcc lab7.c -Wall -g
+#1426545690
+./a.out input.txt
+#1426545708
+gcc lab7.c -Wall -g
+#1426545709
+./a.out input.txt
+#1426545727
+gcc lab7.c -Wall -g
+#1426545727
+./a.out input.txt
+#1426545734
+./a.out input.txtt
+#1426545750
+./a.out inpu 5
+#1426545794
+gcc lab7.c -Wall -g
+#1426545797
+./a.out input.txt
+#1426545833
+cs_submit CS2050_E LAB7 lab7.c
+#1426545870
+gcc lab7.c -Wall -g
+#1426545871
+./a.out input.txt
+#1426545874
+cs_submit CS2050_E LAB7 lab7.c
+#1426545906
+gcc lab7.c -Wall -g
+#1426545907
+./a.out input.txt
+#1426545910
+cs_submit CS2050_E LAB7 lab7.c
+#1426732424
+ls
+#1426732431
+cd spring2015/2050/homework2/
+#1426732432
+ls
+#1426769724
+cd spring2015/2050/homework2
+#1426769724
+ls
+#1426769727
+gcc hw2.c
+#1426769733
+gcc hw2.c -Wall -g
+#1426769742
+./a.out intput.txt
+#1426769748
+./a.out input.txt
+#1426769854
+gcc hw2.c -Wall -g
+#1426769858
+./a.out input.txt
+#1426769908
+gdb a.out
+#1426770049
+./a.out input.txt
+#1426770137
+gcc hw2.c -Wall -g
+#1426770139
+./a.out input.txt
+#1426770908
+gcc hw2.c -Wall -g
+#1426770910
+./a.out input.txt
+#1426771191
+gcc hw2.c -Wall -g
+#1426771192
+./a.out input.txt
+#1426771370
+cat input2.txt
+#1426771378
+cat input.txt
+#1426771389
+./a.out input2.txt
+#1426771593
+cat input.txt
+#1426771596
+gcc hw2.c -Wall -g
+#1426771608
+./a.out input.txt
+#1426868687
+cd spring2015/2050/homework2
+#1426868761
+gcc hw2.c -Wall -g
+#1426868859
+./a.out input.txt
+#1426868979
+gcc hw2.c -Wall -g
+#1426868980
+./a.out input.txt
+#1426869265
+gcc hw2.c -Wall -g
+#1426869266
+./a.out input.txt
+#1426869323
+gcc hw2.c -Wall -g
+#1426869325
+./a.out input.txt
+#1426869736
+gdb a.out
+#1426870463
+gcc hw2.c -Wall -g
+#1426870475
+./a.out input.txt
+#1426871056
+gcc hw2.c -Wall -g
+#1426871057
+./a.out input.txt
+#1426871250
+gcc hw2.c -Wall -g
+#1426871258
+./a.out input.txt
+#1426871419
+cs_submit CS2050_E HW2 hw2.c
+#1427490939
+ls
+#1427490944
+cd spring2015/
+#1427490951
+cd 2050/
+#1427505080
+cd spring2015/2050
+#1427505081
+ls
+#1427505091
+mkdir lab8 | cd lab8
+#1427505095
+ls
+#1427505106
+cd lab8
+#1427505128
+mkdir preLab
+#1427505130
+cd preLab
+#1427505131
+ls
+#1427505632
+vim Makefile
+#1427506455
+ls
+#1427506469
+cd spring2015/2050/lab8
+#1427506470
+ls
+#1427506474
+cd preLab/
+#1427506478
+ls
+#1427506481
+vim Makefile
+#1427506755
+make
+#1427506757
+ls
+#1427506762
+./preLab8
+#1427506769
+./preLab8 Pearse
+#1427733519
+cd spring2015/2050/lab8/preLab/
+#1427733520
+ls
+#1427733521
+ll
+#1427733526
+im Makefile
+#1427733534
+vim Makefile 
+#1427745116
+ls
+#1427745124
+cd spring2015/2050/lab8
+#1427745124
+ls
+#1427745128
+mkdir inLab
+#1427745130
+cd inLab
+#1427745132
+ls
+#1427745137
+touch lab8.c
+#1427747518
+ll
+#1427747525
+gcc lab8.c -g
+#1427747528
+gcc lab8.c -g -Wall
+#1427747803
+gcc queue.c -g -Wall
+#1427748345
+ls
+#1427748492
+gcc queue.c -g -Wall
+#1427748495
+ll
+#1427748497
+./a.out
+#1427748545
+gdb a.out
+#1427748574
+gcc queue.c -g -Wall
+#1427748576
+gdb a.out
+#1427748866
+gcc queue.c -g -Wall
+#1427748899
+gdb a.out
+#1427750121
+gcc queue.c -g -Wall
+#1427750200
+./a.out
+#1427750252
+gcc queue.c -g -Wall
+#1427750255
+./a.out
+#1427750557
+gcc queue.c -g -Wall
+#1427750789
+./a.out
+#1427750801
+gcc queue.c -g -Wall
+#1427750802
+./a.out
+#1427750912
+gcc queue.c -g -Wall
+#1427750913
+./a.out
+#1427751514
+gcc potato.c
+#1427751576
+gcc potato.c queue.c
+#1427751597
+gcc potato.c queue.c -Wall -g
+#1427751643
+./a.out
+#1427751653
+vim input.txt
+#1427751675
+./a.out input.txt
+#1427751717
+gcc potato.c queue.c -Wall -g
+#1427751719
+./a.out input.txt
+#1427751735
+gdb a.out
+#1427751930
+gcc potato.c queue.c -Wall -g
+#1427751932
+./a.out input.txt
+#1427751986
+gcc potato.c queue.c -Wall -g
+#1427751986
+./a.out input.txt
+#1427752057
+valgrind ./a.out input.txt
+#1427752075
+valgrind --leak-check=full ./a.out input.txt
+#1427752105
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1427752464
+gcc potato.c queue.c -Wall -g
+#1427752486
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1427752576
+gcc potato.c queue.c -Wall -g
+#1427752577
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1427752664
+gcc potato.c queue.c -Wall -g
+#1427752668
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1427752694
+gcc potato.c queue.c -Wall -g
+#1427752695
+valgrind --leak-check=full --show-reachable=yes ./a.out input.txt
+#1427752829
+make
+#1427752848
+./lab8
+#1427752920
+make
+#1427752926
+./lab8
+#1427752943
+./lab8 input.txt
+#1427752957
+./lab8
+#1427753042
+make
+#1427753046
+./lab8
+#1427753053
+./lab8 input.txt
+#1427753088
+ll
+#1427753093
+make clean
+#1427753094
+ll
+#1427753098
+rm a.out
+#1427753100
+ll
+#1427753108
+make
+#1427753118
+./lab8 input.txt
+#1427753943
+make
+#1427753968
+./lab8 input.txt
+#1427754367
+make
+#1427754372
+./lab8 input.txt
+#1427754575
+ls
+#1427754588
+rm newfile.c
+#1427754589
+ls
+#1427754628
+make 
+#1427754635
+ll
+#1427754647
+tar -cvf lab8.tar *
+#1427754653
+ls
+#1427754657
+cd lab8.tar 
+#1427754681
+cs_submit CS2050_E LAB8 lab8.tar
+#1427754691
+tar lab8.tar
+#1427754696
+tar --usage
+#1427754704
+tar --usage | long
+#1427754713
+tar --usage | tiny
+#1427754717
+tar --usage | less
+#1427754733
+ls
+#1428179821
+cd spring2015/2050/
+#1428179821
+ls
+#1428179826
+mkdir homework3
+#1428179829
+cd homework3
+#1428179913
+ls
+#1428180576
+make
+#1428180837
+ls
+#1428180842
+./hw8.c
+#1428180845
+make clean
+#1428180847
+ls
+#1428181279
+vim calculator.c
+#1428182757
+gcc calculator.c -g -Wall
+#1428183562
+gcc calculator.c stack.h -g -Wall
+#1428183579
+gcc calculator.c calculator.h -g -Wall
+#1428183691
+gcc calculator.c -g -Wall
+#1428183828
+ls
+#1428183830
+./a.out
+#1428183875
+ls
+#1428183881
+gcc calculator.c -g -Wall
+#1428183883
+./a.out
+#1428183921
+gdb a.ou
+#1428183927
+gdb a.out
+#1428183977
+gcc calculator.c -g -Wall
+#1428183979
+./a.out
+#1428183989
+gdb a.out
+#1428184120
+gcc calculator.c -g -Wall
+#1428184123
+./a.out
+#1428192275
+gcc calculator.c stack.h -g -Wall
+#1428192580
+gcc calculator.c stack.h -g -Wal
+#1428192586
+gcc calculator.c stack.h -g -Wall
+#1428193027
+gcc calculator.c stack.c -g -Wall
+#1428193155
+./a.out
+#1428193192
+clear
+#1428193194
+./a.out
+#1428193564
+gcc calculator.c stack.c -g -Wall
+#1428193571
+./a.out
+#1428193609
+gcc calculator.c stack.c -g -Wall
+#1428193613
+gdb a.out
+#1428194428
+cd spring2015/2050/homework3/
+#1428194428
+ls
+#1428194457
+gcc calculator.c stack.c -g -Wall
+#1428194488
+a.out
+#1428194491
+./a.out
+#1428194555
+gdb a.out
+#1428195041
+gcc calculator.c stack.c -g -Wall
+#1428195046
+./a.out
+#1428195184
+gcc calculator.c stack.c -g -Wall
+#1428195187
+./a.out
+#1428195321
+gcc calculator.c stack.c -g -Wall
+#1428195323
+./a.out
+#1428195618
+gcc calculator.c stack.c -g -Wall
+#1428195827
+./a.out
+#1428196131
+gcc calculator.c stack.c -g -Wall
+#1428196133
+./a.out
+#1428196507
+gcc calculator.c stack.c -g -Wall
+#1428196508
+./a.out
+#1428196672
+gdb a.out
+#1428197789
+./a.out
+#1428197963
+gdb a.out
+#1428197970
+gcc calculator.c stack.c -g -Wall
+#1428197973
+./a.out
+#1428198041
+gcc calculator.c stack.c -g -Wall
+#1428198042
+./a.out
+#1428198487
+gcc calculator.c stack.c -g -Wall
+#1428198489
+./a.out
+#1428198788
+gcc calculator.c stack.c -g -Wall
+#1428198790
+./a.out
+#1428198830
+gcc calculator.c stack.c -g -Wall
+#1428198831
+./a.out
+#1428237124
+cd spring2015/2050/homework3
+#1428237125
+ls
+#1428237349
+./a.out
+#1428238277
+gcc calculator.c stack.c -g -Wall
+#1428238602
+./a.out
+#1428238641
+gcc calculator.c stack.c -g -Wall
+#1428238645
+./a.out
+#1428239951
+cd spring2015/2050/homework3
+#1428239952
+ls
+#1428239957
+gcc calculator.c stack.c -g -Wall
+#1428240061
+./a.out
+#1428240303
+gcc calculator.c stack.c -g -Wall
+#1428240305
+./a.out
+#1428240445
+gcc calculator.c stack.c -g -Wall
+#1428240472
+./a.out
+#1428240557
+gcc calculator.c stack.c -g -Wall
+#1428240560
+gdb a.out
+#1428240777
+gcc calculator.c stack.c -g -Wall
+#1428240780
+./a.out
+#1428242902
+make
+#1428242908
+ls
+#1428242912
+./hw8
+#1428242918
+./hw8 input.txt
+#1428243007
+make
+#1428243163
+./hw8 input.txt
+#1428243174
+valgrind ./hw8 input.txt
+#1428243193
+valgrind --leak-check=full ./hw8 input.txt
+#1428243345
+make
+#1428243350
+valgrind --leak-check=full ./hw8 input.txt
+#1428243542
+make
+#1428243545
+valgrind --leak-check=full ./hw8 input.txt
+#1428243628
+make
+#1428243631
+valgrind --leak-check=full ./hw8 input.txt
+#1428243676
+make
+#1428243678
+valgrind --leak-check=full ./hw8 input.txt
+#1428244061
+make
+#1428244091
+./hw8 input.txt
+#1428330121
+ls
+#1428330127
+cd spring2015/2050/
+#1428330127
+ls
+#1428330131
+cd lab9
+#1428330138
+touch lab9.c
+#1428335999
+cd spring2015/2050/lab9
+#1428335999
+ls
+#1428336001
+cd ..
+#1428336005
+cd homework3
+#1428336005
+ls
+#1428336007
+mke
+#1428336008
+make
+#1428336072
+vim calculator.c
+#1428336094
+make
+#1428336103
+./hw8 input.txt
+#1428336436
+ls
+#1428336437
+cd ..
+#1428336442
+cd lab9
+#1428336442
+ls
+#1428336448
+vim lab9.c
+#1428336463
+gcc lab9.c
+#1428337253
+./a.out
+#1428337265
+gcc lab9.c -g -Wall
+#1428337272
+gdb a.out
+#1428337335
+gcc lab9.c -g -Wall
+#1428337338
+./a.out
+#1428337341
+gdb a.out
+#1428337669
+gcc lab9.c -g -Wall
+#1428337671
+./a.out
+#1428337826
+gcc lab9.c -g -Wall
+#1428337827
+./a.out
+#1428337874
+gcc lab9.c -g -Wall
+#1428337880
+./a.out
+#1428338936
+gcc lab9.c -g -Wall
+#1428338969
+./a.out
+#1428345834
+cd spring2015/2050/
+#1428346157
+cd homework3
+#1428346158
+ls
+#1428346159
+make
+#1428346188
+./hw8 input.txt
+#1428349098
+cd ..
+#1428349099
+ls
+#1428349101
+cd Turing\ Machine/
+#1428349102
+ls
+#1428349108
+gcc main.c
+#1428349259
+gcc main.c -g -Wall
+#1428349281
+gdb a.out
+#1428350348
+cd spring2015/2050/Turing\ Machine/
+#1428350349
+ls
+#1428350356
+gcc main.c -g -Wall
+#1428350505
+gdb a.out
+#1428350818
+gcc main.c -g -Wall
+#1428352590
+cd ..
+#1428352592
+cd lab9
+#1428352593
+ls
+#1428352596
+make
+#1428352650
+ls
+#1428352654
+./lab9
+#1428352669
+./lab9 input.txt 19
+#1428352731
+make
+#1428352734
+./lab9 input.txt 19
+#1428352744
+make
+#1428352745
+./lab9 input.txt 19
+#1428352818
+make
+#1428352825
+./bst input.txt 19
+#1428352968
+make
+#1428352972
+./bst input.txt 19
+#1428352983
+vangrind ./bst input.txt 19
+#1428352988
+valgrind ./bst input.txt 19
+#1428353005
+make
+#1428353006
+valgrind ./bst input.txt 19
+#1428353543
+make
+#1428353592
+./bst input.txt8 42
+#1428353598
+./bst input.txt 42
+#1428353608
+./bst input.txt 18 42
+#1428353628
+make
+#1428353630
+./bst input.txt 18 42
+#1428353731
+gdb bst
+#1428353795
+make
+#1428353800
+./bst input.txt 18 42
+#1428354739
+make
+#1428354740
+./bst input.txt 18 42
+#1428354978
+make
+#1428354979
+./bst input.txt 18 42
+#1428355527
+make
+#1428355584
+./bst input.txt 18 2
+#1428355590
+./bst input.txt 16 2
+#1428355604
+./bst input.txt 16 999
+#1428355610
+./bst input.txt 16 3
+#1428355618
+./bst input.txt 16 15
+#1428356595
+make
+#1428356596
+./bst input.txt 16 15
+#1428356612
+valgrind ./bst input.txt 16 15
+#1428356707
+make
+#1428356726
+./bst input2.txt 25 15
+#1428356750
+./bst input2.txt 26 74
+#1428356878
+make clean
+#1428356882
+make
+#1428356886
+./bst input2.txt 26 74
+#1428356893
+./bst
+#1428356900
+./bst input.txt 19
+#1428356910
+./bst input.txt 18 42
+#1428356914
+make clean
+#1428356953
+tar -czvf lab9.tar.gz runner.c bst.c bst.h Makefile
+#1428357181
+cs_submit CS2050_LAB-E LAB9 lab9.tar.gz
+#1428357196
+cs_submit CS2050_LAB E LAB9 lab9.tar.gz
+#1428357205
+cs_submit CS2050_LAB_E LAB9 lab9.tar.gz
+#1428357209
+cs_submit CS2050_LAB-E LAB9 lab9.tar.gz
+#1428357236
+cs_submit CS2050_E LAB9 lab9.tar.gz
+#1428375048
+cd spring2015/2050/Turing\ Machine/
+#1428375048
+ls
+#1428375058
+gcc main.c -g -Wall
+#1428375140
+./a.out
+#1428375149
+./a.out twosComplement.txt 
+#1428375160
+gdb a.out
+#1428375553
+gcc main.c -g -Wall
+#1428375557
+gdb a.out
+#1428375613
+gcc main.c -g -Wall
+#1428376309
+gdb a.out
+#1428376721
+gcc main.c -g -Wall
+#1428376740
+gdb a.out
+#1428376917
+gcc main.c -g -Wall
+#1428376939
+gdb a.out
+#1428376995
+gcc main.c -g -Wall
+#1428376998
+gdb a.out
+#1428377284
+gcc main.c -g -Wall
+#1428377319
+gdb a.out
+#1428379696
+gcc main.c -g -Wall
+#1428379717
+./a.out twosComplement.txt 
+#1428379748
+gdb a.out
+#1428380123
+gcc main.c -g -Wall
+#1428380144
+./a.out
+#1428380152
+./a.out twosComplement.txt 
+#1428380183
+gcc main.c -g -Wall
+#1428380184
+./a.out twosComplement.txt 
+#1428380647
+gcc main.c -g -Wall
+#1428380656
+./a.out twosComplement.txt 
+#1428411587
+cd spring2015/2050/Turing\ Machine/
+#1428413341
+gcc main.c -g -Wall
+#1428413840
+./a.out twosComplement.txt 
+#1428413848
+gdb a.out
+#1428413987
+gcc main.c -g -Wall
+#1428413993
+./a.out twosComplement.txt 
+#1428417697
+gcc main.c -g -Wall
+#1428417990
+gdb a.out
+#1428418085
+gcc main.c -g -Wall
+#1428418120
+./a.out twosComplement.txt 
+#1428418200
+gcc main.c -g -Wall
+#1428418202
+./a.out twosComplement.txt 
+#1428509196
+cd .
+#1428509197
+ls 
+#1428509201
+cd spring2015/2050/homework3
+#1428509201
+ls
+#1428509206
+make
+#1428509215
+./hw8
+#1428509222
+./hw8 input.txt
+#1428509582
+make
+#1428509622
+./hw8 input.txt
+#1428510231
+make
+#1428510233
+./hw8 input.txt
+#1428510246
+gdb hw8
+#1428510651
+make
+#1428510656
+./hw8 input.txt
+#1428510683
+gdb hw8
+#1428510913
+make
+#1428510943
+gdb hw8
+#1428511103
+valgrind ./hw8 input.txt
+#1428511740
+make
+#1428518771
+ls
+#1428518775
+cd spring2015/2050/homework3
+#1428518776
+ls
+#1428518777
+make
+#1428543488
+cd spring2015/2050/homework3
+#1428543490
+make
+#1428543500
+./hw8 input.txt
+#1428543698
+make
+#1428543749
+gdb hw8
+#1428544048
+make
+#1428544054
+./hw8 input.txt
+#1428544068
+make
+#1428544109
+./hw8 input.txt
+#1428544500
+gdb hw8
+#1428545350
+make
+#1428545355
+make clean
+#1428545356
+make
+#1428545696
+./hw8 input.txt
+#1428546234
+make
+#1428546236
+./hw8 input.txt
+#1428546255
+make
+#1428546325
+./hw8 input.txt
+#1428548592
+make
+#1428548600
+./hw8 input.txt
+#1428548645
+make
+#1428548676
+gdb hw8
+#1428548761
+make
+#1428548766
+./hw8 input.txt
+#1428548770
+gdb hw8
+#1428548888
+make
+#1428548892
+./hw8 input.txt
+#1428549290
+make
+#1428549293
+./hw8 input.txt
+#1428549338
+make
+#1428549340
+./hw8 input.txt
+#1428588357
+cd spring2015/2050/homework3
+#1428588379
+echo # ReversePolishCalc >> README.md
+#1428588381
+ls
+#1428588394
+git init
+#1428588411
+touch README.md
+#1428588416
+git add README.md 
+#1428588427
+git commit -m "first commit"
+#1428588450
+git remote add origin https://github.com/PercyODI/ReversePolishCalc.git
+#1428588456
+git push -u origin master
+#1428588468
+git push origin master
+#1428588484
+git origin -v
+#1428588512
+git remote -v
+#1428588590
+error: The requested URL returned error: 403 Forbidden while accessing http
+#1428588596
+vim .git/config
+#1428588656
+git remote add origin git@github.com:PercyODI/ReversePolishCalc.git
+#1428588684
+git remote rm origin
+#1428588687
+git remote add origin git@github.com:PercyODI/ReversePolishCalc.git
+#1428588697
+git push -u origin master
+#1428588726
+git add all
+#1428588729
+git add .all
+#1428588733
+git add -all
+#1428588739
+git add --all
+#1428588784
+git commit -m "Working Program. Needs memory optimizations."
+#1428588795
+git push origin master
+#1428588850
+git checkout MemoryOpt
+#1428588911
+git checkout -b MemoryOpt
+#1428588937
+git push origin MemoryOpt
+#1428588959
+git branch
+#1428589106
+git push origin master
+#1428589117
+git add --all
+#1428589130
+git commit "Added Header Comments"
+#1428589151
+git commit -m "Added Header Comments"
+#1428589160
+git push origin master
+#1428589178
+git push origin MemoryOpt
+#1428592999
+cd spring2015/2050/homework3
+#1428593000
+make
+#1428593007
+./hw8 input.txt
+#1428593028
+git
+#1428593031
+git branch
+#1428593675
+make
+#1428593681
+./hw8 input.txt
+#1428594047
+make
+#1428594049
+./hw8 input.txt
+#1428594108
+make
+#1428594109
+./hw8 input.txt
+#1428594169
+gdb hw8
+#1428594658
+git add --all
+#1428594690
+git commit -m "Cleaned up code. Removed some unnecessary memory protection issues"
+#1428594703
+git push origin memoryOps
+#1428594710
+branch
+#1428594713
+git branch
+#1428594720
+git push origin MemoryOpt
+#1428594727
+logout
+#1428610821
+cd spring2015/2050/homework3
+#1428610822
+make
+#1428610828
+/hw8 input.txt
+#1428610835
+./hw8 input.txt
+#1428611785
+make
+#1428611789
+make clean
+#1428611790
+make
+#1428611796
+./hw8 input.txt
+#1428611900
+make
+#1428611906
+make clean
+#1428611906
+make
+#1428611914
+./HW3 input.txt
+#1428612085
+tar -czvf HW3.tar.gz calculator.c calculator.h frontend.c Makefile stack.c stack.h
+#1428612160
+mkdir ~/spring2015/2050/HW3Test
+#1428612176
+cp HW3.tar.gz ~/spring2015/2050/HW3Test/
+#1428612188
+cd ~/spring2015/2050/HW3Test/
+#1428612189
+ls
+#1428612192
+tar HW3.tar.gz 
+#1428612240
+tar xvzf HW3.tar.gz 
+#1428612241
+ls
+#1428612243
+make
+#1428612253
+./HW3 input.txt
+#1428612267
+grep input.txt
+#1428612325
+cp ~/spring2015/2050/homework3
+#1428612335
+cp ~/spring2015/2050/homework3/input.txt 
+#1428612339
+cp ~/spring2015/2050/homework3/input.txt .
+#1428612341
+ls
+#1428612348
+./HW3 input.txt
+#1428612390
+cs_submit CS2050_E HW3 HW3.tar.gz
+#1428941979
+ls
+#1428941983
+echo life.c
+#1428941989
+cat life.c
+#1428942009
+gcc -std=c99 -Wall life.c
+#1428942019
+./a.out 20 20
+#1428942029
+claer
+#1428942030
+clear
+#1428942034
+./a.out 25 25
+#1429545374
+ls
+#1429545377
+cd spring2015/2050/
+#1429545378
+ls
+#1429545382
+mkdir lab10
+#1429545385
+cd lab10
+#1429545405
+touch preLab/preLab10.c
+#1429545411
+mkdir preLab
+#1429545413
+touch preLab/preLab10.c
+#1429547567
+cd spring2015/2050/preLab10
+#1429547571
+cd spring2015/2050/
+#1429547572
+ls
+#1429547580
+cd lab10/preLab/
+#1429547581
+ls
+#1429547583
+make
+#1429547588
+make preLab10.c
+#1429547598
+gcc preLab10.c -g -Wall
+#1429547603
+./a.out
+#1429548153
+gcc preLab10.c -g -Wall
+#1429548155
+./a.out
+#1429548170
+gcc preLab10.c -g -Wall
+#1429548171
+./a.out
+#1429548188
+gcc preLab10.c -g -Wall
+#1429548189
+./a.out
+#1429548379
+gcc preLab10.c -g -Wall
+#1429548380
+./a.out
+#1429555044
+cd spring2015/2050/lab10/preLab/
+#1429555045
+ls
+#1429555048
+./a.out
+#1429556060
+gcc preLab10.c -g -Wall
+#1429557469
+./a.out
+#1429557482
+gcc preLab10.c -g -Wall
+#1429557483
+./a.out
+#1429557495
+gcc preLab10.c -g -Wall
+#1429557496
+./a.out
+#1429557559
+gcc preLab10.c -g -Wall
+#1429557582
+./a.out
+#1429557584
+gcc preLab10.c -g -Wall
+#1429557585
+./a.out
+#1429557613
+gcc preLab10.c -g -Wall
+#1429557614
+./a.out
+#1429557826
+gcc preLab10.c -g -Wall
+#1429557828
+./a.out
+#1429559608
+cd spring2015/2050/lab10/preLab/
+#1429559609
+ls
+#1429559748
+gcc preLab10.c -g -Wall
+#1429559777
+./a.out
+#1429563062
+cd ..
+#1429563063
+ls
+#1429563064
+cd inLab/
+#1429563065
+ls
+#1429563066
+make
+#1429563188
+./a.out
+#1429563191
+ls
+#1429563193
+./bst
+#1429563242
+./bst input.txt
+#1429563251
+gdb bst
+#1429563342
+make
+#1429563348
+./bst input.txt
+#1429564326
+make
+#1429564451
+./bst input.txt
+#1429564571
+make
+#1429564573
+./bst input.txt
+#1429564608
+make
+#1429564609
+./bst input.txt
+#1429564714
+cat input.txt 
+#1429564719
+./bst input.txt
+#1429564732
+gdb bst
+#1429564842
+make
+#1429564845
+./bst input.txt
+#1429564974
+make
+#1429564976
+./bst input.txt
+#1429565679
+make
+#1429565695
+./bst input.txt
+#1429565722
+gdb bst
+#1429566383
+make
+#1429566387
+./bst input.txt
+#1429566405
+make
+#1429566406
+./bst input.txt
+#1429566472
+make
+#1429566474
+./bst input.txt
+#1429566676
+gdb bst
+#1429566989
+r 
+#1429566992
+gdb bst
+#1429567258
+n
+#1429567263
+./bst input.txt
+#1429567319
+make
+#1429567320
+./bst input.txt
+#1429567581
+gdb bst
+#1429567801
+make
+#1429567805
+./bst input.txt
+#1429567821
+make
+#1429567825
+./bst input.txt
+#1429567946
+make
+#1429567948
+./bst input.txt
+#1429568444
+make
+#1429568449
+./bst input.txt
+#1429568457
+gdb bst
+#1429568476
+make
+#1429568528
+./bst input.txt
+#1429568532
+gdb bst
+#1429568600
+mke
+#1429568601
+make
+#1429568605
+gdb bst
+#1429568610
+./bst input.txt
+#1429568647
+gdb bst
+#1429568691
+make
+#1429568694
+./bst input.txt
+#1429568742
+make
+#1429568751
+./bst input.txt
+#1429568895
+make
+#1429568909
+./bst input.txt
+#1429569025
+tar -cvf lab10.tar bst.c bst.h runner.c Makefile
+#1429569029
+ls
+#1429569031
+lab10.tar
+#1429569035
+tar lab10.tar
+#1429569101
+cs_submit CS2050_E LAB10 lab10.tar
+#1429664531
+cd spring2015/2050/lab10/inLab/
+#1429664532
+ls
+#1429664533
+make
+#1429664539
+./bst input.txt
+#1429665754
+make
+#1429665762
+./bst input.txt
+#1429666313
+make
+#1429666316
+./bst input.txt
+#1429666658
+make
+#1429666691
+./bst input.txt
+#1429666779
+make
+#1429666781
+./bst input.txt
+#1429666835
+gdb bst
+#1429667023
+make
+#1429667026
+./bst input.txt
+#1429667277
+make
+#1429667279
+./bst input.txt
+#1429667585
+make
+#1429667587
+./bst input.txt
+#1429668099
+./bst input2.txt
+#1429668482
+make
+#1429668484
+./bst input2.txt
+#1429668496
+valgrind ./bst input2.txt
+#1429668534
+valgrind --leak-check=full ./bst input2.txt
+#1429668562
+valgrind --leak-check=full --show-reachable=yes ./bst input2.txt
+#1429668569
+make
+#1429668574
+valgrind --leak-check=full --show-reachable=yes ./bst input2.txt
+#1429668600
+make
+#1429668601
+valgrind --leak-check=full --show-reachable=yes ./bst input2.txt
+#1429841037
+cd spring2015/2050/homework4/
+#1429841037
+ls
+#1429841042
+cat positive_words.txt 
+#1429848716
+ls
+#1429848720
+gcc words.c 
+#1429849026
+gcc words.c -Wall
+#1429849980
+./a.out
+#1429849992
+./a.out positive_words.txt 
+#1429850015
+gcc words.c -Wall -g
+#1429850021
+gdb a.out
+#1429850702
+gcc words.c -Wall -g
+#1429850706
+./a.out positive_words.txt 
+#1429850924
+gcc words.c -Wall -g
+#1429850927
+./a.out positive_words.txt 
+#1429920804
+cd spring2015/2050/homework4
+#1429920804
+ls
+#1429920817
+./a.out negative_words.txt
+#1429921527
+make
+#1429921529
+ls
+#1429921572
+make
+#1429921903
+./hw4
+#1429921914
+./hw4 positive_words.txt 
+#1429925711
+cd ..
+#1429925714
+ls
+#1429925720
+cd pah9qd/
+#1429925720
+ls
+#1429925727
+cd spring2015/2050/homework4
+#1429925728
+ls
+#1429925729
+make
+#1429926106
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926125
+make
+#1429926154
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926268
+make
+#1429926272
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926285
+ls
+#1429926291
+cat Makefile
+#1429926346
+cat runner.c
+#1429926373
+make
+#1429926392
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926402
+make
+#1429926406
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926535
+make
+#1429926543
+ls
+#1429926557
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926593
+make
+#1429926596
+./a.out positive_words.txt negative_words.txt review1.txt
+#1429926658
+./hw4 positive_words.txt negative_words.txt review1.txt
+#1429926705
+./hw4 positive_words.txt negative_words.txt review2.txt
+#1429926709
+./hw4 positive_words.txt negative_words.txt review3.txt
+#1429926757
+make
+#1429926759
+./hw4 positive_words.txt negative_words.txt review3.txt
+#1429926859
+gdb hw4
+#1429927336
+make
+#1429927366
+./hw4 positive_words.txt negative_words.txt review3.txt
+#1429927541
+make
+#1429927543
+./hw4 positive_words.txt negative_words.txt review3.txt
+#1429927570
+./hw4 positive_words.txt negative_words.txt review4.txt
+#1429927574
+./hw4 positive_words.txt negative_words.txt review1.txt
+#1429927580
+./hw4 positive_words.txt negative_words.txt review2.txt
+#1429927600
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review3.txt
+#1429927606
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review3.txt review4.txt
+#1429927833
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1429928060
+make
+#1429928072
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1429928846
+make
+#1429928877
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1429929036
+mka
+#1429929038
+make
+#1429929043
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430084567
+cd spring2015/2050/lab10/inLab/
+#1430084568
+ls
+#1430084577
+cd ..
+#1430084578
+ls
+#1430084580
+cd .
+#1430084580
+ls
+#1430084582
+cd ..
+#1430084585
+cd lab11
+#1430084586
+ls
+#1430085238
+gcc pre
+#1430085241
+gcc preLab11/
+#1430085243
+ls
+#1430085246
+cd preLab11/
+#1430085246
+ls
+#1430085249
+gcc preLab11.c 
+#1430085251
+ls
+#1430085252
+./a.out
+#1430085349
+ls
+#1430085351
+gcc preLab11.c 
+#1430085427
+preLab11.c:17: warning: incompatible implicit declaration of built-in function ‘malloc’
+#1430085490
+gcc preLab11.c 
+#1430085495
+./a.out
+#1430085501
+gcc preLab11.c -Wall -g
+#1430085763
+./a.out
+#1430085797
+gcc preLab11.c -Wall -g
+#1430085798
+./a.out
+#1430086464
+gcc preLab11.c -Wall -g
+#1430086488
+./a.out
+#1430086510
+gcc preLab11.c -Wall -g
+#1430086511
+./a.out
+#1430086528
+gcc preLab11.c -Wall -g
+#1430086529
+./a.out
+#1430088737
+cd spring2015/2050/lab11/preLab11/
+#1430088737
+ls
+#1430088749
+gcc preLab11.c -Wall -g
+#1430088751
+./a.out
+#1430088755
+gdb a.out
+#1430088837
+gcc preLab11.c -Wall -g
+#1430088839
+./a.out
+#1430088880
+gdb a.out 
+#1430088953
+gcc preLab11.c -Wall -g
+#1430088955
+./a.out
+#1430094804
+ls
+#1430094805
+cd ..
+#1430094805
+ls
+#1430094807
+cd ..
+#1430094809
+cd homework4
+#1430094810
+ls
+#1430094811
+make
+#1430094940
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430094949
+valgrind ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430095301
+make
+#1430095318
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430095779
+gdb a.out
+#1430095802
+y
+#1430095803
+ls
+#1430095809
+gdb hw4
+#1430098376
+make
+#1430098384
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430099028
+make
+#1430099048
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430099291
+gdb hw4
+#1430100177
+y
+#1430100178
+make
+#1430100183
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430100206
+make
+#1430100211
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430100302
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430100454
+make
+#1430100459
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430100626
+make
+#1430101088
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430101240
+make
+#1430101245
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430101283
+valgrind --leak-check=full --show-reachable=yes ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430101319
+make
+#1430101322
+valgrind --leak-check=full --show-reachable=yes ./hw4 positive_words.txt negative_words.txt review5.txt
+#1430101610
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430101626
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review5.txt
+#1430101640
+./hw4
+#1430101644
+ls
+#1430101647
+./hw4
+#1430101659
+cd ..
+#1430101684
+cd spring2015/2050/homework4/
+#1430101685
+ls
+#1430101687
+./hw4
+#1430101702
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review5.txt
+#1430101807
+make
+#1430101830
+./hw4make
+#1430101832
+make
+#1430101834
+./hw4
+#1430101878
+make
+#1430101884
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review5.txt
+#1430102422
+make
+#1430102426
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review5.txt
+#1430102583
+make
+#1430102587
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review5.txt
+#1430102610
+make
+#1430102613
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review5.txt
+#1430102979
+make
+#1430103001
+./hw4 positive_words.txt negative_words.txt review1.txt review2.txt review3.txt review4.txt review5.txt
+#1430151311
+cd spring2015/2050/homework4
+#1430151314
+ls
+#1430151316
+make
+#1430151321
+./hw4
+#1430151333
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430151375
+make
+#1430151377
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430151409
+make
+#1430151412
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430151422
+./hw4 positive_words.txt negative_words.txt review1.txt review5.txt
+#1430151479
+make
+#1430151480
+./hw4 positive_words.txt negative_words.txt review1.txt review5.txt
+#1430151828
+MAKE
+#1430151829
+make
+#1430151866
+./hw4 positive_words.txt negative_words.txt review1.txt review5.txt
+#1430152078
+make
+#1430152080
+./hw4 positive_words.txt negative_words.txt review1.txt review5.txt
+#1430152147
+make
+#1430152148
+./hw4 positive_words.txt negative_words.txt review1.txt review5.txt
+#1430152507
+cd ~
+#1430152510
+cd ..
+#1430152510
+ls
+#1430152519
+cd jsk3md
+#1430152524
+cd pah9qd
+#1430152589
+cd spring2015/2050/lab11
+#1430152590
+ls
+#1430152591
+cd preLab11/
+#1430152592
+ls
+#1430153150
+gcc preLab11.c 
+#1430153166
+./a.out
+#1430153194
+gcc preLab11.c 
+#1430153195
+./a.out
+#1430153326
+gcc preLab11.c 
+#1430153327
+./a.out
+#1430153343
+gcc preLab11.c 
+#1430153344
+./a.out
+#1430163598
+cd spring2015/2050/lab11/preLab11/
+#1430163599
+ls
+#1430163610
+gcc preLab11.c 
+#1430163626
+ls
+#1430163629
+./a.out
+#1430163644
+gcc preLab11.c 
+#1430163645
+./a.out
+#1430163677
+gcc preLab11.c 
+#1430163678
+./a.out
+#1430164097
+gcc preLab11.c 
+#1430164098
+./a.out
+#1430164119
+gcc preLab11.c -Wall -g
+#1430164134
+./a.out
+#1430164144
+gcc preLab11.c -Wall -g
+#1430164145
+./a.out
+#1430160391
+cd spring2015/2050/lab11/
+#1430160393
+cd preLab11/
+#1430160393
+ls
+#1430160395
+a.out
+#1430160397
+./a.out
+#1430160604
+gcc preLab11.c 
+#1430160605
+./a.out
+#1430161486
+gcc preLab11.c 
+#1430161487
+./a.out
+#1430161515
+gcc preLab11.c 
+#1430161515
+./a.out
+#1430161809
+gcc preLab11.c 
+#1430161810
+./a.out
+#1430161823
+gcc preLab11.c  -Wall
+#1430161910
+./a.out
+#1430161912
+gcc preLab11.c  -Wall
+#1430161937
+./a.out
+#1430162094
+gcc preLab11.c  -Wall
+#1430162094
+./a.out
+#1430162159
+gcc preLab11.c  -Wall
+#1430162160
+./a.out
+#1430162619
+gcc preLab11.c  -Wall
+#1430162969
+./a.out
+#1430162971
+gcc preLab11.c  -Wall
+#1430162971
+./a.out
+#1430162987
+gcc preLab11.c  -Wall
+#1430162988
+./a.out
+#1430163256
+gcc preLab11.c  -Wall
+#1430163301
+./a.out
+#1430163336
+gcc preLab11.c  -Wall
+#1430163337
+./a.out
+#1430163542
+cd ../..
+#1430163542
+ls
+#1430163545
+cd homework4
+#1430163545
+ls
+#1430163547
+make
+#1430163560
+./hw4 positive_words.txt negative_words.txt review1.txt
+#1430164381
+cd spring2015/2050/lab11
+#1430164525
+cd inLab11/
+#1430164526
+ls
+#1430164549
+gcc preLab11.c -Wall -g
+#1430164551
+./a.out
+#1430165213
+gcc parser.c parser.h
+#1430165216
+./a.out
+#1430165234
+gcc parser.c parser.h
+#1430165236
+./a.out
+#1430167364
+ls
+#1430167365
+make
+#1430167491
+mak
+#1430167493
+make
+#1430167723
+ls
+#1430167727
+./lab11
+#1430167742
+./lab11make
+#1430167743
+make
+#1430167746
+./lab11
+#1430167751
+./lab11 input.txt 
+#1430167804
+gdb lab11
+#1430167934
+make
+#1430167937
+./lab11 input.txt 
+#1430168008
+gdb lab11
+#1430168135
+make
+#1430168148
+./lab11 input.txt 
+#1430168162
+gdb lab11
+#1430168323
+y
+#1430168324
+make
+#1430168339
+./lab11 input.txt 
+#1430168361
+gdb lab11
+#1430168500
+make
+#1430168502
+./lab11 input.txt 
+#1430168580
+make
+#1430168594
+./lab11 input.txt 
+#1430168603
+make
+#1430168604
+./lab11 input.txt 
+#1430168935
+make
+#1430168936
+./lab11 input.txt 
+#1430169171
+make
+#1430169172
+./lab11 input.txt 
+#1430169388
+make
+#1430169410
+./lab11 input.txt 
+#1430169451
+make
+#1430169452
+./lab11 input.txt 
+#1430169469
+make
+#1430169471
+./lab11 input.txt 
+#1430169565
+make
+#1430169566
+./lab11 input.txt 
+#1430169642
+gdb lab11
+#1430170016
+y
+#1430170024
+make
+#1430170026
+./lab11 input.txt 
+#1430170035
+make
+#1430170036
+./lab11 input.txt 
+#1430170189
+make
+#1430170190
+./lab11 input.txt 
+#1430170230
+make
+#1430170232
+./lab11 input.txt 
+#1430170274
+make
+#1430170274
+./lab11 input.txt 
+#1430170335
+make
+#1430170336
+./lab11 input.txt 
+#1430170385
+make
+#1430170386
+./lab11 input.txt 
+#1430170423
+make
+#1430170424
+./lab11 input.txt 
+#1430170437
+make
+#1430170439
+./lab11 input.txt 
+#1430170454
+gdb lab11
+#1430170562
+make
+#1430170564
+./lab11 input.txt 
+#1430170590
+make
+#1430170591
+./lab11 input.txt 
+#1430170603
+make
+#1430170605
+./lab11 input.txt 
+#1430171089
+make
+#1430171107
+./lab11 input.txt 
+#1430171121
+make
+#1430171121
+./lab11 input.txt 
+#1430171685
+make
+#1430171688
+./lab11 input.txt 
+#1430171697
+valgrind ./lab11 input.txt 
+#1430171710
+valgrind --leak-check=full ./lab11 input.txt 
+#1430171718
+valgrind --leak-check=full --show-reachable=yes ./lab11 input.txt 
+#1430171768
+make
+#1430171769
+valgrind --leak-check=full --show-reachable=yes ./lab11 input.txt 
+#1430171918
+make
+#1430171942
+./lab11 input.txt 
+#1430172020
+make
+#1430172021
+./lab11 input.txt 
+#1430172495
+make
+#1430172503
+make clear
+#1430172510
+make clean
+#1430172514
+make
+#1430172550
+ls
+#1430172578
+./lab11 input.txt 
+#1430172633
+make
+#1430172633
+./lab11 input.txt 
+#1430172733
+make
+#1430172734
+./lab11 input.txt 
+#1430172752
+cd ..
+#1430172758
+grep "tar"
+#1430172803
+grep "tar" *.txt
+#1430172807
+grep "tar" .*.txt
+#1430172811
+grep "tar" .
+#1430172833
+grep -r "tar" .
+#1430172891
+ tar -czvf *.c Makefile
+#1430172902
+cd lab11/inLab11/
+#1430172904
+ls
+#1430172911
+tar -czvf *.c Makefile
+#1430172922
+ls
+#1430173016
+tar -czvf lab11.tar.gx parser.c parser.h frontend.c Makefile 
+#1430173022
+ls
+#1430173109
+history
+#1430173132
+history | grep "CS_SUBMIT"
+#1430173172
+CS_SUBMIT_CS2050_E LAB11 lab11.tar.gx 
+#1430173176
+CS_SUBMIT_CS2050 E LAB11 lab11.tar.gx 
+#1430173191
+CS_SUBMIT_CS2050E LAB11 lab11.tar.gx 
+#1430173211
+CS_SUBMIT CS2050_E LAB11 lab11.tar.gx 
+#1430173231
+history | grep "SUBMIT"
+#1430173245
+cd ..
+#1430173258
+grep -r "SUBMIT" .
+#1430173263
+grep -r "CS" .
+#1430173288
+history | grep cs_submit
+#1430173378
+make
+#1430173385
+cd lab11/inLab11/
+#1430173385
+ls
+#1430173387
+make
+#1430173402
+rm lab11.tar.gx 
+#1430173410
+tar -czvf lab11.tar.gx parser.c parser.h frontend.c Makefile 
+#1430173416
+lab11.tar.gx
+#1430173421
+tar lab11.tar.gx
+#1430173424
+ls
+#1430173436
+cat frontend.
+#1430173440
+cat frontend.c
+#1430173461
+cs_submit CSCS2050_E LAB7 lab7.c
+#1430173480
+cs_submit CSCS2050_E LAB11 lab11.tar.gx 
+#1430173596
+ls
+#1430173608
+cs_submit CS2050_E LAB11 lab11.tar.gx 
+#1430173662
+tar -czvf lab11.tar.gz parser.c parser.h frontend.c Makefile 
+#1430173667
+cs_submit CS2050_E LAB11 lab11.tar.gz 
+#1430173686
+tar -zxvf lab11.tar.gz
+#1430173691
+ls
+#1430173704
+cp lab11.tar.gz ..
+#1430173706
+cd ..
+#1430173706
+ls
+#1430173712
+tar -zxvf lab11.tar.gz
+#1430173713
+ls
+#1430173720
+cat parser.c - less
+#1430173744
+ls
+#1430173757
+rm frontend.c Makefile parser.*
+#1430173758
+ls
+#1430173763
+cd inLab11/
+#1430173763
+ls
+#1430173765
+cd ..
+#1430173768
+rm lab11.tar.gz 
+#1430173768
+ls
+#1430173771
+cd inLab11/
+#1430173772
+ls
+#1430173786
+logout
+#1430235301
+cd spring2015/2050/homework4/
+#1430235302
+ls
+#1430235304
+make
+#1430235336
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430235390
+rm negative_words
+#1430235392
+ls
+#1430235743
+make
+#1430235745
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430235784
+make
+#1430235801
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430236008
+./hw4 *_words.txt review*.txt
+#1430236255
+make
+#1430236257
+./hw4 *_words.txt review*.txt
+#1430267473
+cd spring2015/2050/homework4/
+#1430267473
+ls
+#1430267864
+mske
+#1430267865
+make
+#1430267875
+./hw4 *_words.txt review*.txt
+#1430268174
+make
+#1430268177
+./hw4
+#1430268704
+make
+#1430268706
+./hw4
+#1430269085
+make
+#1430269086
+./hw4
+#1430269991
+make
+#1430270016
+./hw4
+#1430270038
+make
+#1430270066
+./hw4
+#1430270270
+rm negative_words
+#1430270271
+ls
+#1430270278
+./hw4 positive_words.txt negative_words.txt 
+#1430270288
+./hw4 positive_words.txt negative_words.txt positive_words.txt 
+#1430270362
+./hw4 positive_words.txt negative_words.txt review*.txt 
+#1430270691
+make
+#1430270699
+./hw4 positive_words.txt negative_words.txt positive_words.txt 
+#1430270729
+./hw4 positive_words.txt negative_words.txt negative_words 
+#1430270733
+ls
+#1430270742
+rm negative_words
+#1430270749
+./hw4 positive_words.txt negative_words.txt negative_words.txt 
+#1430270817
+./hw4
+#1430270877
+./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430271274
+./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430271284
+make
+#1430271287
+./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430271338
+make
+#1430271342
+./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430271349
+./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430271368
+make
+#1430271370
+./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430271398
+gdb hw4
+#1430272112
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430272245
+make
+#1430272598
+./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430272603
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430272647
+make
+#1430272649
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430273226
+./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430273231
+./hw4
+#1430273240
+./hw4 positive_words.txt 
+#1430273247
+./hw4 positive_words.txt negative_words.txt 
+#1430273255
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430273268
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430273272
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430273312
+gdb hw4
+#1430273545
+make
+#1430273551
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430273692
+gdb hw4
+#1430273772
+make
+#1430273773
+gdb hw4
+#1430273779
+./hw4 positive_words.txt negative_words.txt review5.txt
+#1430273783
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430273791
+gdb hw4
+#1430274368
+make
+#1430274371
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430274380
+make
+#1430274382
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430274497
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430275635
+make
+#1430275638
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430275682
+make
+#1430275683
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430275707
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430275727
+make
+#1430275738
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430275752
+valgrind ./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430275866
+make
+#1430275868
+valgrind ./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430275970
+make
+#1430275973
+valgrind ./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430276309
+make
+#1430276344
+valgrind ./hw4 positive_words.txt negative_word.txt review9.txt 
+#1430276402
+valgrind ./hw4 positive_words.txt negative_word.txt review1.txt 
+#1430276426
+valgrind --leak-check=full ./hw4 positive_words.txt negative_word.txt review1.txt 
+#1430276532
+make
+#1430276536
+valgrind --leak-check=full ./hw4 positive_words.txt negative_word.txt review1.txt 
+#1430276641
+make
+#1430276646
+valgrind --leak-check=full ./hw4 positive_words.txt negative_word.txt review1.txt 
+#1430276656
+valgrind --leak-check=full ./hw4 positive_words.txt negative_word.txt review9.txt 
+#1430276668
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review9.txt 
+#1430276695
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review*.txt 
+#1430276799
+make
+#1430276803
+valgrind --leak-check=full ./hw4 positive_words.txt negative_words.txt review*.txt 
+#1430276980
+make
+#1430276996
+make clean
+#1430276997
+make
+#1430277074
+make clean
+#1430277075
+make
+#1430277129
+make clean
+#1430277130
+make
+#1430277149
+./hw4 positive_words.txt negative_words.txt review1.txt
+#1430277966
+make
+#1430277969
+./hw4 positive_words.txt negative_words.txt review1.txt
+#1430277993
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430278068
+logout
+#1430322876
+cd spring2015/2050/homework4/
+#1430322877
+ls
+#1430322878
+make
+#1430322882
+./hw4
+#1430322899
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430322946
+valgrind ./hw4 positive_words.txt negative_words.txt review*.txt
+#1430324421
+make
+#1430324424
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430324433
+cat words.c
+#1430324585
+make
+#1430324587
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430324651
+make
+#1430324654
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430324740
+make
+#1430324741
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430325028
+make
+#1430325029
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430325041
+make
+#1430325042
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430325418
+make
+#1430325420
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430326027
+make
+#1430326029
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430326035
+./hw4 positive_words.txt negative_words.txt review9.txt
+#1430326142
+make
+#1430326148
+./hw4 positive_words.txt negative_words.txt review9.txt review*.txt
+#1430326168
+make
+#1430326169
+./hw4 positive_words.txt negative_words.txt review9.txt review*.txt
+#1430345388
+cd spring2015/2050/homework4
+#1430345389
+ls
+#1430345390
+make
+#1430345401
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430346385
+make
+#1430346387
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430346710
+make
+#1430346713
+./hw4 positive_words.txt negative_words.txt review*.txt
+#1430346722
+./hw4 positive_words.txt negative_words.txt review*.txt re5.txt
+#1430346734
+./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430346763
+make
+#1430346765
+./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404169
+cd spring2015/2050/homework4
+#1430404170
+ls
+#1430404171
+make
+#1430404185
+history | grep "./hw4"
+#1430404192
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404238
+make
+#1430404240
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404521
+make
+#1430404523
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404932
+make
+#1430405003
+history | grep "valgrind"
+#1430405014
+valgrind ./hw4 positive_words.txt negative_words.txt review*.txt
+#1430405421
+git init
+#1430405427
+touch README.md
+#1430405433
+git add --all
+#1430405493
+git commit -m "First commit: Working program. Optimization is in progress."
+#1430405506
+git remote add origin git@github.com:PercyODI/SentimentAnalysis.git
+#1430405511
+git push origin master
+#1430405874
+git checkout optimize
+#1430405882
+git refresh
+#1430405886
+git refreash
+#1430405922
+git fetch
+#1430405932
+git checkout optimize
+#1430405975
+make
+#1430405981
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430406012
+make
+#1430406013
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430406095
+git add -all
+#1430406098
+git add --all
+#1430406119
+git commit -m "Deleted unnecessary functions from words.c"
+#1430406131
+git push origin
+#1430406381
+make clean
+#1430406389
+git add --all
+#1430406427
+git commit -m "Reduced function comment tabs. Ran make clean"
+#1430406432
+git push origin
+#1430406626
+git merge optimize
+#1430406636
+git checkout master
+#1430406644
+git merge optimize
+#1430406675
+git branch -d optimize
+#1430406692
+git push origin
+#1430407152
+make
+#1430407158
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430407171
+git add --all
+#1430407191
+git commit -m "Final commit before tar-balling and submitting"
+#1430407196
+git push origin
+#1430407203
+make clean
+#1430407205
+ls
+#1430407213
+history | grep "-tar"
+#1430404169
+cd spring2015/2050/homework4
+#1430404170
+ls
+#1430404171
+make
+#1430404185
+history | grep "./hw4"
+#1430404192
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404238
+make
+#1430404240
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404521
+make
+#1430404523
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430404932
+make
+#1430405003
+history | grep "valgrind"
+#1430405014
+valgrind ./hw4 positive_words.txt negative_words.txt review*.txt
+#1430405421
+git init
+#1430405427
+touch README.md
+#1430405433
+git add --all
+#1430405493
+git commit -m "First commit: Working program. Optimization is in progress."
+#1430405506
+git remote add origin git@github.com:PercyODI/SentimentAnalysis.git
+#1430405511
+git push origin master
+#1430405874
+git checkout optimize
+#1430405882
+git refresh
+#1430405886
+git refreash
+#1430405922
+git fetch
+#1430405932
+git checkout optimize
+#1430405975
+make
+#1430405981
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430406012
+make
+#1430406013
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430406095
+git add -all
+#1430406098
+git add --all
+#1430406119
+git commit -m "Deleted unnecessary functions from words.c"
+#1430406131
+git push origin
+#1430406381
+make clean
+#1430406389
+git add --all
+#1430406427
+git commit -m "Reduced function comment tabs. Ran make clean"
+#1430406432
+git push origin
+#1430406626
+git merge optimize
+#1430406636
+git checkout master
+#1430406644
+git merge optimize
+#1430406675
+git branch -d optimize
+#1430406692
+git push origin
+#1430407152
+make
+#1430407158
+ ./hw4 positive_words.txt negative_words.txt tx.txt review*.txt re5.txt
+#1430407171
+git add --all
+#1430407191
+git commit -m "Final commit before tar-balling and submitting"
+#1430407196
+git push origin
+#1430407203
+make clean
+#1430407205
+ls
+#1430407213
+history | grep "-tar"
+#1430407221
+history | grep "tar"
+#1430407286
+tar -czvf hw4.tar.gz analysis.c analysis.h runner.c words.c words.h Makefile 
+#1430407288
+ls
+#1430407323
+mkdir ~ hw4Test
+#1430407332
+mkdir ~/hw4Test
+#1430407341
+cp hw4.tar.gz ~/hw4Test/
+#1430407345
+cd ~/hw4Test/
+#1430407346
+ls
+#1430407359
+tar -zxvf hw4.tar.gz 
+#1430407360
+ls
+#1430407362
+make
+#1430407367
+./hw4
+#1430407379
+cd ..
+#1430407381
+ls
+#1430407433
+cp spring2015/2050/homework4/positive_words.txt ~/hw4Test/
+#1430407445
+cp spring2015/2050/homework4/negative_words.txt ~/hw4Test/
+#1430407454
+cp spring2015/2050/homework4/review*.txt ~/hw4Test/
+#1430407457
+cd hw4Test/
+#1430407458
+ls
+#1430407465
+./hw4
+#1430407473
+./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430407504
+valgrind ./hw4 positive_words.txt negative_words.txt review1.txt 
+#1430407625
+cd ..
+#1430407634
+cd spring2015/2050/homework4
+#1430407634
+ls
+#1430407655
+cs_submit CS2050_E HW4 hw4.tar.gz 
+#1430407660
+logout

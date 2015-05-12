@@ -1,0 +1,74 @@
+:quit
+Test.f 213890
+Test.f 0
+:r
+:edit
+edit
+Test.signum (-12789)
+Test.signum 0
+test.signum 0
+:edit
+:set editor vim
+:edit
+signum 5
+:load test.hs
+:quit
+:?
+:unload
+Test.signum 5
+test
+signum 5
+:quit
+:quit
+z
+y
+x
+:quit
+:exit
+fst (head (tail [(5,'b'),(1,'c'),(6,'a')]))
+fst (head (tail [(5,'b'),(1,'c'),(6,'a')]
+foldr (max) [5,10,2,8,1]
+foldr (max) 1 [5,10,2,8,1]
+length (filter Char.isLower "aBCde")
+length "ade"
+filter Char.isLower "aBCde"
+length filter Char.isLower "aBCde"
+map Char.isLower "aBCde"
+foldl (-) 1 [4,8,5]
+foldr (-) 1 [4,8,5]
+foldr (*) 1 [4,8,5]
+foldr (+) 0 [3,8,12,5]
+filter Char.isLower "Hello World"
+map Char.toLower "Hello World"
+map Char.toUpper "Hello World"
+read "Hello" + 3
+read "5" + 3
+"Five squared is " ++ show (5*5)
+"Hello " ++ "World"
+'H':'e':'l':'l':'o':[]
+5:1:2:3:4:[]
+5:[1,2,3,4,5]
+0:[1,2]
+[1,2,3]
+[1,2]
+snd (5, hello)
+snd (5, "hello")
+fst (5, "hello")
+(5, 3, 3)
+(5, 3)
+2^5000
+sqrt 2
+5^5-2
+5*4+3
+:quit
+exit ghci
+asdjfk;asdfjklsdfjkl;sfjkl;asdjkl;sdfjkl;sdfjkl;asfjkl;sfjkls;fjkls;df
+qeruiop
+asfdjkl;
+;alskdfja;sdlkfja;sdkjf
+help
+return
+0
+end
+logout
+exit

@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/students/d/pah9qd/fall2014/cs1050/homework3'
+let g:netrw_dirhist_2='/students/d/pah9qd/fall2014/cs1050'
+let g:netrw_dirhist_3='/students/d/pah9qd/fall2014'
+let g:netrw_dirhist_4='/students/d/pah9qd'
+let g:netrw_dirhist_5='/students/d'

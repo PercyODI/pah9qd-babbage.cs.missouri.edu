@@ -1,0 +1,7 @@
+Hello,
+ Your MySQL user is pah9qd
+ Your MySQL Password is e3lc/gtqjp
+ Your MySQL host is dbhost-mysql.cs.missouri.edu 
+ Please contact support.cs@missouri.edu if there any problems,
+ 
+ Computer Science Support
