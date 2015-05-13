@@ -10560,3 +10560,125 @@ ls
 cs_submit CS2050_E HW4 hw4.tar.gz 
 #1430407660
 logout
+#1431467772
+ls
+#1431467816
+git init
+#1431467824
+git add README.md
+#1431467831
+touch README.md
+#1431467832
+git add README.md
+#1431467838
+git add --All
+#1431467841
+git add --all
+#1431467852
+git commit
+#1431467957
+git remote add origin git@github.com:PercyODI/pah9qd-babbage.cs.missouri.edu.git
+#1431467964
+git push origin master
+#1431468041
+cd fall2014/
+#1431468042
+ls
+#1431468115
+cd ..
+#1431468116
+ls
+#1431468125
+git add /fall2014
+#1431468131
+cd fall2014/
+#1431468132
+ls
+#1431468162
+rm -r .git
+#1431468252
+rm -r -f .git
+#1431468254
+ls
+#1431468257
+git ..
+#1431468258
+ls
+#1431468260
+cd ..
+#1431468261
+ls
+#1431468264
+git add -all
+#1431468268
+git add --all
+#1431468284
+git commit origin master -m "Missing CS1050 added in this commit"
+#1431468295
+git
+#1431468297
+git init
+#1431468303
+git add --all
+#1431468316
+git commit
+#1431468339
+ls
+#1431468346
+git add fall2014/
+#1431468347
+ls
+#1431468350
+git commit
+#1431468378
+git commit -m ""
+#1431468394
+git push origin master
+#1431468420
+git add fall2014/
+#1431468463
+cd fall2014/
+#1431468464
+ls
+#1431468466
+ls -a
+#1431468472
+cd cs1050/
+#1431468473
+ls
+#1431468478
+ls -a
+#1431468561
+cd ..
+#1431468570
+git submodule status
+#1431468593
+rm -r -f .gitmodules/
+#1431468597
+git add -all
+#1431468601
+git add --all
+#1431468603
+git commit
+#1431468620
+git push origin master
+#1431468648
+cd .git
+#1431468649
+ls
+#1431468654
+cd ..
+#1431468658
+git submodule status
+#1431468680
+whereis submodule
+#1431468688
+find submodule
+#1431468696
+find .gitmodules
+#1431468731
+git add .gitmodules
+#1431468738
+touch .gitmodules
+#1431468759
+logout

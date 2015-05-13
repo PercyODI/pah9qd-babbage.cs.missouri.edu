@@ -157,18 +157,20 @@ $
 	}
 
 # File marks:
-'0  8  24  ~/spring2015/2050/homework3/.git/config
-'1  1  0  ~/spring2015/2050/lab9/lab9.c
-'2  11  9  ~/spring2015/2050/homework3/calculator.c
-'3  49  0  ~/spring2015/2050/homework3/calculator.c
-'4  5  3  ~/spring2015/2050/lab8/inLab/input.txt
-'5  6  0  ~/spring2015/2050/lab8/preLab/Makefile
-'6  5  16  ~/spring2015/2050/lab8/preLab/Makefile
-'7  11  22  ~/spring2015/2050/lab8/preLab/Makefile
-'8  9  1  ~/spring2015/2050/lab7/inLab/input.txt
-'9  1  5  ~/spring2015/2050/homework2/hw2.c
+'0  1  0  ~/.git/config
+'1  1  0  ~/.gitignore
+'2  8  24  ~/spring2015/2050/homework3/.git/config
+'3  1  0  ~/spring2015/2050/lab9/lab9.c
+'4  11  9  ~/spring2015/2050/homework3/calculator.c
+'5  49  0  ~/spring2015/2050/homework3/calculator.c
+'6  5  3  ~/spring2015/2050/lab8/inLab/input.txt
+'7  6  0  ~/spring2015/2050/lab8/preLab/Makefile
+'8  5  16  ~/spring2015/2050/lab8/preLab/Makefile
+'9  11  22  ~/spring2015/2050/lab8/preLab/Makefile
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/config
+-'  1  0  ~/.gitignore
 -'  8  24  ~/spring2015/2050/homework3/.git/config
 -'  1  0  ~/spring2015/2050/homework3/.git/config
 -'  1  0  ~/spring2015/2050/lab9/lab9.c
@@ -266,11 +268,14 @@ $
 -'  1  0  ~/spring2015/2050/lab3/preLab3/input.txt
 -'  3  0  ~/spring2015/2050/lab3/preLab3/input.txt
 -'  81  4  ~/spring2015/2050/lab3/preLab3/preLab3.c
--'  1  0  ~/spring2015/2050/lab3/preLab3/preLab3.c
--'  63  2  ~/spring2015/2050/lab3/preLab3/preLab3.c
--'  62  1  ~/spring2015/2050/lab3/preLab3/preLab3.c
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/config
+	"	1	0
+
+> ~/.gitignore
+	"	1	0
 
 > ~/spring2015/2050/homework3/.git/config
 	"	8	24
@@ -841,118 +846,3 @@ $
 	+	184	0
 	+	185	19
 	+	5	15
-
-> ~/spring2015/2050/homework1/update.txt
-	"	5	20
-	^	5	21
-	.	5	20
-	+	1	1
-	+	8	0
-	+	6	0
-	+	5	20
-
-> ~/spring2015/2050/lab3/inLab3/lab3.c
-	"	196	7
-	^	208	1
-	.	195	13
-	+	119	25
-	+	136	0
-	+	137	0
-	+	138	24
-	+	139	77
-	+	141	34
-	+	142	33
-	+	143	12
-	+	145	262
-	+	146	10
-	+	146	94
-	+	146	167
-	+	172	0
-	+	173	0
-	+	174	14
-	+	175	57
-	+	176	34
-	+	177	33
-	+	178	12
-	+	180	67
-	+	198	0
-	+	199	0
-	+	200	13
-	+	203	0
-	+	203	9
-	+	205	0
-	+	204	0
-	+	207	0
-	+	205	20
-	+	206	0
-	+	205	43
-	+	16	21
-	+	40	0
-	+	32	0
-	+	230	38
-	+	235	3
-	+	234	18
-	+	240	0
-	+	233	13
-	+	242	16
-	+	234	8
-	+	242	6
-	+	240	17
-	+	242	9
-	+	238	12
-	+	235	16
-	+	238	31
-	+	233	6
-	+	239	0
-	+	258	0
-	+	240	10
-	+	242	23
-	+	238	14
-	+	257	3
-	+	242	51
-	+	250	36
-	+	256	0
-	+	233	3
-	+	244	16
-	+	65	0
-	+	62	26
-	+	115	2
-	+	221	0
-	+	222	13
-	+	230	0
-	+	229	0
-	+	227	47
-	+	228	0
-	+	140	7
-	+	146	10
-	+	146	94
-	+	146	167
-	+	149	0
-	+	146	64
-	+	147	68
-	+	77	6
-	+	79	7
-	+	83	69
-	+	84	0
-	+	53	17
-	+	57	42
-	+	61	25
-	+	56	60
-	+	64	56
-	+	68	17
-	+	216	15
-	+	236	0
-	+	235	0
-	+	235	54
-	+	254	0
-	+	235	49
-	+	235	0
-	+	236	0
-	+	256	0
-	+	254	0
-	+	105	18
-	+	168	0
-	+	169	13
-	+	105	8
-	+	195	13
-	a	36	1
